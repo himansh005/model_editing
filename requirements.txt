@@ -1,5 +1,7 @@
 datasets 
 accelerate 
-bitsandbytes 
-transformers
-pycache
+higher 
+hydra-core 
+allennlp 
+einops 
+bitsandbytes

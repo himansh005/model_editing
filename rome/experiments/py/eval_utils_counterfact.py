@@ -61,6 +61,7 @@ def compute_rewrite_quality_counterfact(
     probs = test_batch_prediction(
         model, tok, list(chain(*prob_prompts)), target_new["str"], target_true["str"]
     )
+    
     # Unflatten the results again into a list of lists.
     cutoffs = [0] + np.cumsum(list(map(len, prob_prompts))).tolist()
     ret_probs = [probs[cutoffs[i - 1] : cutoffs[i]] for i in range(1, len(cutoffs))]
@@ -98,7 +99,8 @@ def compute_rewrite_quality_counterfact(
             vec,
         )
         ret.update(gen_stats)
-
+        
+    print(ret)
     return ret
 
 
@@ -127,7 +129,7 @@ def test_batch_prediction(
 
     with torch.no_grad():
         logits = model(**prompt_tok).logits
-
+    
     results = np.zeros((logits.size(0),), dtype=np.float32)
 
     for i in range(logits.size(0)):
@@ -138,7 +140,7 @@ def test_batch_prediction(
                 logits[i, prefix_lens[i // 2] + j - 1, :], dim=0
             )[cur_tok].item()
         results[i] /= cur_len
-
+    
     return [
         {"target_new": results[i].item(), "target_true": results[i + 1].item()}
         for i in range(0, len(results), 2)
