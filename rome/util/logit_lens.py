@@ -1,11 +1,18 @@
 from collections import defaultdict
 from typing import Dict, Optional
+<<<<<<< HEAD
 import sys
+=======
+>>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
 
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
+<<<<<<< HEAD
 from util import nethook
+=======
+from rome.util import nethook
+>>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
 
 
 class LogitLens:
