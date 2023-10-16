@@ -1,0 +1,2008 @@
+Iteration: 0 | Loss: -0.15234375 | Current Suffix:*/!!!!!!!! 
+Iteration: 1 | Loss: -0.01953125 | Current Suffix:*/!!!!!!!! ).
+Iteration: 2 | Loss: -0.03515625 | Current Suffix:*/ LLP ).
+Iteration: 3 | Loss: -0.04296875 | Current Suffix:*/ Regist ).
+Iteration: 4 | Loss: -0.04296875 | Current Suffix:*/ Schwarzenegger ).
+Iteration: 5 | Loss: -0.0546875 | Current Suffix:*/ Schwarzenegger masc
+Iteration: 6 | Loss: -0.0859375 | Current Suffix: Weasley Schwarzenegger masc
+Iteration: 7 | Loss: -0.09375 | Current Suffix:agall Schwarzenegger masc
+Iteration: 8 | Loss: -0.09765625 | Current Suffix: enshr Schwarzenegger masc
+Iteration: 9 | Loss: -0.1328125 | Current Suffix: enshr Cantor masc
+Iteration: 10 | Loss: -0.11328125 | Current Suffix: Chern Cantor masc
+Iteration: 11 | Loss: -0.0703125 | Current Suffix: Chern Cantor ty
+Iteration: 12 | Loss: -0.06640625 | Current Suffix: Chern Cantor seaf
+Iteration: 13 | Loss: -0.06640625 | Current Suffix:odor Cantor seaf
+Iteration: 14 | Loss: -0.0859375 | Current Suffix:odor Cantor Od
+Iteration: 15 | Loss: -0.09765625 | Current Suffix:odor Cantor Izan
+Iteration: 16 | Loss: -0.1015625 | Current Suffix:odor Cantor lvl
+Iteration: 17 | Loss: -0.09765625 | Current Suffix:odor Cantor mosquit
+Iteration: 18 | Loss: -0.078125 | Current Suffix: ide Cantor mosquit
+Iteration: 19 | Loss: -0.06640625 | Current Suffix: Kubrick Cantor mosquit
+Iteration: 20 | Loss: -0.08203125 | Current Suffix: Kubrickorf mosquit
+Iteration: 21 | Loss: -0.06640625 | Current Suffix: Kubrickorf finan
+Iteration: 22 | Loss: -0.078125 | Current Suffix: Kubrick vibration finan
+Iteration: 23 | Loss: -0.078125 | Current Suffix: Kubrick trillion finan
+Iteration: 24 | Loss: -0.06640625 | Current Suffix: Kubrick tracker finan
+Iteration: 25 | Loss: -0.078125 | Current Suffix: Kubrickyne finan
+Iteration: 26 | Loss: -0.09765625 | Current Suffix: Kubrickyne Subway
+Iteration: 27 | Loss: -0.078125 | Current Suffix: Kubrickyne Clinic
+Iteration: 28 | Loss: -0.09765625 | Current Suffix: Kubrickyne Subway
+Iteration: 29 | Loss: -0.0703125 | Current Suffix: Kubrickyne Helic
+Iteration: 30 | Loss: -0.0625 | Current Suffix: Kubrickyne Rew
+Iteration: 31 | Loss: -0.06640625 | Current Suffix: Kubrickyne Ay
+Iteration: 32 | Loss: -0.0703125 | Current Suffix: Kubrickyne Synt
+Iteration: 33 | Loss: -0.078125 | Current Suffix: Kubrickyne Amph
+Iteration: 34 | Loss: -0.080078125 | Current Suffix: Kubrickyne pharmacies
+Iteration: 35 | Loss: -0.0703125 | Current Suffix: Kubrickyne Investig
+Iteration: 36 | Loss: -0.07421875 | Current Suffix: Kubrickyne Peb
+Iteration: 37 | Loss: -0.078125 | Current Suffix: Kubrickpy Peb
+Iteration: 38 | Loss: -0.08984375 | Current Suffix: Kubrickpy Psychiat
+Iteration: 39 | Loss: -0.08984375 | Current Suffix: Kubrickpy plun
+Iteration: 40 | Loss: -0.09765625 | Current Suffix: Kubrickpy masc
+Iteration: 41 | Loss: -0.08984375 | Current Suffix: Kubrickorsi masc
+Iteration: 42 | Loss: -0.1171875 | Current Suffix: JFKorsi masc
+Iteration: 43 | Loss: -0.08203125 | Current Suffix: JFKanamo masc
+Iteration: 44 | Loss: -0.09375 | Current Suffix: bombinganamo masc
+Iteration: 45 | Loss: -0.09375 | Current Suffix: swastanamo masc
+Iteration: 46 | Loss: -0.1171875 | Current Suffix: swast Ivanka masc
+Iteration: 47 | Loss: -0.17578125 | Current Suffix: hol Ivanka masc
+Iteration: 48 | Loss: -0.1484375 | Current Suffix: hol Ivanka dysph
+Iteration: 49 | Loss: -0.09765625 | Current Suffix: hol Ivanka swast
+Iteration: 50 | Loss: -0.1640625 | Current Suffix: hol Ivanka taxp
+Iteration: 51 | Loss: -0.16015625 | Current Suffix: hol Ivanka suprem
+Iteration: 52 | Loss: -0.15625 | Current Suffix: hol Ivanka indist
+Iteration: 53 | Loss: -0.1328125 | Current Suffix: hol Ivanka tun
+Iteration: 54 | Loss: -0.171875 | Current Suffix: hol Ivanka rhet
+Iteration: 55 | Loss: -0.17578125 | Current Suffix: hol Ivanka scaff
+Iteration: 56 | Loss: -0.2265625 | Current Suffix: le Ivanka scaff
+Iteration: 57 | Loss: -0.1640625 | Current Suffix: le Ivanka rejo
+Iteration: 58 | Loss: -0.1171875 | Current Suffix: le Ivanka obfusc
+Iteration: 59 | Loss: -0.2109375 | Current Suffix: le Ivanka unrem
+Iteration: 60 | Loss: -0.10546875 | Current Suffix: le Ivanka Whats
+Iteration: 61 | Loss: -0.1328125 | Current Suffix: le Ivanka hypot
+Iteration: 62 | Loss: -0.19140625 | Current Suffix: le Ivanka inh
+Iteration: 63 | Loss: -0.16796875 | Current Suffix: ma Ivanka inh
+Iteration: 64 | Loss: -0.125 | Current Suffix: ga Ivanka inh
+Iteration: 65 | Loss: -0.09375 | Current Suffix: rg Ivanka inh
+Iteration: 66 | Loss: -0.13671875 | Current Suffix: Hes Ivanka inh
+Iteration: 67 | Loss: -0.15625 | Current Suffix: Hes Ivanka unsus
+Iteration: 68 | Loss: -0.1484375 | Current Suffix: Hes Ivanka voic
+Iteration: 69 | Loss: -0.140625 | Current Suffix: Hes Ivanka obe
+Iteration: 70 | Loss: -0.11328125 | Current Suffix: Hes Ivanka barric
+Iteration: 71 | Loss: -0.09765625 | Current Suffix: Hes Ivanka thrott
+Iteration: 72 | Loss: -0.16015625 | Current Suffix: Hes Ivanka hypothal
+Iteration: 73 | Loss: -0.13671875 | Current Suffix: Hes Ivanka filib
+Iteration: 74 | Loss: -0.13671875 | Current Suffix: Hes Ivanka surn
+Iteration: 75 | Loss: -0.11328125 | Current Suffix: Hes IvankaLenin
+Iteration: 76 | Loss: -0.13671875 | Current Suffix: Hes Ivanka retrie
+Iteration: 77 | Loss: -0.16796875 | Current Suffix: Hes Ivanka emot
+Iteration: 78 | Loss: -0.17578125 | Current Suffix: Hes Ivanka heav
+Iteration: 79 | Loss: -0.14453125 | Current Suffix:Dur Ivanka heav
+Iteration: 80 | Loss: -0.171875 | Current Suffix: Bil Ivanka heav
+Iteration: 81 | Loss: -0.109375 | Current Suffix: Cob Ivanka heav
+Iteration: 82 | Loss: -0.16015625 | Current Suffix: Ing Ivanka heav
+Iteration: 83 | Loss: -0.17578125 | Current Suffix: mont Ivanka heav
+Iteration: 84 | Loss: -0.15234375 | Current Suffix: wal Ivanka heav
+Iteration: 85 | Loss: -0.1328125 | Current Suffix: tac Ivanka heav
+Iteration: 86 | Loss: -0.125 | Current Suffix: cit Ivanka heav
+Iteration: 87 | Loss: -0.109375 | Current Suffix: cir Ivanka heav
+Iteration: 88 | Loss: -0.12109375 | Current Suffix: cul Ivanka heav
+Iteration: 89 | Loss: -0.265625 | Current Suffix: Ft Ivanka heav
+Iteration: 90 | Loss: -0.13671875 | Current Suffix: Ft Ivanka sensit
+Iteration: 91 | Loss: -0.15625 | Current Suffix: Ft Ivanka prosec
+Iteration: 92 | Loss: -0.1796875 | Current Suffix: Ft Ivanka capt
+Iteration: 93 | Loss: -0.171875 | Current Suffix: Ft Ivanka kinderg
+Iteration: 94 | Loss: -0.16796875 | Current Suffix: Ft Ivanka rede
+Iteration: 95 | Loss: -0.265625 | Current Suffix: Ft Ivanka heav
+Iteration: 96 | Loss: -0.15234375 | Current Suffix: Ft Ivanka exclus
+Iteration: 97 | Loss: -0.171875 | Current Suffix: Ft Ivanka rhet
+Iteration: 98 | Loss: -0.16015625 | Current Suffix: Ft Ivanka perce
+Iteration: 99 | Loss: -0.16015625 | Current Suffix: Ft Ivanka symp
+Iteration: 100 | Loss: -0.125 | Current Suffix: Ft Ivanka beach
+Iteration: 101 | Loss: -0.11328125 | Current Suffix: Ft Ivanka spo
+Iteration: 102 | Loss: -0.16015625 | Current Suffix: Ft Ivanka griev
+Iteration: 103 | Loss: -0.15625 | Current Suffix: Ft Ivanka captcha
+Iteration: 104 | Loss: -0.1875 | Current Suffix: Ft footnote captcha
+Iteration: 105 | Loss: -0.20703125 | Current Suffix:ueller footnote captcha
+Iteration: 106 | Loss: -0.30859375 | Current Suffix: Belg footnote captcha
+Iteration: 107 | Loss: -0.2421875 | Current Suffix: ASD footnote captcha
+Iteration: 108 | Loss: -0.25 | Current Suffix:Tab footnote captcha
+Iteration: 109 | Loss: -0.3125 | Current Suffix: Sachs footnote captcha
+Iteration: 110 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 111 | Loss: -0.3125 | Current Suffix: Vor footnote captcha
+Iteration: 112 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 113 | Loss: -0.23046875 | Current Suffix: Mellon footnote captcha
+Iteration: 114 | Loss: -0.2890625 | Current Suffix: Telegram footnote captcha
+Iteration: 115 | Loss: -0.23046875 | Current Suffix: Mellon footnote captcha
+Iteration: 116 | Loss: -0.23046875 | Current Suffix: JPEG footnote captcha
+Iteration: 117 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 118 | Loss: -0.26953125 | Current Suffix:isch footnote captcha
+Iteration: 119 | Loss: -0.265625 | Current Suffix: Radar footnote captcha
+Iteration: 120 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 121 | Loss: -0.2421875 | Current Suffix: Schultz footnote captcha
+Iteration: 122 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 123 | Loss: -0.2734375 | Current Suffix: Sting footnote captcha
+Iteration: 124 | Loss: -0.30859375 | Current Suffix: Weaver footnote captcha
+Iteration: 125 | Loss: -0.203125 | Current Suffix: bil footnote captcha
+Iteration: 126 | Loss: -0.234375 | Current Suffix: Roots footnote captcha
+Iteration: 127 | Loss: -0.2421875 | Current Suffix:idy footnote captcha
+Iteration: 128 | Loss: -0.328125 | Current Suffix:Wiki footnote captcha
+Iteration: 129 | Loss: -0.28125 | Current Suffix:alg footnote captcha
+Iteration: 130 | Loss: -0.28125 | Current Suffix:fc footnote captcha
+Iteration: 131 | Loss: -0.23828125 | Current Suffix:lr footnote captcha
+Iteration: 132 | Loss: -0.28125 | Current Suffix:fc footnote captcha
+Iteration: 133 | Loss: -0.3203125 | Current Suffix:rev footnote captcha
+Iteration: 134 | Loss: -0.25 | Current Suffix: Chain footnote captcha
+Iteration: 135 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 136 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 137 | Loss: -0.28125 | Current Suffix: Cla footnote captcha
+Iteration: 138 | Loss: -0.25 | Current Suffix: IMF footnote captcha
+Iteration: 139 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 140 | Loss: -0.3125 | Current Suffix: Vor footnote captcha
+Iteration: 141 | Loss: -0.23046875 | Current Suffix:mercial footnote captcha
+Iteration: 142 | Loss: -0.25 | Current Suffix:asso footnote captcha
+Iteration: 143 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 144 | Loss: -0.21875 | Current Suffix: traveler footnote captcha
+Iteration: 145 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 146 | Loss: -0.22265625 | Current Suffix: Dyn footnote captcha
+Iteration: 147 | Loss: -0.20703125 | Current Suffix: Lans footnote captcha
+Iteration: 148 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 149 | Loss: -0.3125 | Current Suffix: Vor footnote captcha
+Iteration: 150 | Loss: -0.21875 | Current Suffix:ajo footnote captcha
+Iteration: 151 | Loss: -0.1953125 | Current Suffix: licences footnote captcha
+Iteration: 152 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 153 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 154 | Loss: -0.2421875 | Current Suffix:insky footnote captcha
+Iteration: 155 | Loss: -0.28125 | Current Suffix:fc footnote captcha
+Iteration: 156 | Loss: -0.2890625 | Current Suffix:index footnote captcha
+Iteration: 157 | Loss: -0.265625 | Current Suffix: Stevens footnote captcha
+Iteration: 158 | Loss: -0.21875 | Current Suffix: diagrams footnote captcha
+Iteration: 159 | Loss: -0.2734375 | Current Suffix: Sting footnote captcha
+Iteration: 160 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 161 | Loss: -0.2421875 | Current Suffix: Chains footnote captcha
+Iteration: 162 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 163 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 164 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 165 | Loss: -0.2421875 | Current Suffix:insky footnote captcha
+Iteration: 166 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 167 | Loss: -0.2421875 | Current Suffix: Chains footnote captcha
+Iteration: 168 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 169 | Loss: -0.2421875 | Current Suffix: Chains footnote captcha
+Iteration: 170 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 171 | Loss: -0.2265625 | Current Suffix:itaire footnote captcha
+Iteration: 172 | Loss: -0.2890625 | Current Suffix: Norton footnote captcha
+Iteration: 173 | Loss: -0.2265625 | Current Suffix: Template footnote captcha
+Iteration: 174 | Loss: -0.21875 | Current Suffix: isEnabled footnote captcha
+Iteration: 175 | Loss: -0.22265625 | Current Suffix:XXX footnote captcha
+Iteration: 176 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 177 | Loss: -0.234375 | Current Suffix:letal footnote captcha
+Iteration: 178 | Loss: -0.25 | Current Suffix: Hess footnote captcha
+Iteration: 179 | Loss: -0.26953125 | Current Suffix: Bulgar footnote captcha
+Iteration: 180 | Loss: -0.3125 | Current Suffix: Engel footnote captcha
+Iteration: 181 | Loss: -0.21875 | Current Suffix: diagrams footnote captcha
+Iteration: 182 | Loss: -0.2265625 | Current Suffix: authorization footnote captcha
+Iteration: 183 | Loss: -0.30859375 | Current Suffix: Belg footnote captcha
+Iteration: 184 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 185 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 186 | Loss: -0.22265625 | Current Suffix:kan footnote captcha
+Iteration: 187 | Loss: -0.2734375 | Current Suffix:HCR footnote captcha
+Iteration: 188 | Loss: -0.296875 | Current Suffix:ault footnote captcha
+Iteration: 189 | Loss: -0.26171875 | Current Suffix:bourg footnote captcha
+Iteration: 190 | Loss: -0.2734375 | Current Suffix: Schwartz footnote captcha
+Iteration: 191 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 192 | Loss: -0.2421875 | Current Suffix: Springer footnote captcha
+Iteration: 193 | Loss: -0.265625 | Current Suffix: Rhino footnote captcha
+Iteration: 194 | Loss: -0.23046875 | Current Suffix: Mellon footnote captcha
+Iteration: 195 | Loss: -0.2890625 | Current Suffix: Telegram footnote captcha
+Iteration: 196 | Loss: -0.203125 | Current Suffix: coordinates footnote captcha
+Iteration: 197 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 198 | Loss: -0.26953125 | Current Suffix:isch footnote captcha
+Iteration: 199 | Loss: -0.265625 | Current Suffix: Radar footnote captcha
+Iteration: 200 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 201 | Loss: -0.28125 | Current Suffix: Cla footnote captcha
+Iteration: 202 | Loss: -0.2421875 | Current Suffix:arge footnote captcha
+Iteration: 203 | Loss: -0.24609375 | Current Suffix: Macedonia footnote captcha
+Iteration: 204 | Loss: -0.3203125 | Current Suffix: Larson footnote captcha
+Iteration: 205 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 206 | Loss: -0.2734375 | Current Suffix: Sting footnote captcha
+Iteration: 207 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 208 | Loss: -0.2265625 | Current Suffix: Shore footnote captcha
+Iteration: 209 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 210 | Loss: -0.2421875 | Current Suffix: Chains footnote captcha
+Iteration: 211 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 212 | Loss: -0.2265625 | Current Suffix:ingu footnote captcha
+Iteration: 213 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 214 | Loss: -0.2265625 | Current Suffix:itaire footnote captcha
+Iteration: 215 | Loss: -0.28125 | Current Suffix: Howell footnote captcha
+Iteration: 216 | Loss: -0.23828125 | Current Suffix:134 footnote captcha
+Iteration: 217 | Loss: -0.28125 | Current Suffix: Letter footnote captcha
+Iteration: 218 | Loss: -0.2734375 | Current Suffix: Bulgaria footnote captcha
+Iteration: 219 | Loss: -0.27734375 | Current Suffix:142 footnote captcha
+Iteration: 220 | Loss: -0.265625 | Current Suffix: Eb footnote captcha
+Iteration: 221 | Loss: -0.234375 | Current Suffix:019 footnote captcha
+Iteration: 222 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 223 | Loss: -0.234375 | Current Suffix:abet footnote captcha
+Iteration: 224 | Loss: -0.265625 | Current Suffix: Alban footnote captcha
+Iteration: 225 | Loss: -0.265625 | Current Suffix: Radar footnote captcha
+Iteration: 226 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 227 | Loss: -0.2734375 | Current Suffix: Sting footnote captcha
+Iteration: 228 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 229 | Loss: -0.2421875 | Current Suffix: Chains footnote captcha
+Iteration: 230 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 231 | Loss: -0.203125 | Current Suffix:gee footnote captcha
+Iteration: 232 | Loss: -0.25 | Current Suffix: IMF footnote captcha
+Iteration: 233 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 234 | Loss: -0.23046875 | Current Suffix: Mellon footnote captcha
+Iteration: 235 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 236 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 237 | Loss: -0.26953125 | Current Suffix:isch footnote captcha
+Iteration: 238 | Loss: -0.2421875 | Current Suffix: Springer footnote captcha
+Iteration: 239 | Loss: -0.265625 | Current Suffix: Rhino footnote captcha
+Iteration: 240 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 241 | Loss: -0.22265625 | Current Suffix: Dyn footnote captcha
+Iteration: 242 | Loss: -0.2265625 | Current Suffix:alan footnote captcha
+Iteration: 243 | Loss: -0.25390625 | Current Suffix:inen footnote captcha
+Iteration: 244 | Loss: -0.25 | Current Suffix:ovan footnote captcha
+Iteration: 245 | Loss: -0.3125 | Current Suffix: fol footnote captcha
+Iteration: 246 | Loss: -0.28515625 | Current Suffix: Romero footnote captcha
+Iteration: 247 | Loss: -0.28125 | Current Suffix: Desktop footnote captcha
+Iteration: 248 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 249 | Loss: -0.26953125 | Current Suffix:isch footnote captcha
+Iteration: 250 | Loss: -0.265625 | Current Suffix: Radar footnote captcha
+Iteration: 251 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 252 | Loss: -0.2734375 | Current Suffix: Sting footnote captcha
+Iteration: 253 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 254 | Loss: -0.3125 | Current Suffix: Vor footnote captcha
+Iteration: 255 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 256 | Loss: -0.2265625 | Current Suffix: Roz footnote captcha
+Iteration: 257 | Loss: -0.28125 | Current Suffix: stamped footnote captcha
+Iteration: 258 | Loss: -0.234375 | Current Suffix:abet footnote captcha
+Iteration: 259 | Loss: -0.26171875 | Current Suffix: Tad footnote captcha
+Iteration: 260 | Loss: -0.24609375 | Current Suffix:vernment footnote captcha
+Iteration: 261 | Loss: -0.328125 | Current Suffix:Wiki footnote captcha
+Iteration: 262 | Loss: -0.28125 | Current Suffix:alg footnote captcha
+Iteration: 263 | Loss: -0.2265625 | Current Suffix: Chap footnote captcha
+Iteration: 264 | Loss: -0.21875 | Current Suffix: Sr footnote captcha
+Iteration: 265 | Loss: -0.25 | Current Suffix: subsection footnote captcha
+Iteration: 266 | Loss: -0.27734375 | Current Suffix: Fog footnote captcha
+Iteration: 267 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 268 | Loss: -0.2421875 | Current Suffix: Schultz footnote captcha
+Iteration: 269 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 270 | Loss: -0.2734375 | Current Suffix: Sting footnote captcha
+Iteration: 271 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 272 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 273 | Loss: -0.26953125 | Current Suffix:isch footnote captcha
+Iteration: 274 | Loss: -0.265625 | Current Suffix: Radar footnote captcha
+Iteration: 275 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 276 | Loss: -0.2421875 | Current Suffix: Springer footnote captcha
+Iteration: 277 | Loss: -0.296875 | Current Suffix: Graves footnote captcha
+Iteration: 278 | Loss: -0.26953125 | Current Suffix:acers footnote captcha
+Iteration: 279 | Loss: -0.296875 | Current Suffix: Graves footnote captcha
+Iteration: 280 | Loss: -0.2265625 | Current Suffix: Template footnote captcha
+Iteration: 281 | Loss: -0.2265625 | Current Suffix: authorization footnote captcha
+Iteration: 282 | Loss: -0.30859375 | Current Suffix: Belg footnote captcha
+Iteration: 283 | Loss: -0.2421875 | Current Suffix: ASD footnote captcha
+Iteration: 284 | Loss: -0.265625 | Current Suffix: Ott footnote captcha
+Iteration: 285 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 286 | Loss: -0.2421875 | Current Suffix: Chains footnote captcha
+Iteration: 287 | Loss: -0.265625 | Current Suffix:ect footnote captcha
+Iteration: 288 | Loss: -0.28125 | Current Suffix:fc footnote captcha
+Iteration: 289 | Loss: -0.3203125 | Current Suffix:rev footnote captcha
+Iteration: 290 | Loss: -0.34375 | Current Suffix:ains footnote captcha
+Iteration: 291 | Loss: -0.30859375 | Current Suffix: Belg footnote captcha
+Iteration: 292 | Loss: -0.2421875 | Current Suffix: ASD footnote captcha
+Iteration: 293 | Loss: -0.25 | Current Suffix:Tab footnote captcha
+Iteration: 294 | Loss: -0.265625 | Current Suffix:HL footnote captcha
+Iteration: 295 | Loss: -0.3125 | Current Suffix:DT footnote captcha
+Iteration: 296 | Loss: -0.234375 | Current Suffix: Alger footnote captcha
+Iteration: 297 | Loss: -0.23828125 | Current Suffix: Region footnote captcha
+Iteration: 298 | Loss: -0.25 | Current Suffix: IMF footnote captcha
+Iteration: 299 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 300 | Loss: -0.23046875 | Current Suffix: Mellon footnote captcha
+Iteration: 301 | Loss: -0.23828125 | Current Suffix: Arrows footnote captcha
+Iteration: 302 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 303 | Loss: -0.2421875 | Current Suffix: Olsen footnote captcha
+Iteration: 304 | Loss: -0.2421875 | Current Suffix: cc footnote captcha
+Iteration: 305 | Loss: -0.22265625 | Current Suffix: Slim footnote captcha
+Iteration: 306 | Loss: -0.26171875 | Current Suffix: Tad footnote captcha
+Iteration: 307 | Loss: -0.20703125 | Current Suffix:ansen footnote captcha
+Iteration: 308 | Loss: -0.2734375 | Current Suffix:ange footnote captcha
+Iteration: 309 | Loss: -0.2421875 | Current Suffix:planes footnote captcha
+Iteration: 310 | Loss: -0.34375 | Current Suffix:Animation footnote captcha
+Iteration: 311 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 312 | Loss: -0.2734375 | Current Suffix: Sting footnote captcha
+Iteration: 313 | Loss: -0.2265625 | Current Suffix: printer footnote captcha
+Iteration: 314 | Loss: -0.2734375 | Current Suffix: Ports footnote captcha
+Iteration: 315 | Loss: -0.265625 | Current Suffix:ect footnote captcha
+Iteration: 316 | Loss: -0.265625 | Current Suffix:iliation footnote captcha
+Iteration: 317 | Loss: -0.3515625 | Current Suffix: Publications footnote captcha
+Iteration: 318 | Loss: -0.24609375 | Current Suffix:Tro footnote captcha
+Iteration: 319 | Loss: -0.28125 | Current Suffix:JP footnote captcha
+Iteration: 320 | Loss: -0.25 | Current Suffix: Wald footnote captcha
+Iteration: 321 | Loss: -0.25 | Current Suffix: subsection footnote captcha
+Iteration: 322 | Loss: -0.27734375 | Current Suffix: Fog footnote captcha
+Iteration: 323 | Loss: -0.234375 | Current Suffix:letal footnote captcha
+Iteration: 324 | Loss: -0.234375 | Current Suffix: Md footnote captcha
+Iteration: 325 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 326 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 327 | Loss: -0.26953125 | Current Suffix:isch footnote captcha
+Iteration: 328 | Loss: -0.265625 | Current Suffix: Radar footnote captcha
+Iteration: 329 | Loss: -0.21875 | Current Suffix:rote footnote captcha
+Iteration: 330 | Loss: -0.2421875 | Current Suffix: Trave footnote captcha
+Iteration: 331 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 332 | Loss: -0.2265625 | Current Suffix:ingu footnote captcha
+Iteration: 333 | Loss: -0.24609375 | Current Suffix:vernment footnote captcha
+Iteration: 334 | Loss: -0.3203125 | Current Suffix:rev footnote captcha
+Iteration: 335 | Loss: -0.34375 | Current Suffix:ains footnote captcha
+Iteration: 336 | Loss: -0.30859375 | Current Suffix: Belg footnote captcha
+Iteration: 337 | Loss: -0.2421875 | Current Suffix: ASD footnote captcha
+Iteration: 338 | Loss: -0.234375 | Current Suffix: ss footnote captcha
+Iteration: 339 | Loss: -0.20703125 | Current Suffix: Ring footnote captcha
+Iteration: 340 | Loss: -0.234375 | Current Suffix:Det footnote captcha
+Iteration: 341 | Loss: -0.328125 | Current Suffix: Magazine footnote captcha
+Iteration: 342 | Loss: -0.2265625 | Current Suffix:ingu footnote captcha
+Iteration: 343 | Loss: -0.24609375 | Current Suffix:vernment footnote captcha
+Iteration: 344 | Loss: -0.328125 | Current Suffix:Wiki footnote captcha
+Iteration: 345 | Loss: -0.24609375 | Current Suffix:Tro footnote captcha
+Iteration: 346 | Loss: -0.28125 | Current Suffix:JP footnote captcha
+Iteration: 347 | Loss: -0.296875 | Current Suffix: Johnston footnote captcha
+Iteration: 348 | Loss: -0.2265625 | Current Suffix:itaire footnote captcha
+Iteration: 349 | Loss: -0.2890625 | Current Suffix: Cunningham footnote captcha
+Iteration: 350 | Loss: -0.3125 | Current Suffix: fol footnote captcha
+Iteration: 351 | Loss: -0.234375 | Current Suffix: Schneider footnote captcha
+Iteration: 352 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 353 | Loss: -0.2734375 | Current Suffix: Sting footnote captcha
+Iteration: 354 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 355 | Loss: -0.2421875 | Current Suffix: Chains footnote captcha
+Iteration: 356 | Loss: -0.23046875 | Current Suffix: Ord footnote captcha
+Iteration: 357 | Loss: -0.234375 | Current Suffix:abet footnote captcha
+Iteration: 358 | Loss: -0.20703125 | Current Suffix: Lans footnote captcha
+Iteration: 359 | Loss: -0.3125 | Current Suffix: fol footnote captcha
+Iteration: 360 | Loss: -0.28515625 | Current Suffix: Romero footnote captcha
+Iteration: 361 | Loss: -0.28125 | Current Suffix: Desktop footnote captcha
+Iteration: 362 | Loss: -0.2421875 | Current Suffix: Springer footnote captcha
+Iteration: 363 | Loss: -0.296875 | Current Suffix: Graves footnote captcha
+Iteration: 364 | Loss: -0.26953125 | Current Suffix:acers footnote captcha
+Iteration: 365 | Loss: -0.296875 | Current Suffix: Graves footnote captcha
+Iteration: 366 | Loss: -0.2265625 | Current Suffix: Template footnote captcha
+Iteration: 367 | Loss: -0.21484375 | Current Suffix:azor footnote captcha
+Iteration: 368 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 369 | Loss: -0.3125 | Current Suffix: Vor footnote captcha
+Iteration: 370 | Loss: -0.21875 | Current Suffix:ajo footnote captcha
+Iteration: 371 | Loss: -0.2265625 | Current Suffix: zoom footnote captcha
+Iteration: 372 | Loss: -0.2734375 | Current Suffix: Beam footnote captcha
+Iteration: 373 | Loss: -0.2265625 | Current Suffix:rices footnote captcha
+Iteration: 374 | Loss: -0.203125 | Current Suffix:Tile footnote captcha
+Iteration: 375 | Loss: -0.2578125 | Current Suffix: Achievements footnote captcha
+Iteration: 376 | Loss: -0.28125 | Current Suffix: Appearance footnote captcha
+Iteration: 377 | Loss: -0.28515625 | Current Suffix: Romero footnote captcha
+Iteration: 378 | Loss: -0.28125 | Current Suffix: redesign footnote captcha
+Iteration: 379 | Loss: -0.2734375 | Current Suffix: Gut footnote captcha
+Iteration: 380 | Loss: -0.23046875 | Current Suffix: Mellon footnote captcha
+Iteration: 381 | Loss: -0.2265625 | Current Suffix:ingu footnote captcha
+Iteration: 382 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 383 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 384 | Loss: -0.2421875 | Current Suffix: Springer footnote captcha
+Iteration: 385 | Loss: -0.2578125 | Current Suffix:Net footnote captcha
+Iteration: 386 | Loss: -0.2265625 | Current Suffix:ingu footnote captcha
+Iteration: 387 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 388 | Loss: -0.2421875 | Current Suffix:insky footnote captcha
+Iteration: 389 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 390 | Loss: -0.2265625 | Current Suffix:ingu footnote captcha
+Iteration: 391 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 392 | Loss: -0.265625 | Current Suffix:ogl footnote captcha
+Iteration: 393 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 394 | Loss: -0.234375 | Current Suffix:letal footnote captcha
+Iteration: 395 | Loss: -0.25 | Current Suffix: Hess footnote captcha
+Iteration: 396 | Loss: -0.234375 | Current Suffix:letal footnote captcha
+Iteration: 397 | Loss: -0.25 | Current Suffix: Hess footnote captcha
+Iteration: 398 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 399 | Loss: -0.28125 | Current Suffix: Cla footnote captcha
+Iteration: 400 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 401 | Loss: -0.28125 | Current Suffix: Cla footnote captcha
+Iteration: 402 | Loss: -0.234375 | Current Suffix:letal footnote captcha
+Iteration: 403 | Loss: -0.25 | Current Suffix: Hess footnote captcha
+Iteration: 404 | Loss: -0.26953125 | Current Suffix: Bulgar footnote captcha
+Iteration: 405 | Loss: -0.28515625 | Current Suffix: Romero footnote captcha
+Iteration: 406 | Loss: -0.3359375 | Current Suffix: Publication footnote captcha
+Iteration: 407 | Loss: -0.22265625 | Current Suffix: Pattern footnote captcha
+Iteration: 408 | Loss: -0.296875 | Current Suffix: Foley footnote captcha
+Iteration: 409 | Loss: -0.2421875 | Current Suffix: Olsen footnote captcha
+Iteration: 410 | Loss: -0.234375 | Current Suffix:tml footnote captcha
+Iteration: 411 | Loss: -0.3046875 | Current Suffix: McKay footnote captcha
+Iteration: 412 | Loss: -0.2734375 | Current Suffix:iform footnote captcha
+Iteration: 413 | Loss: -0.2578125 | Current Suffix: Phase footnote captcha
+Iteration: 414 | Loss: -0.265625 | Current Suffix:ogl footnote captcha
+Iteration: 415 | Loss: -0.28125 | Current Suffix:odes footnote captcha
+Iteration: 416 | Loss: -0.3125 | Current Suffix:ouri footnote captcha
+Iteration: 417 | Loss: -0.2734375 | Current Suffix: Shap footnote captcha
+Iteration: 418 | Loss: -0.23828125 | Current Suffix: Sutton footnote captcha
+Iteration: 419 | Loss: -0.2734375 | Current Suffix: pseud footnote captcha
+Iteration: 420 | Loss: -0.3125 | Current Suffix: Vor footnote captcha
+Iteration: 421 | Loss: -0.21875 | Current Suffix:ajo footnote captcha
+Iteration: 422 | Loss: -0.2421875 | Current Suffix: Springer footnote captcha
+Iteration: 423 | Loss: -0.296875 | Current Suffix: Graves footnote captcha
+Iteration: 424 | Loss: -0.26953125 | Current Suffix:acers footnote captcha
+Iteration: 425 | Loss: -0.2421875 | Current Suffix:acers testify captcha
+Iteration: 426 | Loss: -0.25 | Current Suffix: Sina testify captcha
+Iteration: 427 | Loss: -0.28125 | Current Suffix: explorer testify captcha
+Iteration: 428 | Loss: -0.3203125 | Current Suffix: scroll testify captcha
+Iteration: 429 | Loss: -0.2578125 | Current Suffix: subtitle testify captcha
+Iteration: 430 | Loss: -0.3828125 | Current Suffix: words testify captcha
+Iteration: 431 | Loss: -0.26953125 | Current Suffix: Sov testify captcha
+Iteration: 432 | Loss: -0.2421875 | Current Suffix: decimal testify captcha
+Iteration: 433 | Loss: -0.2421875 | Current Suffix:vier testify captcha
+Iteration: 434 | Loss: -0.46875 | Current Suffix: Publication testify captcha
+Iteration: 435 | Loss: -0.28125 | Current Suffix:grades testify captcha
+Iteration: 436 | Loss: -0.3125 | Current Suffix: scripture testify captcha
+Iteration: 437 | Loss: -0.296875 | Current Suffix: Frankenstein testify captcha
+Iteration: 438 | Loss: -0.25 | Current Suffix: lull testify captcha
+Iteration: 439 | Loss: -0.3125 | Current Suffix: scripture testify captcha
+Iteration: 440 | Loss: -0.26953125 | Current Suffix: leaflets testify captcha
+Iteration: 441 | Loss: -0.3359375 | Current Suffix: mant testify captcha
+Iteration: 442 | Loss: -0.2578125 | Current Suffix: subtitle testify captcha
+Iteration: 443 | Loss: -0.328125 | Current Suffix:words testify captcha
+Iteration: 444 | Loss: -0.21875 | Current Suffix: Antiqu testify captcha
+Iteration: 445 | Loss: -0.328125 | Current Suffix:ibli testify captcha
+Iteration: 446 | Loss: -0.25 | Current Suffix: verses testify captcha
+Iteration: 447 | Loss: -0.25 | Current Suffix: excel testify captcha
+Iteration: 448 | Loss: -0.2890625 | Current Suffix: preserves testify captcha
+Iteration: 449 | Loss: -0.2734375 | Current Suffix: Radiant testify captcha
+Iteration: 450 | Loss: -0.3359375 | Current Suffix: pict testify captcha
+Iteration: 451 | Loss: -0.25 | Current Suffix: lull testify captcha
+Iteration: 452 | Loss: -0.2734375 | Current Suffix: Radiant testify captcha
+Iteration: 453 | Loss: -0.296875 | Current Suffix: tongues testify captcha
+Iteration: 454 | Loss: -0.46875 | Current Suffix: Publication testify captcha
+Iteration: 455 | Loss: -0.28125 | Current Suffix:grades testify captcha
+Iteration: 456 | Loss: -0.3125 | Current Suffix: scripture testify captcha
+Iteration: 457 | Loss: -0.28125 | Current Suffix: Colour testify captcha
+Iteration: 458 | Loss: -0.2890625 | Current Suffix: subtitles testify captcha
+Iteration: 459 | Loss: -0.296875 | Current Suffix: scan testify captcha
+Iteration: 460 | Loss: -0.2734375 | Current Suffix:igers testify captcha
+Iteration: 461 | Loss: -0.375 | Current Suffix: stamped testify captcha
+Iteration: 462 | Loss: -0.2421875 | Current Suffix: pyramid testify captcha
+Iteration: 463 | Loss: -0.296875 | Current Suffix:rices testify captcha
+Iteration: 464 | Loss: -0.2578125 | Current Suffix: reconstruction testify captcha
+Iteration: 465 | Loss: -0.28515625 | Current Suffix: extraord testify captcha
+Iteration: 466 | Loss: -0.203125 | Current Suffix: arrang testify captcha
+Iteration: 467 | Loss: -0.234375 | Current Suffix: neutron testify captcha
+Iteration: 468 | Loss: -0.2734375 | Current Suffix: curl testify captcha
+Iteration: 469 | Loss: -0.2578125 | Current Suffix: servic testify captcha
+Iteration: 470 | Loss: -0.2265625 | Current Suffix: incorpor testify captcha
+Iteration: 471 | Loss: -0.2734375 | Current Suffix: blend testify captcha
+Iteration: 472 | Loss: -0.25 | Current Suffix: lull testify captcha
+Iteration: 473 | Loss: -0.3125 | Current Suffix: scripture testify captcha
+Iteration: 474 | Loss: -0.296875 | Current Suffix: Frankenstein testify captcha
+Iteration: 475 | Loss: -0.265625 | Current Suffix:saw testify captcha
+Iteration: 476 | Loss: -0.21875 | Current Suffix: comprom testify captcha
+Iteration: 477 | Loss: -0.234375 | Current Suffix: mosaic testify captcha
+Iteration: 478 | Loss: -0.22265625 | Current Suffix:prises testify captcha
+Iteration: 479 | Loss: -0.2421875 | Current Suffix: Afgh testify captcha
+Iteration: 480 | Loss: -0.296875 | Current Suffix: asses testify captcha
+Iteration: 481 | Loss: -0.3046875 | Current Suffix:aret testify captcha
+Iteration: 482 | Loss: -0.2734375 | Current Suffix: proclamation testify captcha
+Iteration: 483 | Loss: -0.3046875 | Current Suffix: congregation testify captcha
+Iteration: 484 | Loss: -0.234375 | Current Suffix: experimented testify captcha
+Iteration: 485 | Loss: -0.46875 | Current Suffix: Publication testify captcha
+Iteration: 486 | Loss: -0.28125 | Current Suffix:grades testify captcha
+Iteration: 487 | Loss: -0.296875 | Current Suffix: vig testify captcha
+Iteration: 488 | Loss: -0.46875 | Current Suffix: Publication testify captcha
+Iteration: 489 | Loss: -0.296875 | Current Suffix: tongues testify captcha
+Iteration: 490 | Loss: -0.2734375 | Current Suffix:liga testify captcha
+Iteration: 491 | Loss: -0.34375 | Current Suffix:liga sang captcha
+Iteration: 492 | Loss: -0.1796875 | Current Suffix:liga merged captcha
+Iteration: 493 | Loss: -0.1953125 | Current Suffix:liga cheered captcha
+Iteration: 494 | Loss: -0.20703125 | Current Suffix: rated cheered captcha
+Iteration: 495 | Loss: -0.234375 | Current Suffix: tied cheered captcha
+Iteration: 496 | Loss: -0.16015625 | Current Suffix: paid cheered captcha
+Iteration: 497 | Loss: -0.2109375 | Current Suffix: Intercept cheered captcha
+Iteration: 498 | Loss: -0.1796875 | Current Suffix: Median cheered captcha
+Iteration: 499 | Loss: -0.234375 | Current Suffix: Median sued captcha
+Iteration: 0 | Loss: -0.0546875 | Current Suffix:!!!!! le!!! 
+Iteration: 1 | Loss: -0.1171875 | Current Suffix:!!!!! le!!!cos
+Iteration: 2 | Loss: -0.1171875 | Current Suffix:!!!!! le!!!iband
+Iteration: 3 | Loss: -0.1484375 | Current Suffix:!!!!! le caucusiband
+Iteration: 4 | Loss: -0.1484375 | Current Suffix:!!!!! le Cheroiband
+Iteration: 5 | Loss: -0.1640625 | Current Suffix:!!!!! le Chero Valley
+Iteration: 0 | Loss: -0.0546875 | Current Suffix:!!!!! le!!! 
+Iteration: 1 | Loss: -0.1171875 | Current Suffix:!!!!! le!!!cos
+Iteration: 2 | Loss: -0.1171875 | Current Suffix:!!!!! le!!!iband
+Iteration: 3 | Loss: -0.1484375 | Current Suffix:!!!!! le caucusiband
+Iteration: 4 | Loss: -0.1484375 | Current Suffix:!!!!! le Cheroiband
+Iteration: 5 | Loss: -0.1640625 | Current Suffix:!!!!! le Chero Valley
+Iteration: 6 | Loss: -0.1953125 | Current Suffix: Brave le Chero Valley
+Iteration: 7 | Loss: -0.2734375 | Current Suffix: Brave le Occupy Valley
+Iteration: 8 | Loss: -0.3203125 | Current Suffix: Middle le Occupy Valley
+Iteration: 9 | Loss: -0.2734375 | Current Suffix: Middle le arrivals Valley
+Iteration: 10 | Loss: -0.3046875 | Current Suffix: Middle le arrivalsLabor
+Iteration: 11 | Loss: -0.3984375 | Current Suffix: Middle le arrivals CBD
+Iteration: 12 | Loss: -0.4375 | Current Suffix: Middle le arrivals warmer
+Iteration: 13 | Loss: -0.4296875 | Current Suffix: Middle le arrivals baggage
+Iteration: 14 | Loss: -0.3125 | Current Suffix: Middle le Indones baggage
+Iteration: 15 | Loss: -0.34375 | Current Suffix: Everyday le Indones baggage
+Iteration: 16 | Loss: -0.3828125 | Current Suffix: Everyday le inspect baggage
+Iteration: 17 | Loss: -0.2734375 | Current Suffix: chic le inspect baggage
+Iteration: 18 | Loss: -0.2890625 | Current Suffix: chic calib inspect baggage
+Iteration: 19 | Loss: -0.2734375 | Current Suffix: Guer calib inspect baggage
+Iteration: 20 | Loss: -0.375 | Current Suffix: Guer nour inspect baggage
+Iteration: 21 | Loss: -0.234375 | Current Suffix: Brow nour inspect baggage
+Iteration: 22 | Loss: -0.1796875 | Current Suffix: Churches nour inspect baggage
+Iteration: 23 | Loss: -0.265625 | Current Suffix: Churches advers inspect baggage
+Iteration: 24 | Loss: -0.203125 | Current Suffix: Churches prin inspect baggage
+Iteration: 25 | Loss: -0.25 | Current Suffix: Churches sovere inspect baggage
+Iteration: 26 | Loss: -0.296875 | Current Suffix: Wy sovere inspect baggage
+Iteration: 27 | Loss: -0.265625 | Current Suffix:bedroom sovere inspect baggage
+Iteration: 28 | Loss: -0.25 | Current Suffix: Estate sovere inspect baggage
+Iteration: 29 | Loss: -0.2421875 | Current Suffix: flashy sovere inspect baggage
+Iteration: 30 | Loss: -0.296875 | Current Suffix: flashy sovere inspect bus
+Iteration: 31 | Loss: -0.25 | Current Suffix: flashy sovere inspect suspension
+Iteration: 32 | Loss: -0.265625 | Current Suffix: flashy sovere inspect pedest
+Iteration: 33 | Loss: -0.2265625 | Current Suffix: flashy sovere inspect Flake
+Iteration: 34 | Loss: -0.1875 | Current Suffix: flashy sovere inspect canoe
+Iteration: 35 | Loss: -0.1796875 | Current Suffix: flashy sovere inspectVPN
+Iteration: 36 | Loss: -0.203125 | Current Suffix: Bulk sovere inspectVPN
+Iteration: 37 | Loss: -0.2890625 | Current Suffix: Bulk sovere inspect Bots
+Iteration: 38 | Loss: -0.390625 | Current Suffix: Bulk sovere developmental Bots
+Iteration: 39 | Loss: -0.375 | Current Suffix: Bulk sovere overarching Bots
+Iteration: 40 | Loss: -0.3984375 | Current Suffix: Spending sovere overarching Bots
+Iteration: 41 | Loss: -0.328125 | Current Suffix: IPCC sovere overarching Bots
+Iteration: 42 | Loss: -0.4140625 | Current Suffix:udget sovere overarching Bots
+Iteration: 43 | Loss: -0.390625 | Current Suffix: coerc sovere overarching Bots
+Iteration: 44 | Loss: -0.359375 | Current Suffix: Balanced sovere overarching Bots
+Iteration: 45 | Loss: -0.3125 | Current Suffix: Cod sovere overarching Bots
+Iteration: 46 | Loss: -0.359375 | Current Suffix: GMOs sovere overarching Bots
+Iteration: 47 | Loss: -0.3828125 | Current Suffix: GMOs sovere voluntary Bots
+Iteration: 48 | Loss: -0.453125 | Current Suffix: broadcasting sovere voluntary Bots
+Iteration: 49 | Loss: -0.4921875 | Current Suffix: arbitration sovere voluntary Bots
+Iteration: 50 | Loss: -0.5234375 | Current Suffix: reconcile sovere voluntary Bots
+Iteration: 51 | Loss: -0.2734375 | Current Suffix: moderates sovere voluntary Bots
+Iteration: 52 | Loss: -0.59375 | Current Suffix: legislation sovere voluntary Bots
+Iteration: 53 | Loss: -0.4921875 | Current Suffix: arbitration sovere voluntary Bots
+Iteration: 54 | Loss: -0.3046875 | Current Suffix: prescribe sovere voluntary Bots
+Iteration: 55 | Loss: -0.453125 | Current Suffix: overriding sovere voluntary Bots
+Iteration: 56 | Loss: -0.296875 | Current Suffix: bred sovere voluntary Bots
+Iteration: 57 | Loss: -0.46875 | Current Suffix: framing sovere voluntary Bots
+Iteration: 58 | Loss: -0.4140625 | Current Suffix: Court sovere voluntary Bots
+Iteration: 59 | Loss: -0.3984375 | Current Suffix: Court roy voluntary Bots
+Iteration: 60 | Loss: -0.3203125 | Current Suffix: Maduro roy voluntary Bots
+Iteration: 61 | Loss: -0.46875 | Current Suffix: Pyongyang roy voluntary Bots
+Iteration: 62 | Loss: -0.515625 | Current Suffix: negotiations roy voluntary Bots
+Iteration: 63 | Loss: -0.515625 | Current Suffix: vetoed roy voluntary Bots
+Iteration: 64 | Loss: -0.3828125 | Current Suffix:enegger roy voluntary Bots
+Iteration: 65 | Loss: -0.421875 | Current Suffix: Act roy voluntary Bots
+Iteration: 66 | Loss: -0.4609375 | Current Suffix: Act roy income Bots
+Iteration: 67 | Loss: -0.3984375 | Current Suffix: Act roy incomeograms
+Iteration: 68 | Loss: -0.34375 | Current Suffix: Act roy revenueograms
+Iteration: 69 | Loss: -0.4453125 | Current Suffix: Act roy dataograms
+Iteration: 70 | Loss: -0.4453125 | Current Suffix: Act roy data illiter
+Iteration: 71 | Loss: -0.28125 | Current Suffix:ochemistry roy data illiter
+Iteration: 72 | Loss: -0.390625 | Current Suffix: nap roy data illiter
+Iteration: 73 | Loss: -0.3984375 | Current Suffix:idays roy data illiter
+Iteration: 74 | Loss: -0.515625 | Current Suffix: Premiere roy data illiter
+Iteration: 75 | Loss: -0.4140625 | Current Suffix: Premiere roy data supers
+Iteration: 76 | Loss: -0.4453125 | Current Suffix: Premiere roy data whites
+Iteration: 77 | Loss: -0.4453125 | Current Suffix: Premiere roy data inver
+Iteration: 78 | Loss: -0.4296875 | Current Suffix: Premiere roy data disag
+Iteration: 79 | Loss: -0.4375 | Current Suffix: Premiere roy data discounts
+Iteration: 80 | Loss: -0.453125 | Current Suffix: Premiere roy data assemblies
+Iteration: 81 | Loss: -0.3984375 | Current Suffix: Premiere roy data unic
+Iteration: 82 | Loss: -0.4140625 | Current Suffix: Premiere roy data fractions
+Iteration: 83 | Loss: -0.359375 | Current Suffix: Premiere roy data external
+Iteration: 84 | Loss: -0.3671875 | Current Suffix: Premiere roy data subclass
+Iteration: 85 | Loss: -0.453125 | Current Suffix: Premiere roy data calibr
+Iteration: 86 | Loss: -0.40625 | Current Suffix: Premiere roy data auction
+Iteration: 87 | Loss: -0.453125 | Current Suffix: Premiere roy data calibr
+Iteration: 88 | Loss: -0.390625 | Current Suffix: Premiere roy data upload
+Iteration: 89 | Loss: -0.390625 | Current Suffix: Premiere roy data events
+Iteration: 90 | Loss: -0.4453125 | Current Suffix: Premiere roy data banks
+Iteration: 91 | Loss: -0.4140625 | Current Suffix: Premiere roy artwork banks
+Iteration: 92 | Loss: -0.3828125 | Current Suffix: Premiere roy text banks
+Iteration: 93 | Loss: -0.3828125 | Current Suffix: Premiere roy intuitive banks
+Iteration: 94 | Loss: -0.4375 | Current Suffix: Premiere roy IDE banks
+Iteration: 95 | Loss: -0.4765625 | Current Suffix: Premiere roy IDE hot
+Iteration: 96 | Loss: -0.328125 | Current Suffix: Premiere roy mansion hot
+Iteration: 97 | Loss: -0.375 | Current Suffix: Premiere roy mansion sod
+Iteration: 98 | Loss: -0.41796875 | Current Suffix: Premiere roy mansionaminer
+Iteration: 99 | Loss: -0.3203125 | Current Suffix: Premiere roy mansionlink
+Iteration: 100 | Loss: -0.3984375 | Current Suffix: Premiere roy mansionstation
+Iteration: 101 | Loss: -0.35546875 | Current Suffix: Premiere roy mansion1900
+Iteration: 102 | Loss: -0.40625 | Current Suffix: Premiere roy mansion carn
+Iteration: 103 | Loss: -0.3203125 | Current Suffix: Premiere roy mansion plaza
+Iteration: 104 | Loss: -0.546875 | Current Suffix: Premiere roy mansion Earthqu
+Iteration: 105 | Loss: -0.40625 | Current Suffix: Premiere roy memos Earthqu
+Iteration: 106 | Loss: -0.421875 | Current Suffix: Premiere roy FBI Earthqu
+Iteration: 107 | Loss: -0.4140625 | Current Suffix: Premiere roy probe Earthqu
+Iteration: 108 | Loss: -0.359375 | Current Suffix: Premiere roy Mercury Earthqu
+Iteration: 109 | Loss: -0.5 | Current Suffix: Premiere roy Mercury sevent
+Iteration: 110 | Loss: -0.3359375 | Current Suffix: Mission roy Mercury sevent
+Iteration: 111 | Loss: -0.3359375 | Current Suffix: Mission roy Mercury thirst
+Iteration: 112 | Loss: -0.4140625 | Current Suffix: Mission roy Mercury aquarium
+Iteration: 113 | Loss: -0.390625 | Current Suffix: Mission roy Mercury therm
+Iteration: 114 | Loss: -0.453125 | Current Suffix: NOAA roy Mercury therm
+Iteration: 115 | Loss: -0.609375 | Current Suffix: Guinness roy Mercury therm
+Iteration: 116 | Loss: -0.59375 | Current Suffix: Guinness roy Mercury react
+Iteration: 117 | Loss: -0.6640625 | Current Suffix: Guinness roy Mercury prote
+Iteration: 118 | Loss: -0.9140625 | Current Suffix: Guinness roy Mercury flav
+Iteration: 119 | Loss: -0.5234375 | Current Suffix: Guinness roy Mercury fav
+Iteration: 120 | Loss: -0.4765625 | Current Suffix: Guinness roy Mercury dividends
+Iteration: 121 | Loss: -0.546875 | Current Suffix: Guinness roy Mercury refin
+Iteration: 122 | Loss: -0.546875 | Current Suffix: Guinness roy Mercury hypocr
+Iteration: 123 | Loss: -0.734375 | Current Suffix: Guinness roy Mercury pear
+Iteration: 124 | Loss: -0.8828125 | Current Suffix: Guinness roy Mercury lod
+Iteration: 125 | Loss: -0.546875 | Current Suffix: Guinness roy Mercury devast
+Iteration: 126 | Loss: -0.578125 | Current Suffix: Guinness roy Mercury separ
+Iteration: 127 | Loss: -0.46875 | Current Suffix: Cruise roy Mercury separ
+Iteration: 128 | Loss: -0.53125 | Current Suffix: Cruise roy Liberty separ
+Iteration: 129 | Loss: -0.96875 | Current Suffix: Expedition roy Liberty separ
+Iteration: 130 | Loss: -1.015625 | Current Suffix: Expedition roy Liberty decriminal
+Iteration: 131 | Loss: -1.03125 | Current Suffix: Expedition roy Libertyophob
+Iteration: 132 | Loss: -0.8515625 | Current Suffix: Expedition roy Liberty lux
+Iteration: 133 | Loss: -0.9296875 | Current Suffix: Expedition roy Liberty backlog
+Iteration: 134 | Loss: -1.0 | Current Suffix: Expedition roy Liberty res
+Iteration: 135 | Loss: -0.9375 | Current Suffix: Expedition Godd Liberty res
+Iteration: 136 | Loss: -0.7578125 | Current Suffix: cathedral Godd Liberty res
+Iteration: 137 | Loss: -0.859375 | Current Suffix: cathedral splend Liberty res
+Iteration: 138 | Loss: -1.5625 | Current Suffix: cathedral Statue Liberty res
+Iteration: 139 | Loss: -4.18359375 | Current Suffix: cathedral Statue Liberty Talk
+Iteration: 140 | Loss: -4.59765625 | Current Suffix: cathedral Statue Liberty Paladin
+Iteration: 141 | Loss: -4.6953125 | Current Suffix: cathedral Statue Liberty outsourcing
+Iteration: 142 | Loss: -5.1640625 | Current Suffix: cathedral Statue Liberty voucher
+Iteration: 143 | Loss: -5.78125 | Current Suffix: cathedral Statue Liberty gambling
+Iteration: 144 | Loss: -9.46875 | Current Suffix: praying Statue Liberty gambling
+Iteration: 145 | Loss: -7.8125 | Current Suffix: praying Statue Liberty boosting
+Iteration: 146 | Loss: -6.98046875 | Current Suffix: praying Statue Liberty crates
+Iteration: 147 | Loss: -9.46875 | Current Suffix: praying Statue Liberty gambling
+Iteration: 148 | Loss: -9.5703125 | Current Suffix: praying Statue Liberty optimistic
+Iteration: 149 | Loss: -7.8125 | Current Suffix: praying Statue Libertyzos
+Iteration: 150 | Loss: -7.82421875 | Current Suffix: praying Statue Liberty antidepressants
+Iteration: 151 | Loss: -8.515625 | Current Suffix: praying Statue Liberty cigarettes
+Iteration: 152 | Loss: -8.8125 | Current Suffix: praying Statue Liberty cookies
+Iteration: 153 | Loss: -7.39453125 | Current Suffix: dreams Statue Liberty cookies
+Iteration: 154 | Loss: -6.765625 | Current Suffix: dreams Statue Liberty crates
+Iteration: 155 | Loss: -7.30078125 | Current Suffix: intimidate Statue Liberty crates
+Iteration: 156 | Loss: -6.8671875 | Current Suffix: intimidate Statue Liberty access
+Iteration: 157 | Loss: -6.234375 | Current Suffix: intimidate Statue Libertyarin
+Iteration: 158 | Loss: -6.13671875 | Current Suffix: intimidate Statue Liberty mobility
+Iteration: 159 | Loss: -9.5625 | Current Suffix: intimidate Statue Liberty fire
+Iteration: 160 | Loss: -6.99609375 | Current Suffix: intimidate Statue Liberty distractions
+Iteration: 161 | Loss: -6.19921875 | Current Suffix: intimidate Statue Liberty robes
+Iteration: 162 | Loss: -5.9609375 | Current Suffix: intimidate Statue Liberty ration
+Iteration: 163 | Loss: -9.734375 | Current Suffix: intimidate Statue Liberty patience
+Iteration: 164 | Loss: -5.52734375 | Current Suffix: intimidate Statue Liberty Farming
+Iteration: 165 | Loss: -8.1640625 | Current Suffix: intimidate Statue Liberty prehistoric
+Iteration: 166 | Loss: -7.12109375 | Current Suffix: intimidate Statue Liberty Coliseum
+Iteration: 167 | Loss: -6.0703125 | Current Suffix: intimidate Statue Liberty flashbacks
+Iteration: 168 | Loss: -8.140625 | Current Suffix: disabled Statue Liberty flashbacks
+Iteration: 169 | Loss: -9.625 | Current Suffix: disabled Statue Liberty fading
+Iteration: 170 | Loss: -8.171875 | Current Suffix: disabled Statue Libertypacks
+Iteration: 171 | Loss: -10.359375 | Current Suffix: disabled Statue Liberty Coliseum
+Iteration: 172 | Loss: -8.4140625 | Current Suffix: disabled Statue Liberty Continent
+Iteration: 173 | Loss: -8.6796875 | Current Suffix: disabled Statue Libertyighthouse
+Iteration: 174 | Loss: -10.3515625 | Current Suffix: disabled Statue Liberty gradient
+Iteration: 175 | Loss: -9.890625 | Current Suffix: extinguished Statue Liberty gradient
+Iteration: 176 | Loss: -9.078125 | Current Suffix: extinguished Statue Liberty UFOs
+Iteration: 177 | Loss: -9.59375 | Current Suffix: extinguished Statue Liberty tougher
+Iteration: 178 | Loss: -9.078125 | Current Suffix: extinguished Statue Liberty UFOs
+Iteration: 179 | Loss: -9.59375 | Current Suffix: extinguished Statue Liberty tougher
+Iteration: 180 | Loss: -7.91015625 | Current Suffix: extinguished Statue Liberty undead
+Iteration: 181 | Loss: -10.6640625 | Current Suffix: extinguished Statue Liberty sensitivity
+Iteration: 182 | Loss: -8.6953125 | Current Suffix: spy Statue Liberty sensitivity
+Iteration: 183 | Loss: -9.359375 | Current Suffix: spy Statue Liberty drones
+Iteration: 184 | Loss: -8.765625 | Current Suffix: spy Statue Libertylings
+Iteration: 185 | Loss: -8.6640625 | Current Suffix: spy Statue Liberty athletics
+Iteration: 186 | Loss: -9.5859375 | Current Suffix: spy Statue Liberty gambling
+Iteration: 187 | Loss: -9.375 | Current Suffix: spy Statue Liberty insurers
+Iteration: 188 | Loss: -8.5703125 | Current Suffix: spy Statue Liberty friendships
+Iteration: 189 | Loss: -7.34375 | Current Suffix: spy Statue Liberty businesses
+Iteration: 190 | Loss: -10.265625 | Current Suffix: spy Statue Liberty education
+Iteration: 191 | Loss: -9.109375 | Current Suffix: spy Statue Liberty bigotry
+Iteration: 192 | Loss: -7.88671875 | Current Suffix: spy Statue Liberty narcotics
+Iteration: 193 | Loss: -6.953125 | Current Suffix: spy Statue Liberty insanity
+Iteration: 194 | Loss: -7.390625 | Current Suffix: spy Statue Liberty crates
+Iteration: 195 | Loss: -9.53125 | Current Suffix: spy Statue Liberty condos
+Iteration: 196 | Loss: -9.359375 | Current Suffix: spy Statue Liberty drones
+Iteration: 197 | Loss: -8.4921875 | Current Suffix: spy Statue Libertyrals
+Iteration: 198 | Loss: -9.453125 | Current Suffix: spy Statue Libertyigers
+Iteration: 199 | Loss: -9.703125 | Current Suffix: spy Statue Liberty invaders
+Iteration: 200 | Loss: -10.84375 | Current Suffix: spy Statue Liberty immigration
+Iteration: 201 | Loss: -7.95703125 | Current Suffix: spy Statue Liberty universities
+Iteration: 202 | Loss: -7.8515625 | Current Suffix: spy Statue Liberty colleges
+Iteration: 203 | Loss: -8.8046875 | Current Suffix: spy Statue Liberty glaciers
+Iteration: 204 | Loss: -9.546875 | Current Suffix: spy Statue Liberty giveaways
+Iteration: 205 | Loss: -8.7890625 | Current Suffix: spy Statue Liberty animosity
+Iteration: 206 | Loss: -6.4296875 | Current Suffix: spy Statue Libertyquest
+Iteration: 207 | Loss: -8.4375 | Current Suffix: spy Statue Liberty shotguns
+Iteration: 208 | Loss: -9.359375 | Current Suffix: spy Statue Liberty drones
+Iteration: 209 | Loss: -8.4921875 | Current Suffix: spy Statue Libertyrals
+Iteration: 210 | Loss: -9.703125 | Current Suffix: spy Statue Liberty invaders
+Iteration: 211 | Loss: -10.84375 | Current Suffix: spy Statue Liberty immigration
+Iteration: 212 | Loss: -5.7421875 | Current Suffix: spy Statue Liberty religions
+Iteration: 213 | Loss: -7.953125 | Current Suffix: spy Statue Libertys
+Iteration: 214 | Loss: -9.375 | Current Suffix: spy Statue Libertyisks
+Iteration: 215 | Loss: -8.78125 | Current Suffix: spy Statue Liberty ridge
+Iteration: 216 | Loss: -8.78125 | Current Suffix: spy Statue Liberty robots
+Iteration: 217 | Loss: -8.6171875 | Current Suffix: spy Statue Liberty warriors
+Iteration: 218 | Loss: -8.1953125 | Current Suffix: spy Statue Liberty darts
+Iteration: 219 | Loss: -7.7578125 | Current Suffix: spy Statue Liberty Rifle
+Iteration: 220 | Loss: -7.49609375 | Current Suffix: spy Statue Liberty bullying
+Iteration: 221 | Loss: -10.625 | Current Suffix: spy Statue Liberty distractions
+Iteration: 222 | Loss: -6.19921875 | Current Suffix: spy Statue Liberty Fighters
+Iteration: 223 | Loss: -7.0234375 | Current Suffix: spy Statue Libertyistar
+Iteration: 224 | Loss: -7.54296875 | Current Suffix: spy Statue Libertykish
+Iteration: 225 | Loss: -6.7578125 | Current Suffix: spy Statue Liberty Indonesian
+Iteration: 226 | Loss: -8.7890625 | Current Suffix: spy Statue Libertyiak
+Iteration: 227 | Loss: -8.859375 | Current Suffix: spy Statue Liberty beasts
+Iteration: 228 | Loss: -8.0546875 | Current Suffix: spy Statue Liberty hunters
+Iteration: 229 | Loss: -8.46875 | Current Suffix: spy Statue Liberty distraction
+Iteration: 230 | Loss: -5.67578125 | Current Suffix: spy Statue Liberty pedestrians
+Iteration: 231 | Loss: -8.5 | Current Suffix: spy Statue Liberty aliens
+Iteration: 232 | Loss: -8.671875 | Current Suffix: spy Statue Libertybike
+Iteration: 233 | Loss: -8.7890625 | Current Suffix: spy Statue Liberty paintings
+Iteration: 234 | Loss: -8.890625 | Current Suffix: spy Statue Liberty booze
+Iteration: 235 | Loss: -8.921875 | Current Suffix: spy Statue Liberty hostility
+Iteration: 236 | Loss: -7.1015625 | Current Suffix: spy Statue Liberty awards
+Iteration: 237 | Loss: -7.84375 | Current Suffix: spy Statue Liberty apology
+Iteration: 238 | Loss: -8.234375 | Current Suffix: spy Statue Liberty jealousy
+Iteration: 239 | Loss: -6.8046875 | Current Suffix: spy Statue Liberty clout
+Iteration: 240 | Loss: -7.328125 | Current Suffix: spy Statue Liberty Roosevelt
+Iteration: 241 | Loss: -8.78125 | Current Suffix: spy Statue Liberty ridge
+Iteration: 242 | Loss: -8.78125 | Current Suffix: spy Statue Liberty ridge
+Iteration: 243 | Loss: -8.78125 | Current Suffix: spy Statue Liberty robots
+Iteration: 244 | Loss: -8.6171875 | Current Suffix: spy Statue Liberty warriors
+Iteration: 245 | Loss: -8.1953125 | Current Suffix: spy Statue Liberty darts
+Iteration: 246 | Loss: -8.6171875 | Current Suffix: spy Statue Libertygae
+Iteration: 247 | Loss: -5.98046875 | Current Suffix: spy Statue Liberty Polo
+Iteration: 248 | Loss: -6.984375 | Current Suffix: spy Statue Libertyobin
+Iteration: 249 | Loss: -7.6015625 | Current Suffix: spy Statue Libertyoy
+Iteration: 250 | Loss: -8.5 | Current Suffix: spy Statue Libertyquez
+Iteration: 251 | Loss: -7.74609375 | Current Suffix: spy Statue Libertyisons
+Iteration: 252 | Loss: -6.6015625 | Current Suffix: spy Statue Liberty dungeons
+Iteration: 253 | Loss: -8.140625 | Current Suffix: spy Statue Liberty oppression
+Iteration: 254 | Loss: -9.703125 | Current Suffix: spy Statue Liberty invaders
+Iteration: 255 | Loss: -10.84375 | Current Suffix: spy Statue Liberty immigration
+Iteration: 256 | Loss: -7.95703125 | Current Suffix: spy Statue Liberty universities
+Iteration: 257 | Loss: -10.8046875 | Current Suffix: spy Statue Liberty degrees
+Iteration: 258 | Loss: -10.1640625 | Current Suffix: congr Statue Liberty degrees
+Iteration: 259 | Loss: -7.30078125 | Current Suffix: congr Statue Liberty moments
+Iteration: 260 | Loss: -9.34375 | Current Suffix: congr Statue Liberty holidays
+Iteration: 261 | Loss: -8.09375 | Current Suffix: congr Statue Liberty hikes
+Iteration: 262 | Loss: -9.375 | Current Suffix: congr Statue Liberty insurers
+Iteration: 263 | Loss: -9.6484375 | Current Suffix: congr Statue Liberty skiing
+Iteration: 264 | Loss: -9.09375 | Current Suffix: congr Statue Liberty republican
+Iteration: 265 | Loss: -5.375 | Current Suffix: congr Statue Libertyisec
+Iteration: 266 | Loss: -8.4375 | Current Suffix: congr Statue Liberty month
+Iteration: 267 | Loss: -9.109375 | Current Suffix: congr Statue Liberty request
+Iteration: 268 | Loss: -7.453125 | Current Suffix: congr Statue Liberty deadlines
+Iteration: 269 | Loss: -7.1328125 | Current Suffix: congr Statue Liberty law
+Iteration: 270 | Loss: -8.453125 | Current Suffix: congr Statue Liberty litigation
+Iteration: 271 | Loss: -8.078125 | Current Suffix: congr Statue Liberty legality
+Iteration: 272 | Loss: -8.3125 | Current Suffix: congr Statue Liberty legal
+Iteration: 273 | Loss: -9.0 | Current Suffix: congr Statue Liberty suits
+Iteration: 274 | Loss: -6.9453125 | Current Suffix: congr Statue Liberty Park
+Iteration: 275 | Loss: -7.234375 | Current Suffix: congr Statue Liberty explores
+Iteration: 276 | Loss: -7.44140625 | Current Suffix: congr Statue Liberty aspirations
+Iteration: 277 | Loss: -7.9453125 | Current Suffix: congr Statue Liberty test
+Iteration: 278 | Loss: -8.515625 | Current Suffix: congr Statue Liberty irritation
+Iteration: 279 | Loss: -7.23046875 | Current Suffix: congr Statue Liberty vitality
+Iteration: 280 | Loss: -6.546875 | Current Suffix: congr Statue Liberty Invention
+Iteration: 281 | Loss: -8.953125 | Current Suffix: congr Statue Liberty vouchers
+Iteration: 282 | Loss: -8.796875 | Current Suffix: congr Statue Liberty gambling
+Iteration: 283 | Loss: -7.984375 | Current Suffix: congr Statue Liberty mortgages
+Iteration: 284 | Loss: -8.3359375 | Current Suffix: congr Statue Liberty attrition
+Iteration: 285 | Loss: -6.94140625 | Current Suffix: congr Statue Liberty exploration
+Iteration: 286 | Loss: -8.6953125 | Current Suffix: congr Statue Liberty progress
+Iteration: 287 | Loss: -8.640625 | Current Suffix: congr Statue Liberty purchase
+Iteration: 288 | Loss: -9.8125 | Current Suffix: congr Statue Liberty ages
+Iteration: 289 | Loss: -7.81640625 | Current Suffix: congr Statue Liberty republic
+Iteration: 290 | Loss: -9.0703125 | Current Suffix: congr Statue Liberty redress
+Iteration: 291 | Loss: -6.9140625 | Current Suffix: congr Statue Liberty ambition
+Iteration: 292 | Loss: -8.8828125 | Current Suffix: congr Statue Liberty panic
+Iteration: 293 | Loss: -6.9296875 | Current Suffix: congr Statue Libertyquit
+Iteration: 294 | Loss: -8.4921875 | Current Suffix: congr Statue Liberty Quake
+Iteration: 295 | Loss: -6.48828125 | Current Suffix: completed Statue Liberty Quake
+Iteration: 296 | Loss: -9.4609375 | Current Suffix: completed Statue Liberty Rampage
+Iteration: 297 | Loss: -5.75 | Current Suffix: completed Statue Libertyaryn
+Iteration: 298 | Loss: -8.953125 | Current Suffix: completed Statue Liberty Swordsman
+Iteration: 299 | Loss: -9.4609375 | Current Suffix: completed Statue Liberty Rampage
+Iteration: 300 | Loss: -8.40625 | Current Suffix: completed Statue Libertyidges
+Iteration: 301 | Loss: -8.6796875 | Current Suffix: completed Statue Liberty outskirts
+Iteration: 302 | Loss: -8.140625 | Current Suffix: completed Statue Liberty difficulty
+Iteration: 303 | Loss: -9.4921875 | Current Suffix: vetoed Statue Liberty difficulty
+Iteration: 304 | Loss: -8.4296875 | Current Suffix: repeal Statue Liberty difficulty
+Iteration: 305 | Loss: -11.5703125 | Current Suffix: prevailed Statue Liberty difficulty
+Iteration: 306 | Loss: -13.453125 | Current Suffix: prevailed Statue Liberty accessibility
+Iteration: 307 | Loss: -11.828125 | Current Suffix: prevailed Statue Liberty comprehension
+Iteration: 308 | Loss: -10.2734375 | Current Suffix: prevailed Statue Libertyxi
+Iteration: 309 | Loss: -9.46875 | Current Suffix: prevailed Statue Libertybreeding
+Iteration: 310 | Loss: -11.125 | Current Suffix: prevailed Statue Liberty grazing
+Iteration: 311 | Loss: -11.640625 | Current Suffix: prevailed Statue Liberty cows
+Iteration: 312 | Loss: -11.7890625 | Current Suffix: prevailed Statue Liberty aspirin
+Iteration: 313 | Loss: -11.078125 | Current Suffix: prevailed Statue Libertyitars
+Iteration: 314 | Loss: -8.9140625 | Current Suffix: prevailed Statue Libertyiard
+Iteration: 315 | Loss: -7.9453125 | Current Suffix: prevailed Statue Libertyalez
+Iteration: 316 | Loss: -11.109375 | Current Suffix: prevailed Statue Libertyedom
+Iteration: 317 | Loss: -12.2578125 | Current Suffix: prevailed Statue Liberty upstream
+Iteration: 318 | Loss: -11.0703125 | Current Suffix: prevailed Statue Liberty toughest
+Iteration: 319 | Loss: -12.546875 | Current Suffix: prevailed Statue Liberty longer
+Iteration: 320 | Loss: -10.6328125 | Current Suffix: prevailed Statue Liberty effectiveness
+Iteration: 321 | Loss: -12.828125 | Current Suffix: prevailed Statue Liberty toughness
+Iteration: 322 | Loss: -10.8046875 | Current Suffix: prevailed Statue Liberty attractiveness
+Iteration: 323 | Loss: -12.40625 | Current Suffix: prevailed Statue Liberty durability
+Iteration: 324 | Loss: -10.390625 | Current Suffix: prevailed Statue Liberty primary
+Iteration: 325 | Loss: -10.796875 | Current Suffix: prevailed Statue Liberty XIV
+Iteration: 326 | Loss: -9.71875 | Current Suffix: prevailed Statue Liberty00007
+Iteration: 327 | Loss: -10.09375 | Current Suffix: prevailed Statue Liberty steak
+Iteration: 328 | Loss: -9.8515625 | Current Suffix: prevailed Statue Libertysis
+Iteration: 329 | Loss: -10.7578125 | Current Suffix: prevailed Statue Libertyanos
+Iteration: 330 | Loss: -9.0390625 | Current Suffix: prevailed Statue Libertycombe
+Iteration: 331 | Loss: -10.5390625 | Current Suffix: prevailed Statue Libertyidelity
+Iteration: 332 | Loss: -10.078125 | Current Suffix: prevailed Statue Libertyphies
+Iteration: 333 | Loss: -10.296875 | Current Suffix: prevailed Statue Liberty entrances
+Iteration: 334 | Loss: -11.0234375 | Current Suffix: prevailed Statue Liberty quieter
+Iteration: 335 | Loss: -12.46875 | Current Suffix: prevailed Statue Liberty taller
+Iteration: 336 | Loss: -11.453125 | Current Suffix: prevailed Statue Liberty density
+Iteration: 337 | Loss: -11.7890625 | Current Suffix: prevailed Statue Liberty aspirin
+Iteration: 338 | Loss: -10.125 | Current Suffix: prevailed Statue Liberty Swordsman
+Iteration: 339 | Loss: -10.8671875 | Current Suffix: prevailed Statue Liberty relapse
+Iteration: 340 | Loss: -10.6953125 | Current Suffix: prevailed Statue Libertyguards
+Iteration: 341 | Loss: -11.171875 | Current Suffix: prevailed Statue Libertysword
+Iteration: 342 | Loss: -10.046875 | Current Suffix: prevailed Statue Libertybeans
+Iteration: 343 | Loss: -11.15625 | Current Suffix: prevailed Statue Liberty cereal
+Iteration: 344 | Loss: -11.296875 | Current Suffix: prevailed Statue Liberty oats
+Iteration: 345 | Loss: -10.171875 | Current Suffix: prevailed Statue Liberty beans
+Iteration: 346 | Loss: -11.640625 | Current Suffix: prevailed Statue Liberty cows
+Iteration: 347 | Loss: -13.796875 | Current Suffix: prevailed Statue Liberty alcoholism
+Iteration: 348 | Loss: -12.0859375 | Current Suffix: prevailed Statue Liberty avoidance
+Iteration: 349 | Loss: -13.2265625 | Current Suffix: prevailed Statue Liberty integration
+Iteration: 350 | Loss: -9.859375 | Current Suffix: prevailed Statue Liberty IPA
+Iteration: 351 | Loss: -10.4765625 | Current Suffix: prevailed Statue Liberty sweets
+Iteration: 352 | Loss: -12.4765625 | Current Suffix: prevailed Statue Liberty pills
+Iteration: 353 | Loss: -10.5546875 | Current Suffix: prevailed Statue Liberty dinosaurs
+Iteration: 354 | Loss: -12.828125 | Current Suffix: prevailed Statue Liberty toughness
+Iteration: 355 | Loss: -10.8046875 | Current Suffix: prevailed Statue Liberty attractiveness
+Iteration: 356 | Loss: -12.40625 | Current Suffix: prevailed Statue Liberty durability
+Iteration: 357 | Loss: -9.5625 | Current Suffix: prevailed Statue Liberty hue
+Iteration: 358 | Loss: -11.8046875 | Current Suffix: prevailed Statue Liberty flexibility
+Iteration: 359 | Loss: -10.875 | Current Suffix: prevailed Statue Libertyms
+Iteration: 360 | Loss: -8.6328125 | Current Suffix: prevailed Statue Libertydm
+Iteration: 361 | Loss: -10.2734375 | Current Suffix: prevailed Statue Libertyxi
+Iteration: 362 | Loss: -9.3125 | Current Suffix: prevailed Statue Libertyvale
+Iteration: 363 | Loss: -10.3671875 | Current Suffix: prevailed Statue Liberty southeast
+Iteration: 364 | Loss: -9.0 | Current Suffix: prevailed Statue Liberty======
+Iteration: 365 | Loss: -10.0625 | Current Suffix: prevailed Statue LibertyUU
+Iteration: 366 | Loss: -9.609375 | Current Suffix: prevailed Statue Liberty~~
+Iteration: 367 | Loss: -10.71875 | Current Suffix: prevailed Statue LibertyPanel
+Iteration: 368 | Loss: -8.875 | Current Suffix: prevailed Statue Liberty Label
+Iteration: 369 | Loss: -9.1171875 | Current Suffix: prevailed Statue Liberty industries
+Iteration: 370 | Loss: -11.640625 | Current Suffix: prevailed Statue Liberty subscriptions
+Iteration: 371 | Loss: -10.9296875 | Current Suffix: prevailed Statue Liberty ambition
+Iteration: 372 | Loss: -10.2421875 | Current Suffix: prevailed Statue Liberty Presidency
+Iteration: 373 | Loss: -8.6640625 | Current Suffix: prevailed Statue Libertycards
+Iteration: 374 | Loss: -11.3671875 | Current Suffix: prevailed Statue Liberty giveaways
+Iteration: 375 | Loss: -10.203125 | Current Suffix: prevailed Statue Libertyiru
+Iteration: 376 | Loss: -11.3671875 | Current Suffix: prevailed Statue Liberty giveaways
+Iteration: 377 | Loss: -10.28125 | Current Suffix: prevailed Statue Libertydemocracy
+Iteration: 378 | Loss: -10.0078125 | Current Suffix: prevailed Statue Liberty liberalism
+Iteration: 379 | Loss: -13.2578125 | Current Suffix: prevailed Statue Liberty patriotism
+Iteration: 380 | Loss: -11.921875 | Current Suffix: prevailed Statue Liberty schooling
+Iteration: 381 | Loss: -13.2578125 | Current Suffix: prevailed Statue Liberty patriotism
+Iteration: 382 | Loss: -11.921875 | Current Suffix: prevailed Statue Liberty schooling
+Iteration: 383 | Loss: -12.078125 | Current Suffix: prevailed Statue Liberty reliability
+Iteration: 384 | Loss: -11.6171875 | Current Suffix: prevailed Statue Liberty aggression
+Iteration: 385 | Loss: -11.0703125 | Current Suffix: prevailed Statue Liberty adoption
+Iteration: 386 | Loss: -12.0703125 | Current Suffix: prevailed Statue Liberty intellectually
+Iteration: 387 | Loss: -10.1796875 | Current Suffix: prevailed Statue Liberty wee
+Iteration: 388 | Loss: -11.453125 | Current Suffix: prevailed Statue Liberty unstoppable
+Iteration: 389 | Loss: -12.109375 | Current Suffix: prevailed Statue Liberty Stout
+Iteration: 390 | Loss: -11.8359375 | Current Suffix: prevailed Statue Liberty prosperous
+Iteration: 391 | Loss: -11.5 | Current Suffix: prevailed Statue Liberty undefeated
+Iteration: 392 | Loss: -10.78125 | Current Suffix: prevailed Statue Liberty bluff
+Iteration: 393 | Loss: -10.5390625 | Current Suffix: prevailed Statue Libertyidelity
+Iteration: 394 | Loss: -11.21875 | Current Suffix: prevailed Statue Liberty vengeance
+Iteration: 395 | Loss: -10.09375 | Current Suffix: prevailed Statue Liberty Seal
+Iteration: 396 | Loss: -8.859375 | Current Suffix: prevailed Statue Liberty Coastal
+Iteration: 397 | Loss: -10.09375 | Current Suffix: prevailed Statue Liberty Seal
+Iteration: 398 | Loss: -13.09375 | Current Suffix: prevailed Statue Liberty malaria
+Iteration: 399 | Loss: -10.9296875 | Current Suffix: prevailed Statue Liberty paranoia
+Iteration: 400 | Loss: -10.59375 | Current Suffix: prevailed Statue Liberty Spears
+Iteration: 401 | Loss: -8.890625 | Current Suffix: prevailed Statue Liberty Beans
+Iteration: 402 | Loss: -10.203125 | Current Suffix: prevailed Statue Libertyiru
+Iteration: 403 | Loss: -9.390625 | Current Suffix: prevailed Statue Libertypai
+Iteration: 404 | Loss: -10.6484375 | Current Suffix: prevailed Statue Liberty Bonds
+Iteration: 405 | Loss: -10.5859375 | Current Suffix: prevailed Statue Liberty clout
+Iteration: 406 | Loss: -11.4296875 | Current Suffix: prevailed Statue Liberty harsher
+Iteration: 407 | Loss: -12.078125 | Current Suffix: prevailed Statue Liberty reliability
+Iteration: 408 | Loss: -12.5 | Current Suffix: prevailed Statue Liberty progression
+Iteration: 409 | Loss: -11.3046875 | Current Suffix: prevailed Statue Liberty missions
+Iteration: 410 | Loss: -12.8046875 | Current Suffix: prevailed Statue Liberty Points
+Iteration: 411 | Loss: -12.390625 | Current Suffix: prevailed Statue Liberty tougher
+Iteration: 412 | Loss: -11.6796875 | Current Suffix: prevailed Statue Liberty certificates
+Iteration: 413 | Loss: -11.6796875 | Current Suffix: prevailed Statue Libertyicism
+Iteration: 414 | Loss: -11.5390625 | Current Suffix: prevailed Statue Liberty skeptical
+Iteration: 415 | Loss: -12.21875 | Current Suffix: prevailed Statue Liberty critical
+Iteration: 416 | Loss: -9.71875 | Current Suffix: prevailed Statue Liberty bonding
+Iteration: 417 | Loss: -9.171875 | Current Suffix: prevailed Statue Liberty debt
+Iteration: 418 | Loss: -11.4140625 | Current Suffix: prevailed Statue Liberty animosity
+Iteration: 419 | Loss: -10.9609375 | Current Suffix: prevailed Statue Liberty depression
+Iteration: 420 | Loss: -12.1171875 | Current Suffix: prevailed Statue Liberty asthma
+Iteration: 421 | Loss: -11.7265625 | Current Suffix: prevailed Statue Liberty tyranny
+Iteration: 422 | Loss: -10.1875 | Current Suffix: prevailed Statue Liberty empire
+Iteration: 423 | Loss: -11.2734375 | Current Suffix: prevailed Statue Liberty civilization
+Iteration: 424 | Loss: -11.78125 | Current Suffix: prevailed Statue Liberty apprehension
+Iteration: 425 | Loss: -10.015625 | Current Suffix: prevailed Statue Liberty shrimp
+Iteration: 426 | Loss: -11.2109375 | Current Suffix: prevailed Statue Liberty pneumonia
+Iteration: 427 | Loss: -9.703125 | Current Suffix: prevailed Statue Liberty Anxiety
+Iteration: 428 | Loss: -11.3671875 | Current Suffix: prevailed Statue Liberty giveaways
+Iteration: 429 | Loss: -11.296875 | Current Suffix: prevailed Statue Liberty oats
+Iteration: 430 | Loss: -10.515625 | Current Suffix: prevailed Statue Liberty carrots
+Iteration: 431 | Loss: -10.890625 | Current Suffix: prevailed Statue Liberty crates
+Iteration: 432 | Loss: -10.515625 | Current Suffix: prevailed Statue Liberty carrots
+Iteration: 433 | Loss: -10.6484375 | Current Suffix: prevailed Statue Liberty Bonds
+Iteration: 434 | Loss: -9.921875 | Current Suffix: prevailed Statue Liberty strikeouts
+Iteration: 435 | Loss: -9.6875 | Current Suffix: prevailed Statue Liberty Athletics
+Iteration: 436 | Loss: -11.625 | Current Suffix: prevailed Statue Liberty bowls
+Iteration: 437 | Loss: -11.078125 | Current Suffix: prevailed Statue Liberty frustration
+Iteration: 438 | Loss: -10.546875 | Current Suffix: prevailed Statue Liberty important
+Iteration: 439 | Loss: -10.0625 | Current Suffix: prevailed Statue Libertyism
+Iteration: 440 | Loss: -10.359375 | Current Suffix: prevailed Statue Libertyations
+Iteration: 441 | Loss: -11.265625 | Current Suffix: prevailed Statue Liberty centrally
+Iteration: 442 | Loss: -12.828125 | Current Suffix: prevailed Statue Liberty intimately
+Iteration: 443 | Loss: -11.4296875 | Current Suffix: prevailed Statue Liberty sincerity
+Iteration: 444 | Loss: -11.8359375 | Current Suffix: prevailed Statue Liberty prosperous
+Iteration: 445 | Loss: -9.921875 | Current Suffix: prevailed Statue Liberty crispy
+Iteration: 446 | Loss: -9.9765625 | Current Suffix: prevailed Statue Libertypx
+Iteration: 447 | Loss: -10.765625 | Current Suffix: prevailed Statue Liberty adulthood
+Iteration: 448 | Loss: -11.78125 | Current Suffix: prevailed Statue Liberty heavily
+Iteration: 449 | Loss: -12.5859375 | Current Suffix: prevailed Statue Liberty strongly
+Iteration: 450 | Loss: -9.515625 | Current Suffix: prevailed Statue Libertyuations
+Iteration: 451 | Loss: -9.296875 | Current Suffix: prevailed Statue Liberty eviction
+Iteration: 452 | Loss: -11.2421875 | Current Suffix: prevailed Statue Liberty mortgages
+Iteration: 453 | Loss: -11.984375 | Current Suffix: prevailed Statue Liberty coupons
+Iteration: 454 | Loss: -10.28125 | Current Suffix: prevailed Statue Liberty childcare
+Iteration: 455 | Loss: -11.1484375 | Current Suffix: prevailed Statue Liberty persuasive
+Iteration: 456 | Loss: -11.8046875 | Current Suffix: prevailed Statue Liberty stronger
+Iteration: 457 | Loss: -11.453125 | Current Suffix: prevailed Statue Liberty abolition
+Iteration: 458 | Loss: -12.484375 | Current Suffix: prevailed Statue Liberty realism
+Iteration: 459 | Loss: -10.59375 | Current Suffix: prevailed Statue Liberty Spears
+Iteration: 460 | Loss: -9.2734375 | Current Suffix: prevailed Statue Libertyinois
+Iteration: 461 | Loss: -9.3046875 | Current Suffix: prevailed Statue Libertymonds
+Iteration: 462 | Loss: -8.6875 | Current Suffix: prevailed Statue Libertyxus
+Iteration: 463 | Loss: -10.59375 | Current Suffix: prevailed Statue Liberty confinement
+Iteration: 464 | Loss: -10.3125 | Current Suffix: prevailed Statue Liberty tickets
+Iteration: 465 | Loss: -11.984375 | Current Suffix: prevailed Statue Liberty coupons
+Iteration: 466 | Loss: -11.375 | Current Suffix: prevailed Statue Liberty groceries
+Iteration: 467 | Loss: -12.0 | Current Suffix: prevailed Statue Liberty mosquitoes
+Iteration: 468 | Loss: -11.640625 | Current Suffix: prevailed Statue Liberty cows
+Iteration: 469 | Loss: -11.1875 | Current Suffix: prevailed Statue Liberty diseases
+Iteration: 470 | Loss: -10.328125 | Current Suffix: prevailed Statue LibertyGun
+Iteration: 471 | Loss: -11.046875 | Current Suffix: prevailed Statue LibertyClient
+Iteration: 472 | Loss: -10.2734375 | Current Suffix: prevailed Statue Libertyxi
+Iteration: 473 | Loss: -9.6328125 | Current Suffix: prevailed Statue Libertybackground
+Iteration: 474 | Loss: -10.1171875 | Current Suffix: prevailed Statue Libertyhips
+Iteration: 475 | Loss: -11.71875 | Current Suffix: prevailed Statue Liberty oceans
+Iteration: 476 | Loss: -10.7578125 | Current Suffix: prevailed Statue Libertyavailability
+Iteration: 477 | Loss: -10.265625 | Current Suffix: prevailed Statue Liberty believable
+Iteration: 478 | Loss: -12.078125 | Current Suffix: prevailed Statue Liberty reliability
+Iteration: 479 | Loss: -13.2265625 | Current Suffix: prevailed Statue Liberty integration
+Iteration: 480 | Loss: -9.203125 | Current Suffix: prevailed Statue Libertyvironment
+Iteration: 481 | Loss: -11.4453125 | Current Suffix: prevailed Statue Liberty School
+Iteration: 482 | Loss: -12.296875 | Current Suffix: prevailed Statue Liberty unbeaten
+Iteration: 483 | Loss: -11.296875 | Current Suffix: prevailed Statue Liberty oats
+Iteration: 484 | Loss: -13.09375 | Current Suffix: prevailed Statue Liberty malaria
+Iteration: 485 | Loss: -10.984375 | Current Suffix: prevailed Statue Libertyobia
+Iteration: 486 | Loss: -10.0546875 | Current Suffix: prevailed Statue Libertyugi
+Iteration: 487 | Loss: -10.2421875 | Current Suffix: prevailed Statue Liberty loneliness
+Iteration: 488 | Loss: -10.9296875 | Current Suffix: prevailed Statue Liberty sovereignty
+Iteration: 489 | Loss: -9.6171875 | Current Suffix: prevailed Statue Liberty proofs
+Iteration: 490 | Loss: -12.1640625 | Current Suffix: prevailed Statue Liberty persistence
+Iteration: 491 | Loss: -11.078125 | Current Suffix: prevailed Statue Liberty uniqueness
+Iteration: 492 | Loss: -12.0 | Current Suffix: prevailed Statue Liberty enjoyment
+Iteration: 493 | Loss: -12.828125 | Current Suffix: prevailed Statue Liberty toughness
+Iteration: 494 | Loss: -10.8046875 | Current Suffix: prevailed Statue Liberty attractiveness
+Iteration: 495 | Loss: -12.828125 | Current Suffix: prevailed Statue Liberty toughness
+Iteration: 496 | Loss: -10.6328125 | Current Suffix: prevailed Statue Liberty effectiveness
+Iteration: 497 | Loss: -12.828125 | Current Suffix: prevailed Statue Liberty toughness
+Iteration: 498 | Loss: -10.1484375 | Current Suffix: prevailed Statue Liberty usefulness
+Iteration: 499 | Loss: -12.625 | Current Suffix: prevailed Statue Liberty skepticism
+Iteration: 0 | Loss: 56.34375 | Current Suffix: )!!!!!!!! 
+Iteration: 1 | Loss: 34.5 | Current Suffix: )!!!!!!!!=>
+Iteration: 0 | Loss: 56.34375 | Current Suffix: )!!!!!!!! 
+Iteration: 1 | Loss: 34.5 | Current Suffix: )!!!!!!!!=>
+Iteration: 2 | Loss: 14.1796875 | Current Suffix: )!!!!!!!!<<
+Iteration: 3 | Loss: 7.0078125 | Current Suffix:0000000000000000!!!!!!!!<<
+Iteration: 4 | Loss: 7.98046875 | Current Suffix:0000000000000000,,,,,,,,<<
+Iteration: 5 | Loss: 7.0078125 | Current Suffix:0000000000000000!!!!!!!!<<
+Iteration: 6 | Loss: 6.68359375 | Current Suffix:0000000000000000!!!!!!!! TBD
+Iteration: 7 | Loss: 4.2890625 | Current Suffix:0000000000000000 Qiao TBD
+Iteration: 8 | Loss: 8.53125 | Current Suffix:0000000000000000 Metatron TBD
+Iteration: 9 | Loss: 10.078125 | Current Suffix:0000000000000000 Metatron unknown
+Iteration: 10 | Loss: 14.796875 | Current Suffix:0000000000000000 Metatron 0
+Iteration: 11 | Loss: 18.5625 | Current Suffix:0000000000000000 Dakota 0
+Iteration: 12 | Loss: 18.5625 | Current Suffix:0000000000000000 Dakota 0
+Iteration: 13 | Loss: 19.40625 | Current Suffix:0000000000000000 Dakota 1
+Iteration: 14 | Loss: 16.3125 | Current Suffix:0000000000000000 Dakota true
+Iteration: 15 | Loss: 10.5703125 | Current Suffix:0000000000000000 Dakota NULL
+Iteration: 16 | Loss: 11.8046875 | Current Suffix:0000000000000000 Bethlehem NULL
+Iteration: 17 | Loss: 5.39453125 | Current Suffix:00000000000000001111 NULL
+Iteration: 18 | Loss: 5.7890625 | Current Suffix:00000000000000001111 TRUE
+Iteration: 19 | Loss: 6.1015625 | Current Suffix:00000000000000001111 Yes
+Iteration: 20 | Loss: 9.8671875 | Current Suffix: Hua1111 Yes
+Iteration: 21 | Loss: 6.08203125 | Current Suffix: Hua1111 Roku
+Iteration: 22 | Loss: 8.859375 | Current Suffix: Hua1111 Dubai
+Iteration: 23 | Loss: 5.21875 | Current Suffix: Cao1111 Dubai
+Iteration: 24 | Loss: 5.484375 | Current Suffix: Cao Kraken Dubai
+Iteration: 25 | Loss: 4.40625 | Current Suffix: Cao Kraken Singapore
+Iteration: 26 | Loss: 4.40625 | Current Suffix: Cao Kraken Oslo
+Iteration: 27 | Loss: 8.59375 | Current Suffix: Baal Kraken Oslo
+Iteration: 28 | Loss: 8.875 | Current Suffix: Baal Kraken Amsterdam
+Iteration: 29 | Loss: 11.8671875 | Current Suffix: Baal Kraken Farage
+Iteration: 30 | Loss: 13.0546875 | Current Suffix: Hua Kraken Farage
+Iteration: 31 | Loss: 8.5703125 | Current Suffix: Hua Kraken Bowser
+Iteration: 32 | Loss: 9.5390625 | Current Suffix: Hua Kraken -------
+Iteration: 33 | Loss: 6.41015625 | Current Suffix: Hua KrakenXXXX
+Iteration: 34 | Loss: 4.50390625 | Current Suffix: Hua Kraken Singapore
+Iteration: 35 | Loss: 4.40625 | Current Suffix: Cao Kraken Singapore
+Iteration: 36 | Loss: 3.966796875 | Current Suffix: Cao Pegasus Singapore
+Iteration: 37 | Loss: 7.015625 | Current Suffix: Cao Lantern Singapore
+Iteration: 38 | Loss: 7.30078125 | Current Suffix: Cao Lantern Redmond
+Iteration: 39 | Loss: 11.046875 | Current Suffix: Cao Omni Redmond
+Iteration: 40 | Loss: 5.20703125 | Current Suffix: Cao Odin Redmond
+Iteration: 41 | Loss: 6.8984375 | Current Suffix: Cao Odin Pearson
+Iteration: 42 | Loss: 6.08984375 | Current Suffix: Cao Odin Toronto
+Iteration: 43 | Loss: 6.12890625 | Current Suffix: Cao OdinGGGGGGGG
+Iteration: 44 | Loss: 4.7265625 | Current Suffix: Cao Odin////////////////////////////////
+Iteration: 45 | Loss: 7.1953125 | Current Suffix: Cao Odin YPG
+Iteration: 46 | Loss: 19.15625 | Current Suffix: Tsukuyomi Odin YPG
+Iteration: 47 | Loss: 10.6640625 | Current Suffix: Tsukuyomi Odin Lavrov
+Iteration: 48 | Loss: 6.875 | Current Suffix: Sana Odin Lavrov
+Iteration: 49 | Loss: 6.296875 | Current Suffix: Sana Odin Ankara
+Iteration: 50 | Loss: 12.296875 | Current Suffix: Sana OdinTT
+Iteration: 51 | Loss: 6.875 | Current Suffix: Sana Odin Lavrov
+Iteration: 52 | Loss: 6.296875 | Current Suffix: Sana Odin Ankara
+Iteration: 53 | Loss: 10.9609375 | Current Suffix: Qi Odin Ankara
+Iteration: 54 | Loss: 10.421875 | Current Suffix: Chong Odin Ankara
+Iteration: 55 | Loss: 18.375 | Current Suffix: Chong Odin Pak
+Iteration: 56 | Loss: 13.5078125 | Current Suffix: Chong Odin Karachi
+Iteration: 57 | Loss: 11.6171875 | Current Suffix: Chong Odin Lima
+Iteration: 58 | Loss: 14.2734375 | Current Suffix: Chong Odin Oslo
+Iteration: 59 | Loss: 31.15625 | Current Suffix: Chong Odin Assange
+Iteration: 60 | Loss: 13.3203125 | Current Suffix: Chong Odin Erdogan
+Iteration: 61 | Loss: 8.28125 | Current Suffix: Kush Odin Erdogan
+Iteration: 62 | Loss: 9.6875 | Current Suffix: Kush Odin Milan
+Iteration: 63 | Loss: 10.421875 | Current Suffix: Kush Odin Beirut
+Iteration: 64 | Loss: 10.46875 | Current Suffix: Kush Odin Portsmouth
+Iteration: 65 | Loss: 6.26171875 | Current Suffix: Hai Odin Portsmouth
+Iteration: 66 | Loss: 5.87109375 | Current Suffix: Hai Odin Norfolk
+Iteration: 67 | Loss: 7.09765625 | Current Suffix: Hai Odin Athens
+Iteration: 68 | Loss: 8.34375 | Current Suffix: Sana Odin Athens
+Iteration: 69 | Loss: 6.296875 | Current Suffix: Sana Odin Ankara
+Iteration: 70 | Loss: 11.0234375 | Current Suffix: Sana Odin Ion
+Iteration: 71 | Loss: 9.375 | Current Suffix: Sana Odin Normandy
+Iteration: 72 | Loss: 5.9609375 | Current Suffix: Sana Odin Singapore
+Iteration: 73 | Loss: 6.73828125 | Current Suffix: Sana Odin Osaka
+Iteration: 74 | Loss: 9.0078125 | Current Suffix: Sana Odin Bethesda
+Iteration: 75 | Loss: 5.765625 | Current Suffix: Sana Odin Lebanon
+Iteration: 76 | Loss: 5.765625 | Current Suffix: Sana Odin Lebanon
+Iteration: 77 | Loss: 6.296875 | Current Suffix: Sana Odin Ankara
+Iteration: 78 | Loss: 12.296875 | Current Suffix: Sana OdinTT
+Iteration: 79 | Loss: 8.1171875 | Current Suffix: Sana Odin Lisbon
+Iteration: 80 | Loss: 8.578125 | Current Suffix: Sana Odin Lima
+Iteration: 81 | Loss: 6.10546875 | Current Suffix: Sana Odin Tacoma
+Iteration: 82 | Loss: 8.53125 | Current Suffix: Sana Kirin Tacoma
+Iteration: 83 | Loss: 6.34375 | Current Suffix: Sana Kirin Dayton
+Iteration: 84 | Loss: 8.265625 | Current Suffix: Sana Kirin Lisbon
+Iteration: 85 | Loss: 15.9453125 | Current Suffix: Sana Kirin Vox
+Iteration: 86 | Loss: 10.796875 | Current Suffix: Sana Kirin Nil
+Iteration: 87 | Loss: 9.578125 | Current Suffix: Sana Kirin Gujarat
+Iteration: 88 | Loss: 13.9609375 | Current Suffix: Sana Kirin Plymouth
+Iteration: 89 | Loss: 10.1328125 | Current Suffix: Sana Kirin Arabia
+Iteration: 90 | Loss: 7.5546875 | Current Suffix: Sana Kirin Brussels
+Iteration: 91 | Loss: 6.31640625 | Current Suffix: Mori Kirin Brussels
+Iteration: 92 | Loss: 7.5546875 | Current Suffix: Sana Kirin Brussels
+Iteration: 93 | Loss: 14.3515625 | Current Suffix: Sana Kirin Merkel
+Iteration: 94 | Loss: 7.546875 | Current Suffix: Sana Kirin Milan
+Iteration: 95 | Loss: 9.453125 | Current Suffix: Bok Kirin Milan
+Iteration: 96 | Loss: 7.55078125 | Current Suffix: Bok Kirin Singapore
+Iteration: 97 | Loss: 6.25390625 | Current Suffix: Bok Kirin Burton
+Iteration: 98 | Loss: 9.9375 | Current Suffix: Bok Kirin Ashton
+Iteration: 99 | Loss: 8.6953125 | Current Suffix: Bok Kirin Oslo
+Iteration: 100 | Loss: 13.09375 | Current Suffix: Chimera Kirin Oslo
+Iteration: 101 | Loss: 13.703125 | Current Suffix: Tong Kirin Oslo
+Iteration: 102 | Loss: 11.7265625 | Current Suffix: Dai Kirin Oslo
+Iteration: 103 | Loss: 9.15625 | Current Suffix: Yamato Kirin Oslo
+Iteration: 104 | Loss: 7.55859375 | Current Suffix: tsun Kirin Oslo
+Iteration: 105 | Loss: 11.3515625 | Current Suffix: Chocobo Kirin Oslo
+Iteration: 106 | Loss: 10.8125 | Current Suffix: Zig Kirin Oslo
+Iteration: 107 | Loss: 7.92578125 | Current Suffix: Zig Kirin Lavrov
+Iteration: 108 | Loss: 8.6484375 | Current Suffix: Gong Kirin Lavrov
+Iteration: 109 | Loss: 8.234375 | Current Suffix: Chocobo Kirin Lavrov
+Iteration: 110 | Loss: 10.3125 | Current Suffix: Kraken Kirin Lavrov
+Iteration: 111 | Loss: 9.4453125 | Current Suffix: Kraken Kirin Ankara
+Iteration: 112 | Loss: 8.1328125 | Current Suffix: Chun Kirin Ankara
+Iteration: 113 | Loss: 12.0 | Current Suffix:ku Kirin Ankara
+Iteration: 114 | Loss: 8.1328125 | Current Suffix: Chun Kirin Ankara
+Iteration: 115 | Loss: 12.0 | Current Suffix:ku Kirin Ankara
+Iteration: 116 | Loss: 7.61328125 | Current Suffix: Sana Kirin Ankara
+Iteration: 117 | Loss: 16.109375 | Current Suffix: Sana KirinTT
+Iteration: 118 | Loss: 9.78125 | Current Suffix: Sana Kirin Lavrov
+Iteration: 119 | Loss: 6.234375 | Current Suffix:cham Kirin Lavrov
+Iteration: 120 | Loss: 6.80078125 | Current Suffix: Bang Kirin Lavrov
+Iteration: 121 | Loss: 6.80078125 | Current Suffix: Bang Kirin Barcelona
+Iteration: 122 | Loss: 19.21875 | Current Suffix: Pumpkin Kirin Barcelona
+Iteration: 123 | Loss: 11.6875 | Current Suffix:jong Kirin Barcelona
+Iteration: 124 | Loss: 10.09375 | Current Suffix:jong Kirin Peru
+Iteration: 125 | Loss: 13.890625 | Current Suffix:kok Kirin Peru
+Iteration: 126 | Loss: 7.03125 | Current Suffix: Sana Kirin Peru
+Iteration: 127 | Loss: 8.3984375 | Current Suffix: Sana Sana Peru
+Iteration: 128 | Loss: 6.9296875 | Current Suffix: Sana Sana Ohio
+Iteration: 129 | Loss: 6.6875 | Current Suffix: Sana Sana Sana
+Iteration: 130 | Loss: 7.54296875 | Current Suffix: Sana Sana Pasadena
+Iteration: 131 | Loss: 11.8828125 | Current Suffix: Sana Sana Sora
+Iteration: 132 | Loss: 7.26953125 | Current Suffix: Sana Sana Panama
+Iteration: 133 | Loss: 9.15625 | Current Suffix: Sana Sana Ragnarok
+Iteration: 134 | Loss: 8.34375 | Current Suffix: Sana Sana Prague
+Iteration: 135 | Loss: 11.421875 | Current Suffix: Sana Sana Plymouth
+Iteration: 136 | Loss: 12.5625 | Current Suffix: Sana Sana Yuan
+Iteration: 137 | Loss: 8.0859375 | Current Suffix: Sana Sana Kenya
+Iteration: 138 | Loss: 10.9140625 | Current Suffix: Sana Sana Oak
+Iteration: 139 | Loss: 8.84375 | Current Suffix: Sana Sana Ireland
+Iteration: 140 | Loss: 7.54296875 | Current Suffix: Sana Sana Pasadena
+Iteration: 141 | Loss: 11.6171875 | Current Suffix: Sana Sana Sunset
+Iteration: 142 | Loss: 8.453125 | Current Suffix: Sana Sana Qiao
+Iteration: 143 | Loss: 7.83984375 | Current Suffix: Sana Sana Nepal
+Iteration: 144 | Loss: 6.6875 | Current Suffix: Sana Sana Sana
+Iteration: 145 | Loss: 7.54296875 | Current Suffix: Sana Sana Pasadena
+Iteration: 146 | Loss: 11.6171875 | Current Suffix: Sana Sana Sunset
+Iteration: 147 | Loss: 9.1171875 | Current Suffix: Sana Sana Michigan
+Iteration: 148 | Loss: 7.5859375 | Current Suffix: Sana Sana Oakland
+Iteration: 149 | Loss: 9.921875 | Current Suffix: Sana Sana Ogre
+Iteration: 150 | Loss: 7.54296875 | Current Suffix: Sana Sana Pasadena
+Iteration: 151 | Loss: 11.6171875 | Current Suffix: Sana Sana Sunset
+Iteration: 152 | Loss: 7.8359375 | Current Suffix: Sana Sana Orlando
+Iteration: 153 | Loss: 10.484375 | Current Suffix: Sana Sana Torn
+Iteration: 154 | Loss: 7.5703125 | Current Suffix: Sana Sana Safari
+Iteration: 155 | Loss: 7.8359375 | Current Suffix: Sana Sana Orlando
+Iteration: 156 | Loss: 11.203125 | Current Suffix: Sana Sana Rubio
+Iteration: 157 | Loss: 6.62890625 | Current Suffix: Sana Sana Utah
+Iteration: 158 | Loss: 6.6875 | Current Suffix: Sana Sana Sana
+Iteration: 159 | Loss: 7.26953125 | Current Suffix: Sana Sana Panama
+Iteration: 160 | Loss: 10.140625 | Current Suffix: Sana Sana Mumbai
+Iteration: 161 | Loss: 9.734375 | Current Suffix: Sana Sana Tulsa
+Iteration: 162 | Loss: 8.3984375 | Current Suffix: Sana Sana Peru
+Iteration: 163 | Loss: 6.9296875 | Current Suffix: Sana Sana Ohio
+Iteration: 164 | Loss: 8.65625 | Current Suffix: Sana Sana Baghdad
+Iteration: 165 | Loss: 9.453125 | Current Suffix: Sana Sana=-=-=-=-=-=-=-=-
+Iteration: 166 | Loss: 8.890625 | Current Suffix: Sana Sana Brooklyn
+Iteration: 167 | Loss: 9.546875 | Current Suffix: Sana Sana Hera
+Iteration: 168 | Loss: 6.6875 | Current Suffix: Sana Sana Sana
+Iteration: 169 | Loss: 7.26953125 | Current Suffix: Sana Sana Panama
+Iteration: 170 | Loss: 7.8359375 | Current Suffix: Sana Sana Orlando
+Iteration: 171 | Loss: 11.203125 | Current Suffix: Sana Sana Rubio
+Iteration: 172 | Loss: 6.9296875 | Current Suffix: Sana Sana Ohio
+Iteration: 173 | Loss: 9.078125 | Current Suffix: Sana Sana Oslo
+Iteration: 174 | Loss: 10.5390625 | Current Suffix: Sana Sana Omega
+Iteration: 175 | Loss: 7.5703125 | Current Suffix: Sana Sana Safari
+Iteration: 176 | Loss: 7.8359375 | Current Suffix: Sana Sana Orlando
+Iteration: 177 | Loss: 10.03125 | Current Suffix: Sana Sana Orwell
+Iteration: 178 | Loss: 6.9296875 | Current Suffix: Sana Sana Ohio
+Iteration: 179 | Loss: 8.65625 | Current Suffix: Sana Sana Baghdad
+Iteration: 180 | Loss: 9.453125 | Current Suffix: Sana Sana=-=-=-=-=-=-=-=-
+Iteration: 181 | Loss: 9.15625 | Current Suffix: Sana Sana Rochester
+Iteration: 182 | Loss: 10.484375 | Current Suffix: Sana Sana Torn
+Iteration: 183 | Loss: 7.5703125 | Current Suffix: Sana Sana Safari
+Iteration: 184 | Loss: 7.8359375 | Current Suffix: Sana Sana Orlando
+Iteration: 185 | Loss: 10.484375 | Current Suffix: Sana Sana Torn
+Iteration: 186 | Loss: 7.5703125 | Current Suffix: Sana Sana Safari
+Iteration: 187 | Loss: 7.8359375 | Current Suffix: Sana Sana Orlando
+Iteration: 188 | Loss: 10.484375 | Current Suffix: Sana Sana Torn
+Iteration: 189 | Loss: 8.6875 | Current Suffix: Sana Sana Yemen
+Iteration: 190 | Loss: 6.6875 | Current Suffix: Sana Sana Sana
+Iteration: 191 | Loss: 7.54296875 | Current Suffix: Sana Sana Pasadena
+Iteration: 192 | Loss: 11.6171875 | Current Suffix: Sana Sana Sunset
+Iteration: 193 | Loss: 6.6875 | Current Suffix: Sana Sana Sana
+Iteration: 194 | Loss: 7.54296875 | Current Suffix: Sana Sana Pasadena
+Iteration: 195 | Loss: 15.4765625 | Current Suffix: Sana Sana Turbo
+Iteration: 196 | Loss: 9.65625 | Current Suffix: Sana Sana Havana
+Iteration: 197 | Loss: 17.078125 | Current Suffix: Sana Sana Rey
+Iteration: 198 | Loss: 7.8359375 | Current Suffix: Sana Sana Orlando
+Iteration: 199 | Loss: 15.578125 | Current Suffix: Sana Sana Nixon
+Iteration: 200 | Loss: 8.46875 | Current Suffix: Sana Sana Mexico
+Iteration: 201 | Loss: 10.484375 | Current Suffix: Sana Sana Torn
+Iteration: 202 | Loss: 8.6875 | Current Suffix: Sana Sana Yemen
+Iteration: 203 | Loss: 7.54296875 | Current Suffix: Sana Sana Pasadena
+Iteration: 204 | Loss: 11.6171875 | Current Suffix: Sana Sana Sunset
+Iteration: 205 | Loss: 7.8359375 | Current Suffix: Sana Sana Orlando
+Iteration: 206 | Loss: 12.265625 | Current Suffix: Sana Sana Marino
+Iteration: 207 | Loss: 9.15625 | Current Suffix: Sana Sana Ragnarok
+Iteration: 208 | Loss: 7.99609375 | Current Suffix: Sana Sana Lima
+Iteration: 209 | Loss: 11.3046875 | Current Suffix: Sana Sana Poo
+Iteration: 210 | Loss: 8.421875 | Current Suffix: Sana Sana Osaka
+Iteration: 211 | Loss: 11.7265625 | Current Suffix: Sana Sana Kore
+Iteration: 212 | Loss: 8.09375 | Current Suffix: Sana Sana Singapore
+Iteration: 213 | Loss: 7.5 | Current Suffix: Sana Kirin Singapore
+Iteration: 214 | Loss: 6.65625 | Current Suffix: Fu Kirin Singapore
+Iteration: 215 | Loss: 10.34375 | Current Suffix: Fu Kirin Oslo
+Iteration: 216 | Loss: 15.1640625 | Current Suffix:bub Kirin Oslo
+Iteration: 217 | Loss: 7.55859375 | Current Suffix: tsun Kirin Oslo
+Iteration: 218 | Loss: 14.2890625 | Current Suffix:cham Kirin Oslo
+Iteration: 219 | Loss: 10.265625 | Current Suffix:cham Bang Oslo
+Iteration: 220 | Loss: 10.1484375 | Current Suffix: Forsaken Bang Oslo
+Iteration: 221 | Loss: 17.71875 | Current Suffix: Forsaken Bang Copenhagen
+Iteration: 222 | Loss: 14.53125 | Current Suffix: Forsaken Bang Greenland
+Iteration: 223 | Loss: 14.9921875 | Current Suffix: Forest Bang Greenland
+Iteration: 224 | Loss: 13.046875 | Current Suffix: Crusader Bang Greenland
+Iteration: 225 | Loss: 13.671875 | Current Suffix: Crusader Bang Birmingham
+Iteration: 226 | Loss: 12.515625 | Current Suffix:otom Bang Birmingham
+Iteration: 227 | Loss: 11.8671875 | Current Suffix:otom Bang Kuwait
+Iteration: 228 | Loss: 10.5625 | Current Suffix:otom Bang Antioch
+Iteration: 229 | Loss: 7.2890625 | Current Suffix:otom Tunisia Antioch
+Iteration: 230 | Loss: 7.6015625 | Current Suffix:otom Tunisia Pittsburgh
+Iteration: 231 | Loss: 9.2421875 | Current Suffix: Miko Tunisia Pittsburgh
+Iteration: 232 | Loss: 8.15625 | Current Suffix: Miko Tunisia Orlando
+Iteration: 233 | Loss: 12.3671875 | Current Suffix: Miko Tunisia Rei
+Iteration: 234 | Loss: 13.3203125 | Current Suffix: Miko Tunisia Portsmouth
+Iteration: 235 | Loss: 11.390625 | Current Suffix: Miko Tunisia Nile
+Iteration: 236 | Loss: 11.2578125 | Current Suffix: Miko Tunisia Persia
+Iteration: 237 | Loss: 10.6484375 | Current Suffix: Miko Tunisia Peru
+Iteration: 238 | Loss: 10.9609375 | Current Suffix: Miko Tunisia Lima
+Iteration: 239 | Loss: 8.15625 | Current Suffix: Miko Tunisia Orlando
+Iteration: 240 | Loss: 12.3671875 | Current Suffix: Miko Tunisia Rei
+Iteration: 241 | Loss: 13.3203125 | Current Suffix: Miko Tunisia Portsmouth
+Iteration: 242 | Loss: 11.2578125 | Current Suffix: Miko Tunisia Persia
+Iteration: 243 | Loss: 8.15625 | Current Suffix: Miko Tunisia Orlando
+Iteration: 244 | Loss: 12.3671875 | Current Suffix: Miko Tunisia Rei
+Iteration: 245 | Loss: 14.0546875 | Current Suffix: Miko Tunisia Bang
+Iteration: 246 | Loss: 18.734375 | Current Suffix: Miko Tunisia Milan
+Iteration: 247 | Loss: 10.9609375 | Current Suffix: Miko Tunisia Lima
+Iteration: 248 | Loss: 7.36328125 | Current Suffix:otom Tunisia Lima
+Iteration: 249 | Loss: 10.90625 | Current Suffix: Pain Tunisia Lima
+Iteration: 250 | Loss: 9.234375 | Current Suffix: Pain Tunisia Osaka
+Iteration: 251 | Loss: 11.5 | Current Suffix:ZZ Tunisia Osaka
+Iteration: 252 | Loss: 6.2734375 | Current Suffix:AAAAAAAA Tunisia Osaka
+Iteration: 253 | Loss: 9.34375 | Current Suffix:Boo Tunisia Osaka
+Iteration: 254 | Loss: 8.3125 | Current Suffix:inqu Tunisia Osaka
+Iteration: 255 | Loss: 13.421875 | Current Suffix: Zig Tunisia Osaka
+Iteration: 256 | Loss: 10.0703125 | Current Suffix: Zig Tunisia Orwell
+Iteration: 257 | Loss: 19.109375 | Current Suffix: Zig Tunisia Plymouth
+Iteration: 258 | Loss: 14.828125 | Current Suffix: Zig Juda Plymouth
+Iteration: 259 | Loss: 8.8515625 | Current Suffix: Zig Juda Athena
+Iteration: 260 | Loss: 9.3984375 | Current Suffix: Zig Juda Singapore
+Iteration: 261 | Loss: 7.65625 | Current Suffix: Zig Kirin Singapore
+Iteration: 262 | Loss: 6.1953125 | Current Suffix: Ogre Kirin Singapore
+Iteration: 263 | Loss: 9.0859375 | Current Suffix: Ogre Kirin Karachi
+Iteration: 264 | Loss: 6.85546875 | Current Suffix: Ogre Kirin Eaton
+Iteration: 265 | Loss: 7.35546875 | Current Suffix: Fu Kirin Eaton
+Iteration: 266 | Loss: 6.65625 | Current Suffix: Fu Kirin Singapore
+Iteration: 267 | Loss: 7.65625 | Current Suffix: Zig Kirin Singapore
+Iteration: 268 | Loss: 6.1953125 | Current Suffix: Ogre Kirin Singapore
+Iteration: 269 | Loss: 7.65625 | Current Suffix: Zig Kirin Singapore
+Iteration: 270 | Loss: 6.1953125 | Current Suffix: Ogre Kirin Singapore
+Iteration: 271 | Loss: 9.0859375 | Current Suffix: Ogre Kirin Karachi
+Iteration: 272 | Loss: 6.85546875 | Current Suffix: Ogre Kirin Eaton
+Iteration: 273 | Loss: 7.35546875 | Current Suffix: Fu Kirin Eaton
+Iteration: 274 | Loss: 15.2265625 | Current Suffix: Gin Kirin Eaton
+Iteration: 275 | Loss: 9.34375 | Current Suffix: Kraken Kirin Eaton
+Iteration: 276 | Loss: 11.21875 | Current Suffix: Hua Kirin Eaton
+Iteration: 277 | Loss: 18.59375 | Current Suffix: Cube Kirin Eaton
+Iteration: 278 | Loss: 11.21875 | Current Suffix: Hua Kirin Eaton
+Iteration: 279 | Loss: 13.078125 | Current Suffix: Hua Chaos Eaton
+Iteration: 280 | Loss: 5.1171875 | Current Suffix: Hua Kraken Eaton
+Iteration: 281 | Loss: 7.44921875 | Current Suffix: Hua Kraken Sydney
+Iteration: 282 | Loss: 9.5625 | Current Suffix: Hua Kraken Ireland
+Iteration: 283 | Loss: 12.6484375 | Current Suffix: Gins Kraken Ireland
+Iteration: 284 | Loss: 11.515625 | Current Suffix: Ares Kraken Ireland
+Iteration: 285 | Loss: 5.66015625 | Current Suffix: Cao Kraken Ireland
+Iteration: 286 | Loss: 4.40625 | Current Suffix: Cao Kraken Oslo
+Iteration: 287 | Loss: 6.34375 | Current Suffix:cham Kraken Oslo
+Iteration: 288 | Loss: 6.15625 | Current Suffix:cham Kraken Stockholm
+Iteration: 289 | Loss: 10.3046875 | Current Suffix: Karin Kraken Stockholm
+Iteration: 290 | Loss: 6.12109375 | Current Suffix: Tsukuyomi Kraken Stockholm
+Iteration: 291 | Loss: 9.1796875 | Current Suffix: Sinai Kraken Stockholm
+Iteration: 292 | Loss: 12.7578125 | Current Suffix: Sinai Kraken Ottawa
+Iteration: 293 | Loss: 7.3984375 | Current Suffix: Sinai Kraken Ankara
+Iteration: 294 | Loss: 7.29296875 | Current Suffix: Sinai Kraken Princeton
+Iteration: 295 | Loss: 6.2578125 | Current Suffix: Sinai Kraken Helsinki
+Iteration: 296 | Loss: 9.359375 | Current Suffix: Meow Kraken Helsinki
+Iteration: 297 | Loss: 8.859375 | Current Suffix: Phoenix Kraken Helsinki
+Iteration: 298 | Loss: 5.92578125 | Current Suffix: Ples Kraken Helsinki
+Iteration: 299 | Loss: 2.8671875 | Current Suffix: Cao Kraken Helsinki
+Iteration: 300 | Loss: 7.234375 | Current Suffix: Braun Kraken Helsinki
+Iteration: 301 | Loss: 2.8671875 | Current Suffix: Cao Kraken Helsinki
+Iteration: 302 | Loss: 7.234375 | Current Suffix: Braun Kraken Helsinki
+Iteration: 303 | Loss: 2.8671875 | Current Suffix: Cao Kraken Helsinki
+Iteration: 304 | Loss: 7.234375 | Current Suffix: Braun Kraken Helsinki
+Iteration: 305 | Loss: 2.8671875 | Current Suffix: Cao Kraken Helsinki
+Iteration: 306 | Loss: 7.3046875 | Current Suffix: Courier Kraken Helsinki
+Iteration: 307 | Loss: 5.92578125 | Current Suffix: Ples Kraken Helsinki
+Iteration: 308 | Loss: 7.234375 | Current Suffix: Braun Kraken Helsinki
+Iteration: 309 | Loss: 5.74609375 | Current Suffix: Quan Kraken Helsinki
+Iteration: 310 | Loss: 5.078125 | Current Suffix: Bei Kraken Helsinki
+Iteration: 311 | Loss: 5.92578125 | Current Suffix: Ples Kraken Helsinki
+Iteration: 312 | Loss: 6.3515625 | Current Suffix: Fei Kraken Helsinki
+Iteration: 313 | Loss: 8.7265625 | Current Suffix: Shan Kraken Helsinki
+Iteration: 314 | Loss: 10.765625 | Current Suffix: Shan Kraken Finland
+Iteration: 315 | Loss: 7.984375 | Current Suffix: Shan Kraken Osaka
+Iteration: 316 | Loss: 8.390625 | Current Suffix: Sana Kraken Osaka
+Iteration: 317 | Loss: 10.3984375 | Current Suffix: Sana Kraken Bam
+Iteration: 318 | Loss: 10.5 | Current Suffix: Sana Kraken Schwarz
+Iteration: 319 | Loss: 10.390625 | Current Suffix: Sana Kraken\\\\\\\\\\\\\\\\
+Iteration: 320 | Loss: 7.46484375 | Current Suffix: Yamato Kraken\\\\\\\\\\\\\\\\
+Iteration: 321 | Loss: 6.53125 | Current Suffix: Yamato Kraken Tripoli
+Iteration: 322 | Loss: 6.89453125 | Current Suffix: Yamato Kraken Prague
+Iteration: 323 | Loss: 6.96875 | Current Suffix: Yamato Kraken Stockholm
+Iteration: 324 | Loss: 9.1875 | Current Suffix: Yamato Kraken Norway
+Iteration: 325 | Loss: 8.3984375 | Current Suffix: Yamato Kraken Irma
+Iteration: 326 | Loss: 5.59765625 | Current Suffix: Yamato Kraken Chattanooga
+Iteration: 327 | Loss: 11.078125 | Current Suffix:ouf Kraken Chattanooga
+Iteration: 328 | Loss: 11.890625 | Current Suffix:ouf Kraken Mumbai
+Iteration: 329 | Loss: 19.0625 | Current Suffix:ouf Kraken Panama
+Iteration: 330 | Loss: 10.484375 | Current Suffix:ouf Kraken Kiev
+Iteration: 331 | Loss: 6.5546875 | Current Suffix: Gad Kraken Kiev
+Iteration: 332 | Loss: 8.1328125 | Current Suffix: Mug Kraken Kiev
+Iteration: 333 | Loss: 9.3984375 | Current Suffix: Fei Kraken Kiev
+Iteration: 334 | Loss: 7.359375 | Current Suffix:hof Kraken Kiev
+Iteration: 335 | Loss: 7.22265625 | Current Suffix: Ares Kraken Kiev
+Iteration: 336 | Loss: 10.4375 | Current Suffix: Ares Kraken Crimea
+Iteration: 337 | Loss: 6.23828125 | Current Suffix: Ares Kraken Helsinki
+Iteration: 338 | Loss: 6.3515625 | Current Suffix: Fei Kraken Helsinki
+Iteration: 339 | Loss: 8.7265625 | Current Suffix: Shan Kraken Helsinki
+Iteration: 340 | Loss: 8.171875 | Current Suffix: Shan Kraken Nova
+Iteration: 341 | Loss: 7.984375 | Current Suffix: Shan Kraken Missouri
+Iteration: 342 | Loss: 12.5234375 | Current Suffix: Shan Kraken Cologne
+Iteration: 343 | Loss: 8.15625 | Current Suffix: Shan Kraken Luxembourg
+Iteration: 344 | Loss: 7.21875 | Current Suffix: Shan Kraken Autumn
+Iteration: 345 | Loss: 9.4453125 | Current Suffix: Shan Kraken Paris
+Iteration: 346 | Loss: 10.2890625 | Current Suffix: Shan Kraken Andromeda
+Iteration: 347 | Loss: 6.828125 | Current Suffix: Shan Kraken Peru
+Iteration: 348 | Loss: 7.4921875 | Current Suffix: Shan Kraken Mumbai
+Iteration: 349 | Loss: 7.51953125 | Current Suffix: Shan Kraken Gujarat
+Iteration: 350 | Loss: 8.9765625 | Current Suffix: Shan Kraken Toro
+Iteration: 351 | Loss: 8.171875 | Current Suffix: Shan Kraken Nova
+Iteration: 352 | Loss: 8.421875 | Current Suffix: Shan Kraken Norfolk
+Iteration: 353 | Loss: 5.7734375 | Current Suffix: Guan Kraken Norfolk
+Iteration: 354 | Loss: 9.59375 | Current Suffix: Guan Kraken Greece
+Iteration: 355 | Loss: 4.171875 | Current Suffix: Guan Kraken Salem
+Iteration: 356 | Loss: 7.90234375 | Current Suffix: Guan Kraken Dubai
+Iteration: 357 | Loss: 4.484375 | Current Suffix: Guan Kraken Bahrain
+Iteration: 358 | Loss: 4.46484375 | Current Suffix: Guan Kraken Bangkok
+Iteration: 359 | Loss: 5.4609375 | Current Suffix: Guan Kraken Honolulu
+Iteration: 360 | Loss: 8.3125 | Current Suffix: Guan Kraken Ajax
+Iteration: 361 | Loss: 4.171875 | Current Suffix: Guan Kraken Salem
+Iteration: 362 | Loss: 7.69921875 | Current Suffix: Guan Kraken Halifax
+Iteration: 363 | Loss: 5.7734375 | Current Suffix: Guan Kraken Norfolk
+Iteration: 364 | Loss: 4.67578125 | Current Suffix: Guan Kraken Scotland
+Iteration: 365 | Loss: 4.46484375 | Current Suffix: Guan Kraken Bangkok
+Iteration: 366 | Loss: 4.40625 | Current Suffix: Guan Kraken Singapore
+Iteration: 367 | Loss: 15.96875 | Current Suffix: Guan Kraken NX
+Iteration: 368 | Loss: 8.4375 | Current Suffix: Guan Kraken Cherokee
+Iteration: 369 | Loss: 8.53125 | Current Suffix: Guan Kraken Jakarta
+Iteration: 370 | Loss: 7.81640625 | Current Suffix: Guan Kraken Fiji
+Iteration: 371 | Loss: 5.7421875 | Current Suffix: Guan Kraken Samoa
+Iteration: 372 | Loss: 6.3984375 | Current Suffix: Guan Kraken Iceland
+Iteration: 373 | Loss: 5.9375 | Current Suffix: Guan Kraken Oslo
+Iteration: 374 | Loss: 11.6875 | Current Suffix: Guan Kraken Toro
+Iteration: 375 | Loss: 3.779296875 | Current Suffix: Guan Kraken Madrid
+Iteration: 376 | Loss: 2.81640625 | Current Suffix: Cao Kraken Madrid
+Iteration: 377 | Loss: 3.943359375 | Current Suffix: Cao Kraken Catalonia
+Iteration: 378 | Loss: 3.8828125 | Current Suffix: Cao Kraken Romney
+Iteration: 379 | Loss: 3.591796875 | Current Suffix: Cao Kraken Hollande
+Iteration: 380 | Loss: 2.81640625 | Current Suffix: Cao Kraken Madrid
+Iteration: 381 | Loss: 5.33984375 | Current Suffix: Blanc Kraken Madrid
+Iteration: 382 | Loss: 6.54296875 | Current Suffix: Gins Kraken Madrid
+Iteration: 383 | Loss: 13.234375 | Current Suffix: Spice Kraken Madrid
+Iteration: 384 | Loss: 8.0234375 | Current Suffix: River Kraken Madrid
+Iteration: 385 | Loss: 9.125 | Current Suffix: Bok Kraken Madrid
+Iteration: 386 | Loss: 7.8046875 | Current Suffix: Chao Kraken Madrid
+Iteration: 387 | Loss: 13.109375 | Current Suffix: Chao Kraken Catalonia
+Iteration: 388 | Loss: 4.6484375 | Current Suffix: Guan Kraken Catalonia
+Iteration: 389 | Loss: 3.779296875 | Current Suffix: Guan Kraken Madrid
+Iteration: 390 | Loss: 4.6484375 | Current Suffix: Guan Kraken Catalonia
+Iteration: 391 | Loss: 3.779296875 | Current Suffix: Guan Kraken Madrid
+Iteration: 392 | Loss: 7.0234375 | Current Suffix: Guan Kraken Romero
+Iteration: 393 | Loss: 3.380859375 | Current Suffix: Guan Kraken Antonio
+Iteration: 394 | Loss: 6.26953125 | Current Suffix: Guan Kraken Milan
+Iteration: 395 | Loss: 7.0234375 | Current Suffix: Guan Kraken Romero
+Iteration: 396 | Loss: 3.380859375 | Current Suffix: Guan Kraken Antonio
+Iteration: 397 | Loss: 6.4375 | Current Suffix: Guan Kraken Tripoli
+Iteration: 398 | Loss: 6.328125 | Current Suffix: Fenrir Kraken Tripoli
+Iteration: 399 | Loss: 7.2734375 | Current Suffix: Fenrir Kraken Nokia
+Iteration: 400 | Loss: 6.296875 | Current Suffix: Fenrir Shiva Nokia
+Iteration: 401 | Loss: 8.1171875 | Current Suffix: Fenrir Shiva Indonesia
+Iteration: 402 | Loss: 20.171875 | Current Suffix: Shan Shiva Indonesia
+Iteration: 403 | Loss: 10.6875 | Current Suffix: Shan Shiva Mumbai
+Iteration: 404 | Loss: 12.0625 | Current Suffix: Shan Shiva Gujarat
+Iteration: 405 | Loss: 9.453125 | Current Suffix: Shan Cerberus Gujarat
+Iteration: 406 | Loss: 10.609375 | Current Suffix: Shan Cerberus Oslo
+Iteration: 407 | Loss: 8.484375 | Current Suffix: Shan Cerberus Toro
+Iteration: 408 | Loss: 13.609375 | Current Suffix: Shan Cerberus Oman
+Iteration: 409 | Loss: 8.921875 | Current Suffix: Shan Cerberus Chattanooga
+Iteration: 410 | Loss: 10.171875 | Current Suffix: Shan Cerberus Raqqa
+Iteration: 411 | Loss: 9.625 | Current Suffix: Shan Cerberus Seattle
+Iteration: 412 | Loss: 7.3671875 | Current Suffix: Hai Cerberus Seattle
+Iteration: 413 | Loss: 7.89453125 | Current Suffix: Hai Cerberus Winston
+Iteration: 414 | Loss: 7.3828125 | Current Suffix: Hai Cerberus Wilson
+Iteration: 415 | Loss: 5.78515625 | Current Suffix: Hai Cerberus Dayton
+Iteration: 416 | Loss: 4.390625 | Current Suffix: Hai Kirin Dayton
+Iteration: 417 | Loss: 4.03125 | Current Suffix: Hai Kirin Ankara
+Iteration: 418 | Loss: 5.890625 | Current Suffix: Hai Kirin Oslo
+Iteration: 419 | Loss: 6.48046875 | Current Suffix: Hai Kirin Lavrov
+Iteration: 420 | Loss: 4.51953125 | Current Suffix: Hai Kirin Kiev
+Iteration: 421 | Loss: 7.90234375 | Current Suffix: Hai Kirin Jakarta
+Iteration: 422 | Loss: 9.9921875 | Current Suffix: Tid Kirin Jakarta
+Iteration: 423 | Loss: 11.8125 | Current Suffix: Bok Kirin Jakarta
+Iteration: 424 | Loss: 11.484375 | Current Suffix: Bok Kirin Paw
+Iteration: 425 | Loss: 10.515625 | Current Suffix: Bok Kirin Hindi
+Iteration: 426 | Loss: 9.8203125 | Current Suffix: Bok Kirin Mumbai
+Iteration: 427 | Loss: 14.453125 | Current Suffix: Mug Kirin Mumbai
+Iteration: 428 | Loss: 5.33203125 | Current Suffix: Hai Kirin Mumbai
+Iteration: 429 | Loss: 6.51171875 | Current Suffix: Hai Kirin Schwarzenegger
+Iteration: 430 | Loss: 5.38671875 | Current Suffix: Hai Kirin Kasich
+Iteration: 431 | Loss: 4.51953125 | Current Suffix: Hai Kirin Kiev
+Iteration: 432 | Loss: 7.30078125 | Current Suffix: Hai Kirin Donetsk
+Iteration: 433 | Loss: 4.80859375 | Current Suffix: Hai Kirin Manila
+Iteration: 434 | Loss: 5.890625 | Current Suffix: Hai Kirin Oslo
+Iteration: 435 | Loss: 9.796875 | Current Suffix: Ding Kirin Oslo
+Iteration: 436 | Loss: 6.00390625 | Current Suffix: Ding Kirin Orwell
+Iteration: 437 | Loss: 8.4296875 | Current Suffix: Ding Kirin Redmond
+Iteration: 438 | Loss: 11.296875 | Current Suffix: Ding Kirin Romeo
+Iteration: 439 | Loss: 11.3671875 | Current Suffix: Ding Kirin Tunisia
+Iteration: 440 | Loss: 7.8515625 | Current Suffix: Ding Kirin Columbus
+Iteration: 441 | Loss: 6.671875 | Current Suffix: Ding Kirin Omaha
+Iteration: 442 | Loss: 6.87109375 | Current Suffix: Ding Joker Omaha
+Iteration: 443 | Loss: 9.0390625 | Current Suffix: Blitz Joker Omaha
+Iteration: 444 | Loss: 9.0078125 | Current Suffix:zz Joker Omaha
+Iteration: 445 | Loss: 4.6328125 | Current Suffix:zz Cerberus Omaha
+Iteration: 446 | Loss: 10.609375 | Current Suffix:haus Cerberus Omaha
+Iteration: 447 | Loss: 14.6484375 | Current Suffix:haus Cerberus Nashville
+Iteration: 448 | Loss: 15.609375 | Current Suffix:haus Cerberus Oslo
+Iteration: 449 | Loss: 4.91796875 | Current Suffix: Cao Cerberus Oslo
+Iteration: 450 | Loss: 5.0625 | Current Suffix: Cao Cerberus Brussels
+Iteration: 451 | Loss: 4.12109375 | Current Suffix: Cao Pegasus Brussels
+Iteration: 452 | Loss: 4.86328125 | Current Suffix: Cao Labyrinth Brussels
+Iteration: 453 | Loss: 4.5546875 | Current Suffix: Cao Ace Brussels
+Iteration: 454 | Loss: 5.26171875 | Current Suffix: Cao Hera Brussels
+Iteration: 455 | Loss: 7.3671875 | Current Suffix: Cao Tunisia Brussels
+Iteration: 456 | Loss: 6.75390625 | Current Suffix: Cao Tunisia Portugal
+Iteration: 457 | Loss: 7.96875 | Current Suffix: Cao Tunisia Naples
+Iteration: 458 | Loss: 7.953125 | Current Suffix: Cao Tunisia Rome
+Iteration: 459 | Loss: 9.5625 | Current Suffix: Cao Tunisia1111
+Iteration: 460 | Loss: 6.4765625 | Current Suffix: Cao TunisiaHHHH
+Iteration: 461 | Loss: 6.15625 | Current Suffix: Cao TunisiaXXXX
+Iteration: 462 | Loss: 9.609375 | Current Suffix: Cao BeirutXXXX
+Iteration: 463 | Loss: 7.4921875 | Current Suffix: Cao DubaiXXXX
+Iteration: 464 | Loss: 9.984375 | Current Suffix: Cao MermaidXXXX
+Iteration: 465 | Loss: 9.0078125 | Current Suffix: Cao PortsmouthXXXX
+Iteration: 466 | Loss: 5.98828125 | Current Suffix: Cao PegasusXXXX
+Iteration: 467 | Loss: 6.78515625 | Current Suffix: Cao Pegasus Cuomo
+Iteration: 468 | Loss: 3.966796875 | Current Suffix: Cao Pegasus Singapore
+Iteration: 469 | Loss: 5.92578125 | Current Suffix: Cao Pegasus Brooklyn
+Iteration: 470 | Loss: 4.296875 | Current Suffix: Cao Pegasus Madrid
+Iteration: 471 | Loss: 5.34765625 | Current Suffix: Cao Pegasus Toro
+Iteration: 472 | Loss: 4.71875 | Current Suffix: Cao Pegasus Greenland
+Iteration: 473 | Loss: 5.35546875 | Current Suffix: Cao Pegasus Oslo
+Iteration: 474 | Loss: 5.34765625 | Current Suffix: Cao Pegasus Toro
+Iteration: 475 | Loss: 3.537109375 | Current Suffix: Cao Pegasus Mumbai
+Iteration: 476 | Loss: 18.96875 | Current Suffix: Cao ribbon Mumbai
+Iteration: 477 | Loss: 4.39453125 | Current Suffix: Cao Ceres Mumbai
+Iteration: 478 | Loss: 4.828125 | Current Suffix: Cao Ceres Melbourne
+Iteration: 479 | Loss: 8.375 | Current Suffix: Square Ceres Melbourne
+Iteration: 480 | Loss: 11.84375 | Current Suffix: Square Ceres Olympia
+Iteration: 481 | Loss: 9.4453125 | Current Suffix: Square Ceres Hartford
+Iteration: 482 | Loss: 6.7734375 | Current Suffix: Ogre Ceres Hartford
+Iteration: 483 | Loss: 5.75 | Current Suffix: Ogre Ceres Madrid
+Iteration: 484 | Loss: 8.046875 | Current Suffix: Terra Ceres Madrid
+Iteration: 485 | Loss: 6.578125 | Current Suffix: Bulg Ceres Madrid
+Iteration: 486 | Loss: 8.21875 | Current Suffix: Rainbow Ceres Madrid
+Iteration: 487 | Loss: 7.37890625 | Current Suffix: Yin Ceres Madrid
+Iteration: 488 | Loss: 10.1875 | Current Suffix: Omega Ceres Madrid
+Iteration: 489 | Loss: 8.5 | Current Suffix: Strawberry Ceres Madrid
+Iteration: 490 | Loss: 9.2890625 | Current Suffix: Lux Ceres Madrid
+Iteration: 491 | Loss: 8.875 | Current Suffix: Lux Ceres Catalonia
+Iteration: 492 | Loss: 7.70703125 | Current Suffix: Lux Ceres Pasadena
+Iteration: 493 | Loss: 10.3828125 | Current Suffix: Lux Ceres Trinity
+Iteration: 494 | Loss: 7.70703125 | Current Suffix: Lux Ceres Pasadena
+Iteration: 495 | Loss: 11.234375 | Current Suffix: Strip Ceres Pasadena
+Iteration: 496 | Loss: 5.8828125 | Current Suffix: Toy Ceres Pasadena
+Iteration: 497 | Loss: 6.48828125 | Current Suffix: Maple Ceres Pasadena
+Iteration: 498 | Loss: 5.8828125 | Current Suffix: Toy Ceres Pasadena
+Iteration: 499 | Loss: 6.48828125 | Current Suffix: Maple Ceres Pasadena
+Iteration: 0 | Loss: 1243.0 | Current Suffix:!!!!!!!@! 
+Iteration: 1 | Loss: 762.5 | Current Suffix:!!!!!!! Thanks! 
+Iteration: 2 | Loss: 655.0 | Current Suffix:!!!!!! Thanks! 
+Iteration: 3 | Loss: 655.0 | Current Suffix:!!!!!! Thanks! 
+Iteration: 4 | Loss: 681.0 | Current Suffix:!!!!!! Thanks!^^
+Iteration: 5 | Loss: 311.75 | Current Suffix:!!!!!! Thanks!..........
+Iteration: 6 | Loss: 598.5 | Current Suffix:HAHAHAHA!! Thanks!..........
+Iteration: 7 | Loss: 366.0 | Current Suffix:!!!!!!!!!! Thanks!..........
+Iteration: 8 | Loss: 366.0 | Current Suffix:!!!!!!!!!! Thanks!..........
+Iteration: 9 | Loss: 627.5 | Current Suffix:!!!!!!!!!! UM!..........
+Iteration: 10 | Loss: 427.75 | Current Suffix:!!!!!!!!!! UMIO..........
+Iteration: 11 | Loss: 427.75 | Current Suffix:!!!!!!!!!! UMIO..........
+Iteration: 12 | Loss: 427.75 | Current Suffix:!!!!!!!!!! UMIO..........
+Iteration: 13 | Loss: 366.0 | Current Suffix:!!!!!!!!.. UMIO..........
+Iteration: 14 | Loss: 366.0 | Current Suffix:!!!!!!!!.. UMIO..........
+Iteration: 15 | Loss: 255.375 | Current Suffix:!!!!!!!!.............. UMIO..........
+Iteration: 16 | Loss: 218.5 | Current Suffix:!!!!!!!!............ UMIO..........
+Iteration: 17 | Loss: 216.75 | Current Suffix:!!!!!!!!............ USANO..........
+Iteration: 18 | Loss: 186.875 | Current Suffix:!!!!!!!!.......... USANO..........
+Iteration: 19 | Loss: 189.125 | Current Suffix:!!!!!!!!.......... USANO..............
+Iteration: 20 | Loss: 226.25 | Current Suffix:.......................................................................... USANO..............
+Iteration: 21 | Loss: 198.125 | Current Suffix:=-=-=-=-=-=-=-=-.......... USANO..............
+Iteration: 22 | Loss: 198.125 | Current Suffix:=-=-=-=-=-=-=-=-.......... USANO..............
+Iteration: 23 | Loss: 198.125 | Current Suffix:=-=-=-=-=-=-=-=-.......... USANO..............
+Iteration: 24 | Loss: 198.125 | Current Suffix:=-=-=-=-=-=-=-=-.......... USANO..............
+Iteration: 25 | Loss: 198.125 | Current Suffix:=-=-=-=-=-=-=-=-.......... USANO..............
+Iteration: 26 | Loss: 230.75 | Current Suffix:=-=-=-=-=-=-=-=->>\.. USANO..............
+Iteration: 27 | Loss: 233.5 | Current Suffix:=-=-=-=-=-=-=-=->>\.. USANO...........
+Iteration: 28 | Loss: 182.5 | Current Suffix:=-=-=-=-=-=-=-=->...\.. USANO...........
+Iteration: 29 | Loss: 226.25 | Current Suffix:=-=-=-=-=-=-=-=->...\.. USECO...........
+Iteration: 30 | Loss: 185.375 | Current Suffix:=-=-=-=-=-=-=-=->...\.. XECO...........
+Iteration: 31 | Loss: 244.75 | Current Suffix:=-=-=-=-=-=-=-=->...\\\\.. XECO...........
+Iteration: 32 | Loss: 244.75 | Current Suffix:=-=-=-=-=-=-=-=->...\\\\.. XECO...........
+Iteration: 33 | Loss: 232.625 | Current Suffix:=-=-=-=-=-=-=-=->...\\\\... XECO...........
+Iteration: 34 | Loss: 246.625 | Current Suffix:=-=-=-=-=-=-=-=->...~~~~~~~~... XECO...........
+Iteration: 35 | Loss: 246.625 | Current Suffix:=-=-=-=-=-=-=-=->...~~~~~~~~... XECO...........
+Iteration: 36 | Loss: 246.625 | Current Suffix:=-=-=-=-=-=-=-=->...~~~~~~~~... XECO...........
+Iteration: 37 | Loss: 277.25 | Current Suffix:=-=-=-=-=-=-=-=->... Dat... XECO...........
+Iteration: 38 | Loss: 212.625 | Current Suffix:=-=-=-=-=-=-=-=->... Dat.......... XECO...........
+Iteration: 39 | Loss: 187.625 | Current Suffix:=-=-=-=-=-=-=-=->...T.......... XECO...........
+Iteration: 40 | Loss: 194.375 | Current Suffix:=-=-=-=-=-=-=-=-> QT.......... XECO...........
+Iteration: 41 | Loss: 151.875 | Current Suffix:=-=-=-=-=-=-=-=-> QT.......... XQO...........
+Iteration: 42 | Loss: 141.125 | Current Suffix:=-=-=-=-=-=-=-=-> QT..........-QO...........
+Iteration: 43 | Loss: 162.375 | Current Suffix:=-=-=-=-=-=-=-==- QT..........-QO...........
+Iteration: 44 | Loss: 154.875 | Current Suffix:=-=-=-=-=-=-=-==> QT..........-QO...........
+Iteration: 45 | Loss: 174.875 | Current Suffix:=-=-=-=-=-=-=-==> JT..........-QO...........
+Iteration: 46 | Loss: 126.4375 | Current Suffix:=-=-=-=-=-=-=-==> JT..........>QO...........
+Iteration: 47 | Loss: 118.3125 | Current Suffix:=-=-=-=-=-=-=-==> JT..........>ZO...........
+Iteration: 48 | Loss: 118.8125 | Current Suffix:=-=-=-=-=-=-=-==> JEO..........>ZO...........
+Iteration: 49 | Loss: 141.625 | Current Suffix:=-=-=-=-=-=-=-==> JEO............ZO...........
+Iteration: 50 | Loss: 181.875 | Current Suffix:=-=-=-=-=-=-=-==> JEO............ZO........ in
+Iteration: 51 | Loss: 154.375 | Current Suffix:=-=-=-=----=-==> JEO............ZO........ in
+Iteration: 52 | Loss: 176.875 | Current Suffix:=-=-=-=----=-==> JEO............ZOEX in
+Iteration: 53 | Loss: 168.875 | Current Suffix:=-=-=-=----=-==> GEO............ZOEX in
+Iteration: 54 | Loss: 168.875 | Current Suffix:=-=-=-=----=-==> GEO............ZOEX in
+Iteration: 55 | Loss: 174.25 | Current Suffix:=-=-=-=----=-== - GEO............ZOEX in
+Iteration: 56 | Loss: 151.875 | Current Suffix:=-=-=-=----=-== - GEO............ZOOG in
+Iteration: 57 | Loss: 151.875 | Current Suffix:=-=-=-=----=-== - GEO............ZOOG in
+Iteration: 58 | Loss: 159.875 | Current Suffix:=-=-=-=----=-== - GEO..............ZOOG in
+Iteration: 59 | Loss: 163.0 | Current Suffix:=-=-=-=----=-== - GEO..............ZOOTG in
+Iteration: 60 | Loss: 163.0 | Current Suffix:=-=-=-=----=-== - GEO..............ZOOTG in
+Iteration: 61 | Loss: 133.0 | Current Suffix:=-=-=-=----=-== - GEO..............ZOORG in
+Iteration: 62 | Loss: 133.0 | Current Suffix:=-=-=-=----=-== - GEO..............ZOORG in
+Iteration: 63 | Loss: 126.875 | Current Suffix:=-=-=-=----=-== - GEO..............ZOORO in
+Iteration: 64 | Loss: 127.875 | Current Suffix:=-=-=-=----=-== - GEO..............ZO.O in
+Iteration: 65 | Loss: 127.875 | Current Suffix:=-=-=-=----=-== - GEO..............ZO.O in
+Iteration: 66 | Loss: 127.875 | Current Suffix:=-=-=-=----=-== - GEO..............ZO ZO in
+Iteration: 67 | Loss: 119.1875 | Current Suffix:=-=-=-=----=-== - GEO.................ZO ZO in
+Iteration: 68 | Loss: 153.75 | Current Suffix:=-=-=-=----=-== - JEO.................ZO ZO in
+Iteration: 69 | Loss: 177.625 | Current Suffix:=-=-=-=----=-== - KEEO.................ZO ZO in
+Iteration: 70 | Loss: 221.875 | Current Suffix:=-=-=-=----=-== - KErha.................ZO ZO in
+Iteration: 71 | Loss: 199.75 | Current Suffix:=-=-=-=----=-== - KErra.................ZO ZO in
+Iteration: 72 | Loss: 177.625 | Current Suffix:=-=-=-=----=-== -XErra.................ZO ZO in
+Iteration: 73 | Loss: 175.5 | Current Suffix:=-=-=-=----=-== -XErra.................ZO ZO,
+Iteration: 74 | Loss: 184.0 | Current Suffix:=-=-=-=----=-== -XHira.................ZO ZO,
+Iteration: 75 | Loss: 189.875 | Current Suffix:=-=-=-=----=-== -XH=-.................ZO ZO,
+Iteration: 76 | Loss: 184.75 | Current Suffix:=-=-=-=----=-== -XH WM.................ZO ZO,
+Iteration: 77 | Loss: 191.25 | Current Suffix:=-=-=-=----=-== -XH710.................ZO ZO,
+Iteration: 78 | Loss: 184.75 | Current Suffix:=-=-=-=----=-== -XB710.................ZO ZO,
+Iteration: 79 | Loss: 184.0 | Current Suffix:=-=-=-=----=-, -XB710.................ZO ZO,
+Iteration: 80 | Loss: 171.5 | Current Suffix:=-=-=-=----=-, -XB Slave.................ZO ZO,
+Iteration: 81 | Loss: 185.375 | Current Suffix:=-=-=-=----=-, -XB Push.................ZO ZO,
+Iteration: 82 | Loss: 156.125 | Current Suffix:=-=-=-=----=-, -XBLB.................ZO ZO,
+Iteration: 83 | Loss: 179.0 | Current Suffix:=-=-=-=----=-, -XBLB.................ZOZZO,
+Iteration: 84 | Loss: 200.5 | Current Suffix:=-=-=-=----=-, ---XBLB.................ZOZZO,
+Iteration: 85 | Loss: 228.125 | Current Suffix:=-=-=-=----=-, ---RSBLB.................ZOZZO,
+Iteration: 86 | Loss: 205.25 | Current Suffix:=-=-=-=----=-, ---RS:B.................ZOZZO,
+Iteration: 87 | Loss: 229.875 | Current Suffix:=-=-=-=----=-, ---Bs:B.................ZOZZO,
+Iteration: 88 | Loss: 214.25 | Current Suffix:=-=-=-=----=-,-----Bs:B.................ZOZZO,
+Iteration: 89 | Loss: 214.25 | Current Suffix:=-=-=-=----=-,-----Bs:B.................ZOZZO,
+Iteration: 90 | Loss: 214.25 | Current Suffix:=-=-=-=----=-,-----Bs======B.................ZOZZO,
+Iteration: 91 | Loss: 214.25 | Current Suffix:=-=-=-=----=-,-----Bs======B.................ZOZZO,
+Iteration: 92 | Loss: 181.125 | Current Suffix:=-=-=-=----=-,-----Bs ------B.................ZOZZO,
+Iteration: 93 | Loss: 178.375 | Current Suffix:=========-=----=-,-----Bs ------B.................ZOZZO,
+Iteration: 94 | Loss: 180.375 | Current Suffix:=========-=----=-, ------Bs ------B.................ZOZZO,
+Iteration: 95 | Loss: 180.375 | Current Suffix:=========-=----=-, ------Bs ------B.................ZOZZO,
+Iteration: 96 | Loss: 170.875 | Current Suffix:=========-=----=-, ------Bs ------B.................ZZOZZO,
+Iteration: 97 | Loss: 208.5 | Current Suffix:=========-=----=-, ------Bs ------B.................ZZoZZO,
+Iteration: 98 | Loss: 255.375 | Current Suffix:=========-=----=-, ------Bs ------B.................ZZoZZQ,
+Iteration: 99 | Loss: 232.625 | Current Suffix:=========-=----=-, ------Bs ------B.................ZZzzZZQ,
+Iteration: 100 | Loss: 222.75 | Current Suffix:=========-=----=-, ------Bs ------B.................ZZ..ZZQ,
+Iteration: 101 | Loss: 209.25 | Current Suffix:=========-=----=-, ------Bs ------B.................ZZ...ZZQ,
+Iteration: 102 | Loss: 153.125 | Current Suffix:=========-=----=-, ------Bs ------B.................ZZ...ZZZ,
+Iteration: 103 | Loss: 200.5 | Current Suffix:=========-=----=-, ------Bs ------B.................ZI...ZZZ,
+Iteration: 104 | Loss: 174.25 | Current Suffix:=========-=----=-, ------Bs ------B.................zz...ZZZ,
+Iteration: 105 | Loss: 160.5 | Current Suffix:=========-=----=-, ------Bs ------B.................D...ZZZ,
+Iteration: 106 | Loss: 176.875 | Current Suffix:=========-=----=-, ------Bs ------B.................E...ZZZ,
+Iteration: 107 | Loss: 154.375 | Current Suffix:=========-=----=-, ------Bs ------B.................B...ZZZ,
+Iteration: 108 | Loss: 154.375 | Current Suffix:=========-=----=-, ------Bs ------B.................B..ZZZ,
+Iteration: 109 | Loss: 151.875 | Current Suffix:=========-=----=-, ------Bs ------B..............B..ZZZ,
+Iteration: 110 | Loss: 151.875 | Current Suffix:=========-=----=-, ------Bs ------B..............B..ZZZ,
+Iteration: 111 | Loss: 149.0 | Current Suffix:=========-=----=-, ------Bs ------B..........B..ZZZ,
+Iteration: 112 | Loss: 149.0 | Current Suffix:=========-=----=-, ------Bs ------B..........B..ZZZ,
+Iteration: 113 | Loss: 149.0 | Current Suffix:=========-=----=-, ------Bs ------B..........B..ZZZ,
+Iteration: 114 | Loss: 151.375 | Current Suffix:=========-=----=-, ------Bs ------B..........B...ZZZ,
+Iteration: 115 | Loss: 151.375 | Current Suffix:=========-=----=-, ------Bs ------B..........B...ZZZ,
+Iteration: 116 | Loss: 170.875 | Current Suffix:=========-=----=-, ------Bs ------B..........B'ZZZ,
+Iteration: 117 | Loss: 189.875 | Current Suffix:=========-=----=-, ------Bs ------B..........C'ZZZ,
+Iteration: 118 | Loss: 189.875 | Current Suffix:=========-=----=-, ------Bs ------B..........C'ZZZ,
+Iteration: 119 | Loss: 186.875 | Current Suffix:=========-=----=-, ------Bs ------B..........C#ZZZ,
+Iteration: 120 | Loss: 171.5 | Current Suffix:=========-=----=-, ------Bs ------B..........C..ZZZ,
+Iteration: 121 | Loss: 180.375 | Current Suffix:=========-=----=-, ------Bs ------B..........C....ZZZ,
+Iteration: 122 | Loss: 171.5 | Current Suffix:=========-=----=-, ------Bs ------B..........C..ZZZ,
+Iteration: 123 | Loss: 171.5 | Current Suffix:=========-=----=-, ------Bs ------B..........C..ZZZ,
+Iteration: 124 | Loss: 165.625 | Current Suffix:=========-=----=-, ------Bs ------B..........C.ZZZ,
+Iteration: 125 | Loss: 149.625 | Current Suffix:=========-=----=-, ------Bs ------B..........B.ZZZ,
+Iteration: 126 | Loss: 154.875 | Current Suffix:=========-=----=-, ------Bs ------B............B.ZZZ,
+Iteration: 127 | Loss: 153.125 | Current Suffix:=========-=----=-, ------Bs ------B..............B.ZZZ,
+Iteration: 128 | Loss: 163.0 | Current Suffix:=========-=----=-, ------Bs ------B..............B.XZ,
+Iteration: 129 | Loss: 156.125 | Current Suffix:=========-=----=-, ------Bs ------B..............B. BZ,
+Iteration: 130 | Loss: 159.25 | Current Suffix:=========-=----=-, ------Bs ------B..............B.RZ,
+Iteration: 131 | Loss: 207.625 | Current Suffix:=========-=----=-, ------zx ------B..............B.RZ,
+Iteration: 132 | Loss: 182.5 | Current Suffix:=========-=----=-, ------zx ------B..............B..............RZ,
+Iteration: 133 | Loss: 184.0 | Current Suffix:=========-=----=-, ------Coach ------B..............B..............RZ,
+Iteration: 134 | Loss: 201.25 | Current Suffix:=========-=----=-, ------Coach ------B..............B..............Rez,
+Iteration: 135 | Loss: 223.625 | Current Suffix:=========-=----=-, ------ runes ------B..............B..............Rez,
+Iteration: 136 | Loss: 212.625 | Current Suffix:=========-=----=-, ------ runes ------B..............B..............Cz,
+Iteration: 137 | Loss: 204.5 | Current Suffix:=========-=----=-, ------ runes ------B..............B..............Nz,
+Iteration: 138 | Loss: 200.5 | Current Suffix:=========-=----=----- ------ runes ------B..............B..............Nz,
+Iteration: 139 | Loss: 180.375 | Current Suffix:=========-=----=----- ------ runes ------B..............B..............Nz........
+Iteration: 140 | Loss: 166.25 | Current Suffix:=========-=----=----- ------ runes ------B..............B..............N OP........
+Iteration: 141 | Loss: 167.5 | Current Suffix:=========-=----=----- ------ runes ------B..............B..............N CG........
+Iteration: 142 | Loss: 179.0 | Current Suffix:=========-=----=----- ------ runes ------B..............B..............N RB........
+Iteration: 143 | Loss: 178.375 | Current Suffix:=========-=----=----- ------ runes ------B..............B..............NVB........
+Iteration: 144 | Loss: 170.875 | Current Suffix:=========-=----=----- ------ runes ------B..............B..............mmB........
+Iteration: 145 | Loss: 168.125 | Current Suffix:=======-=----=----- ------ runes ------B..............B..............mmB........
+Iteration: 146 | Loss: 140.0 | Current Suffix:=======-=----=----- ------ runes ------B..............B..............mmB..........
+Iteration: 147 | Loss: 151.875 | Current Suffix:=======-=----=----- ------Byte ------B..............B..............mmB..........
+Iteration: 148 | Loss: 126.4375 | Current Suffix:=======-=----=----- ------HQ ------B..............B..............mmB..........
+Iteration: 149 | Loss: 104.0 | Current Suffix:=======-=----=----- ------HQ ------B..............B...........................B..........
+Iteration: 150 | Loss: 90.75 | Current Suffix:=======-=----=----- ------America ------B..............B...........................B..........
+Iteration: 151 | Loss: 71.8125 | Current Suffix:=======-=----=----- ------America ------B..............B..........B..........
+Iteration: 152 | Loss: 55.75 | Current Suffix:=======-=----=----- ------America ------B..........B..........B..........
+Iteration: 153 | Loss: 58.84375 | Current Suffix:=======-=----=----- ------Interface ------B..........B..........B..........
+Iteration: 154 | Loss: 63.125 | Current Suffix:=======-=------=----- ------Interface ------B..........B..........B..........
+Iteration: 155 | Loss: 63.125 | Current Suffix:=======-=------=----- ------Interface ------B..........B..........B..........
+Iteration: 156 | Loss: 68.5 | Current Suffix:=======-=------=----- ------1 ------B..........B..........B..........
+Iteration: 157 | Loss: 66.875 | Current Suffix:=====-=------=----- ------1 ------B..........B..........B..........
+Iteration: 158 | Loss: 66.625 | Current Suffix:=====-------------------------------=----- ------1 ------B..........B..........B..........
+Iteration: 159 | Loss: 63.375 | Current Suffix: -----=-------------------------------=----- ------1 ------B..........B..........B..........
+Iteration: 160 | Loss: 63.375 | Current Suffix: -----=-------------------------------=----- ------1 ------B..........B..........B..........
+Iteration: 161 | Loss: 60.6875 | Current Suffix: -----=-------------------------------=---- ------1 ------B..........B..........B..........
+Iteration: 162 | Loss: 67.5 | Current Suffix: -----=-------------------------------=---- ------ Anchorage ------B..........B..........B..........
+Iteration: 163 | Loss: 58.1875 | Current Suffix: -----=-------------------------------=---- ------ Scotland ------B..........B..........B..........
+Iteration: 164 | Loss: 57.9375 | Current Suffix: -----=-------------------------------=---- ------Exit ------B..........B..........B..........
+Iteration: 165 | Loss: 70.6875 | Current Suffix: -----=-------------------------------=---- ------endor ------B..........B..........B..........
+Iteration: 166 | Loss: 67.75 | Current Suffix: -----=-------------------------------=---- ------ Sora ------B..........B..........B..........
+Iteration: 167 | Loss: 60.0 | Current Suffix: -----=-------------------------------=---- ------Ax ------B..........B..........B..........
+Iteration: 168 | Loss: 62.375 | Current Suffix: -----=---------------------------=---- ------Ax ------B..........B..........B..........
+Iteration: 169 | Loss: 54.09375 | Current Suffix:=======---------------------------=---- ------Ax ------B..........B..........B..........
+Iteration: 170 | Loss: 57.46875 | Current Suffix:=======---------------------------=------- ------Ax ------B..........B..........B..........
+Iteration: 171 | Loss: 61.90625 | Current Suffix:=======---------------------------=-------- ------Ax ------B..........B..........B..........
+Iteration: 172 | Loss: 54.09375 | Current Suffix:=======---------------------------=---- ------Ax ------B..........B..........B..........
+Iteration: 173 | Loss: 55.3125 | Current Suffix:=======-----------------------=---- ------Ax ------B..........B..........B..........
+Iteration: 174 | Loss: 64.0625 | Current Suffix:=======--------------=---- ------Ax ------B..........B..........B..........
+Iteration: 175 | Loss: 65.375 | Current Suffix:=====--------------=---- ------Ax ------B..........B..........B..........
+Iteration: 176 | Loss: 59.3125 | Current Suffix:=====---=---- ------Ax ------B..........B..........B..........
+Iteration: 177 | Loss: 59.3125 | Current Suffix:=====---=---- ------Ax ------B..........B..........B..........
+Iteration: 178 | Loss: 62.625 | Current Suffix:=====------=---- ------Ax ------B..........B..........B..........
+Iteration: 179 | Loss: 62.625 | Current Suffix:=====------=---- ------Ax ------B..........B..........B..........
+Iteration: 180 | Loss: 64.375 | Current Suffix:=====----------=---- ------Ax ------B..........B..........B..........
+Iteration: 181 | Loss: 66.6875 | Current Suffix:=====----------=---- ------Arizona ------B..........B..........B..........
+Iteration: 182 | Loss: 81.9375 | Current Suffix:=====----------=---- ------ Casino ------B..........B..........B..........
+Iteration: 183 | Loss: 71.25 | Current Suffix:=====----------=---- ------ Alaska ------B..........B..........B..........
+Iteration: 184 | Loss: 71.25 | Current Suffix:=====----------=---- ------ Alaska ------B..........B..........B..........
+Iteration: 185 | Loss: 71.25 | Current Suffix:=====----------=---- ------ Alaska ------B..........B..........B..........
+Iteration: 186 | Loss: 72.125 | Current Suffix:=====----------=-- ------ Alaska ------B..........B..........B..........
+Iteration: 187 | Loss: 83.625 | Current Suffix:=====----------===== ------ Alaska ------B..........B..........B..........
+Iteration: 188 | Loss: 73.5625 | Current Suffix:=======----------===== ------ Alaska ------B..........B..........B..........
+Iteration: 189 | Loss: 88.0 | Current Suffix:=======----------===== ------ Alaska ------B..........B..........B...............
+Iteration: 190 | Loss: 92.1875 | Current Suffix:===========----------===== ------ Alaska ------B..........B..........B...............
+Iteration: 191 | Loss: 82.375 | Current Suffix:===========----------===== ------ Alaska ------B..........B..........B...........
+Iteration: 192 | Loss: 80.4375 | Current Suffix:===========------------===== ------ Alaska ------B..........B..........B...........
+Iteration: 193 | Loss: 89.375 | Current Suffix:===========------------===== ------ Alaska ------B............B..........B...........
+Iteration: 194 | Loss: 89.375 | Current Suffix:===========------------===== ------ Alaska ------B............B..........B...........
+Iteration: 195 | Loss: 92.1875 | Current Suffix:===========------------===== ------ Alaska ------B............B..............B...........
+Iteration: 196 | Loss: 83.3125 | Current Suffix:===========------------===== ------ Alaska ------B............B...........B...........
+Iteration: 197 | Loss: 77.0625 | Current Suffix:===========------------===== ------ Alaska ------B...........B...........B...........
+Iteration: 198 | Loss: 77.0625 | Current Suffix:===========------------===== ------ Alaska ------B...........B...........B...........
+Iteration: 199 | Loss: 87.5625 | Current Suffix:===========------------===== ------ Reaper ------B...........B...........B...........
+Iteration: 200 | Loss: 73.75 | Current Suffix:===========------------===== ------Alpha ------B...........B...........B...........
+Iteration: 201 | Loss: 73.75 | Current Suffix:===========------------===== ------Alpha ------B...........B...........B...........
+Iteration: 202 | Loss: 73.75 | Current Suffix:===========------------===== ------Alpha ------B...........B...........B...........
+Iteration: 203 | Loss: 77.0625 | Current Suffix:===========------------===== ------ Alaska ------B...........B...........B...........
+Iteration: 204 | Loss: 77.0625 | Current Suffix:===========------------===== ------ Alaska ------B...........B...........B...........
+Iteration: 205 | Loss: 83.9375 | Current Suffix:===========------------===== ------ Abe ------B...........B...........B...........
+Iteration: 206 | Loss: 78.875 | Current Suffix:===========----===== ------ Abe ------B...........B...........B...........
+Iteration: 207 | Loss: 73.1875 | Current Suffix:===========----===== ------Turkey ------B...........B...........B...........
+Iteration: 208 | Loss: 72.0625 | Current Suffix:===========----===== ------agons ------B...........B...........B...........
+Iteration: 209 | Loss: 79.5 | Current Suffix:===========----===== ------ Odyssey ------B...........B...........B...........
+Iteration: 210 | Loss: 72.6875 | Current Suffix:===========----===== ------ Alaska ------B...........B...........B...........
+Iteration: 211 | Loss: 81.6875 | Current Suffix:===========----===== ------ Alaska ------B..............B...........B...........
+Iteration: 212 | Loss: 78.875 | Current Suffix:===========----===== ------ Alaska ------B............B...........B...........
+Iteration: 213 | Loss: 84.3125 | Current Suffix:===========----===== ------ Alaska ------B............B..........B...........
+Iteration: 214 | Loss: 95.125 | Current Suffix:===========----===== ------ Alaska ------ E............B..........B...........
+Iteration: 215 | Loss: 90.0 | Current Suffix:===========----===== ------ Alaska ------ E............B...........B...........
+Iteration: 216 | Loss: 90.0 | Current Suffix:===========----===== ------ Alaska ------ E............B...........B...........
+Iteration: 217 | Loss: 78.875 | Current Suffix:===========----===== ------ Alaska ------B............B...........B...........
+Iteration: 218 | Loss: 85.875 | Current Suffix:===========----===== ------ Avatar ------B............B...........B...........
+Iteration: 219 | Loss: 81.6875 | Current Suffix:===========----===== ------ Hawaii ------B............B...........B...........
+Iteration: 220 | Loss: 79.5 | Current Suffix:===========----===== ------Sa ------B............B...........B...........
+Iteration: 221 | Loss: 77.625 | Current Suffix:===========----===== ------Alias ------B............B...........B...........
+Iteration: 222 | Loss: 75.875 | Current Suffix:===========----===== ------uba ------B............B...........B...........
+Iteration: 223 | Loss: 70.625 | Current Suffix:=========== ========== ------uba ------B............B...........B...........
+Iteration: 224 | Loss: 70.625 | Current Suffix:=========== ========== ------uba ------B............B...........B...........
+Iteration: 225 | Loss: 70.625 | Current Suffix:=========== ========== ------uba ------B............B...........B...........
+Iteration: 226 | Loss: 70.625 | Current Suffix:=========== ========== ------uba ------B............B...........B...........
+Iteration: 227 | Loss: 73.5 | Current Suffix:=========== ========== ------ Crimea ------B............B...........B...........
+Iteration: 228 | Loss: 72.9375 | Current Suffix:=========== ========== ------Iran ------B............B...........B...........
+Iteration: 229 | Loss: 67.75 | Current Suffix:========= ========== ------Iran ------B............B...........B...........
+Iteration: 230 | Loss: 61.65625 | Current Suffix:========= ========== ------Iran ------B...........B...........B...........
+Iteration: 231 | Loss: 67.75 | Current Suffix:========= ========== ------Iran ------B............B...........B...........
+Iteration: 232 | Loss: 71.5625 | Current Suffix:========= ========== ------Iran ------B..............B...........B...........
+Iteration: 233 | Loss: 89.6875 | Current Suffix:========= ========== ------ Bomber ------B..............B...........B...........
+Iteration: 234 | Loss: 76.1875 | Current Suffix:========= ========== ------osa ------B..............B...........B...........
+Iteration: 235 | Loss: 86.25 | Current Suffix:========= ========== ------raints ------B..............B...........B...........
+Iteration: 236 | Loss: 75.0 | Current Suffix:========= ========== ------ades ------B..............B...........B...........
+Iteration: 237 | Loss: 91.0625 | Current Suffix:========= ========== -----ades ------B..............B...........B...........
+Iteration: 238 | Loss: 81.625 | Current Suffix:========= ========== ----- Timeline ------B..............B...........B...........
+Iteration: 239 | Loss: 71.1875 | Current Suffix:========= ========== -----Pool ------B..............B...........B...........
+Iteration: 240 | Loss: 70.375 | Current Suffix:========= ========== -----Pool ------B..............B...........B..............
+Iteration: 241 | Loss: 69.8125 | Current Suffix:========= ========== -----Cloud ------B..............B...........B..............
+Iteration: 242 | Loss: 69.8125 | Current Suffix:========= ========== -----Cloud ------B..............B...........B..............
+Iteration: 243 | Loss: 80.75 | Current Suffix:========= ========== -----Books ------B..............B...........B..............
+Iteration: 244 | Loss: 75.875 | Current Suffix:========= ========== -----Office ------B..............B...........B..............
+Iteration: 245 | Loss: 57.9375 | Current Suffix:========= ========== -----Office ------B..............B..............B..............
+Iteration: 246 | Loss: 52.75 | Current Suffix:========= ========== -----Iran ------B..............B..............B..............
+Iteration: 247 | Loss: 68.25 | Current Suffix:========= ========== ----- Aether ------B..............B..............B..............
+Iteration: 248 | Loss: 63.90625 | Current Suffix:========= ========== ----- Worlds ------B..............B..............B..............
+Iteration: 249 | Loss: 60.46875 | Current Suffix:========= ========== ----- Country ------B..............B..............B..............
+Iteration: 250 | Loss: 55.0625 | Current Suffix:========= ========== ----- Menu ------B..............B..............B..............
+Iteration: 251 | Loss: 67.5 | Current Suffix:========= ========== -----Pack ------B..............B..............B..............
+Iteration: 252 | Loss: 61.90625 | Current Suffix:========= ========== -----Weiss ------B..............B..............B..............
+Iteration: 253 | Loss: 69.625 | Current Suffix:========= ========== -----endix ------B..............B..............B..............
+Iteration: 254 | Loss: 71.0 | Current Suffix:========= ========== -----burgh ------B..............B..............B..............
+Iteration: 255 | Loss: 69.375 | Current Suffix:========= ========== -----nia ------B..............B..............B..............
+Iteration: 256 | Loss: 55.9375 | Current Suffix:========= ========== -----Moscow ------B..............B..............B..............
+Iteration: 257 | Loss: 62.40625 | Current Suffix:========= ========== ----- Kremlin ------B..............B..............B..............
+Iteration: 258 | Loss: 53.875 | Current Suffix:========= ========== ----- China ------B..............B..............B..............
+Iteration: 259 | Loss: 65.375 | Current Suffix:========= ========== ----- Locke ------B..............B..............B..............
+Iteration: 260 | Loss: 72.6875 | Current Suffix:========= ========== ----- Cassidy ------B..............B..............B..............
+Iteration: 261 | Loss: 60.0 | Current Suffix:========= ========== ----- Washington ------B..............B..............B..............
+Iteration: 262 | Loss: 59.4375 | Current Suffix:========= ========== Paris Washington ------B..............B..............B..............
+Iteration: 263 | Loss: 57.8125 | Current Suffix:========= ========== Paris Tokyo ------B..............B..............B..............
+Iteration: 264 | Loss: 72.375 | Current Suffix:========= ========== Paris Tokyo 1937B..............B..............B..............
+Iteration: 265 | Loss: 77.125 | Current Suffix:========= ========== Paris Tokyo 57B..............B..............B..............
+Iteration: 266 | Loss: 64.625 | Current Suffix:========= ========== Paris Tokyo?B..............B..............B..............
+Iteration: 267 | Loss: 38.90625 | Current Suffix:========= ========== Paris,?B..............B..............B..............
+Iteration: 268 | Loss: 41.9375 | Current Suffix:============== ========== Paris,?B..............B..............B..............
+Iteration: 269 | Loss: 50.5625 | Current Suffix:================================================================== ========== Paris,?B..............B..............B..............
+Iteration: 270 | Loss: 44.375 | Current Suffix:=============================================================================== Paris,?B..............B..............B..............
+Iteration: 271 | Loss: 42.75 | Current Suffix: ================================================================================ Paris,?B..............B..............B..............
+Iteration: 272 | Loss: 39.84375 | Current Suffix: =============================================================================== Paris,?B..............B..............B..............
+Iteration: 273 | Loss: 38.875 | Current Suffix: =============================================================================== Paris,? B..............B..............B..............
+Iteration: 274 | Loss: 42.34375 | Current Suffix: =============================================================================== Paris, 1959 B..............B..............B..............
+Iteration: 275 | Loss: 42.625 | Current Suffix: =============================================================================== Paris, 57 B..............B..............B..............
+Iteration: 276 | Loss: 47.28125 | Current Suffix: =============================================================================== Paris, hello B..............B..............B..............
+Iteration: 277 | Loss: 59.15625 | Current Suffix: =============================================================================== Paris, gentle B..............B..............B..............
+Iteration: 278 | Loss: 43.71875 | Current Suffix: =============================================================================== Paris, home B..............B..............B..............
+Iteration: 279 | Loss: 48.4375 | Current Suffix: =============================================================================== Paris, check B..............B..............B..............
+Iteration: 280 | Loss: 55.5625 | Current Suffix: =============================================================================== Paris, tex B..............B..............B..............
+Iteration: 281 | Loss: 52.0 | Current Suffix: =============================================================================== Paris, conditional B..............B..............B..............
+Iteration: 282 | Loss: 53.875 | Current Suffix: =============================================================================== Paris, short B..............B..............B..............
+Iteration: 283 | Loss: 53.625 | Current Suffix: =============================================================================== Paris,==== B..............B..............B..............
+Iteration: 284 | Loss: 41.71875 | Current Suffix: =============================================================================== Paris,=== B..............B..............B..............
+Iteration: 285 | Loss: 37.625 | Current Suffix: =============================================================================== Paris,........ B..............B..............B..............
+Iteration: 286 | Loss: 42.5625 | Current Suffix: =============================================================================== Paris -........ B..............B..............B..............
+Iteration: 287 | Loss: 31.921875 | Current Suffix: =============================================================================== Paris.......... B..............B..............B..............
+Iteration: 288 | Loss: 37.03125 | Current Suffix: =============================================================================== Paris.......... B..............B..............B...............
+Iteration: 289 | Loss: 42.1875 | Current Suffix: =============================================================================== Paris... B..............B..............B...............
+Iteration: 290 | Loss: 36.90625 | Current Suffix: =============================================================================== Paris... B..............B..............B..............
+Iteration: 291 | Loss: 44.5 | Current Suffix: =============================================================================== Paris... B..............B..............B...........
+Iteration: 292 | Loss: 49.34375 | Current Suffix: =============================================================================== Paris... B..............B..........B...........
+Iteration: 293 | Loss: 39.03125 | Current Suffix: =============================================================================== Paris... B..........B..........B...........
+Iteration: 294 | Loss: 39.03125 | Current Suffix: =============================================================================== Paris... B..........B..........B...........
+Iteration: 295 | Loss: 45.8125 | Current Suffix: =============================================================================== Paris... A..........B..........B...........
+Iteration: 296 | Loss: 56.84375 | Current Suffix: =============================================================================== Paris... A..........E..........B...........
+Iteration: 297 | Loss: 49.25 | Current Suffix: =============================================================================== Paris... A..........A..........B...........
+Iteration: 298 | Loss: 49.25 | Current Suffix: =============================================================================== Paris... A..........A..........B...........
+Iteration: 299 | Loss: 72.125 | Current Suffix: =============================================================================== Paris... Paris..........A..........B...........
+Iteration: 300 | Loss: 72.6875 | Current Suffix: =============================================================================== Paris... Paris..........A...........B...........
+Iteration: 301 | Loss: 72.6875 | Current Suffix: =============================================================================== Paris... Paris..........A...........B...........
+Iteration: 302 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 303 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 304 | Loss: 70.6875 | Current Suffix: =============================================================================== Paris, Paris...A...........B...........
+Iteration: 305 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 306 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 307 | Loss: 70.6875 | Current Suffix: =============================================================================== Paris, Paris...A...........B...........
+Iteration: 308 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 309 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 310 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 311 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 312 | Loss: 71.8125 | Current Suffix: =============================================================================== Paris... Paris...A...........B...........
+Iteration: 313 | Loss: 78.875 | Current Suffix: =============================================================================== Paris... Paris...A..............B...........
+Iteration: 314 | Loss: 78.875 | Current Suffix: =============================================================================== Paris... Paris...A..............B...........
+Iteration: 315 | Loss: 78.875 | Current Suffix: =============================================================================== Paris, Paris...A..............B...........
+Iteration: 316 | Loss: 78.875 | Current Suffix: =============================================================================== Paris, Paris...A..............B...........
+Iteration: 317 | Loss: 76.4375 | Current Suffix: =============================================================================== Paris, Paris......A..............B...........
+Iteration: 318 | Loss: 76.4375 | Current Suffix: =============================================================================== Paris, Paris......A..............B...........
+Iteration: 319 | Loss: 73.875 | Current Suffix: =============================================================================== Paris, Paris......A...........B...........
+Iteration: 320 | Loss: 73.875 | Current Suffix: =============================================================================== Paris, Paris......A...........B...........
+Iteration: 321 | Loss: 75.5625 | Current Suffix: ====================================================================== Paris, Paris......A...........B...........
+Iteration: 322 | Loss: 100.5 | Current Suffix: ====================================================================== Paris A Paris......A...........B...........
+Iteration: 323 | Loss: 118.9375 | Current Suffix: ====================================================================== Paris Station Paris......A...........B...........
+Iteration: 324 | Loss: 128.0 | Current Suffix: ====================================================================== Paris Station Paris......A.....................B...........
+Iteration: 325 | Loss: 118.9375 | Current Suffix: ====================================================================== Paris Station Paris......A...........B...........
+Iteration: 326 | Loss: 120.8125 | Current Suffix: ====================== Paris Station Paris......A...........B...........
+Iteration: 327 | Loss: 118.4375 | Current Suffix: ====================== Paris Station Paris......B...........B...........
+Iteration: 328 | Loss: 118.4375 | Current Suffix: ====================== Paris Mission Paris......B...........B...........
+Iteration: 329 | Loss: 131.125 | Current Suffix: ====================== Paris Mission Paris......B...........B.................
+Iteration: 330 | Loss: 159.875 | Current Suffix: ====================== Paris station Paris......B...........B.................
+Iteration: 331 | Loss: 139.0 | Current Suffix: ====================== Paris station Paris......B...........B...........
+Iteration: 332 | Loss: 164.375 | Current Suffix: ====================== Paris Citadel Paris......B...........B...........
+Iteration: 333 | Loss: 86.0 | Current Suffix: ====================== Paris A Paris......B...........B...........
+Iteration: 334 | Loss: 90.0625 | Current Suffix: ====================== Paris A Paris......B..........B...........
+Iteration: 335 | Loss: 99.25 | Current Suffix: ====================== Paris A Paris......B..........B.................
+Iteration: 336 | Loss: 94.75 | Current Suffix: ====================== Paris A Paris......B..........B...............
+Iteration: 337 | Loss: 92.1875 | Current Suffix: ====================== Paris A Paris......B..........B..........
+Iteration: 338 | Loss: 130.0 | Current Suffix: ====================== Paris A Paris......B..........B....................
+Iteration: 339 | Loss: 92.1875 | Current Suffix: ====================== Paris A Paris......B..........B..........
+Iteration: 340 | Loss: 94.75 | Current Suffix: ====================== Paris A Paris......B..........B...............
+Iteration: 341 | Loss: 123.125 | Current Suffix: ====================== Paris A Paris......B......................B...............
+Iteration: 342 | Loss: 123.125 | Current Suffix: ====================== Paris A Paris......B......................B...............
+Iteration: 343 | Loss: 94.75 | Current Suffix: ====================== Paris A Paris......B..........B...............
+Iteration: 344 | Loss: 104.8125 | Current Suffix: ====================== Paris A Paris......B..........B.......................
+Iteration: 345 | Loss: 102.5 | Current Suffix: ====================== Paris A Paris......B..........B............
+Iteration: 346 | Loss: 90.0625 | Current Suffix: ====================== Paris A Paris......B..........B...........
+Iteration: 347 | Loss: 99.25 | Current Suffix: ====================== Paris A Paris......B..........A...........
+Iteration: 348 | Loss: 143.875 | Current Suffix: ====================== Paris A Paris......B..........A.........
+Iteration: 349 | Loss: 137.75 | Current Suffix: ====================== Paris A Paris......B..........A......
+Iteration: 350 | Loss: 137.75 | Current Suffix: ====================== Paris A Paris......B..........A......
+Iteration: 351 | Loss: 184.0 | Current Suffix: ====================== Paris A Paris......B..........A====
+Iteration: 352 | Loss: 224.5 | Current Suffix: ====================== Paris A Paris......B..........A--------------------------------------------------------
+Iteration: 353 | Loss: 236.25 | Current Suffix: ====================== Paris A Paris......B..........A Metropolitan
+Iteration: 354 | Loss: 149.0 | Current Suffix: ====================== Paris A Paris......B..........A Paris
+Iteration: 355 | Loss: 183.25 | Current Suffix: ====================== Paris A Paris......B..........A London
+Iteration: 356 | Loss: 185.375 | Current Suffix: ====================== Paris A Paris......B..............A London
+Iteration: 357 | Loss: 216.75 | Current Suffix: ====================== Paris A Paris......B......................A London
+Iteration: 358 | Loss: 242.75 | Current Suffix: ====================== Paris A Paris......B......................D London
+Iteration: 359 | Loss: 207.625 | Current Suffix: ====================== Paris A Paris......B......................B London
+Iteration: 360 | Loss: 245.625 | Current Suffix: ====================== Paris A7......B......................B London
+Iteration: 361 | Loss: 266.75 | Current Suffix: ====================== Paris A7......B......................B Barcelona
+Iteration: 362 | Loss: 211.0 | Current Suffix: ====================== Paris A7......B......................B R
+Iteration: 363 | Loss: 201.25 | Current Suffix: ====================== Paris:7......B......................B R
+Iteration: 364 | Loss: 175.5 | Current Suffix: ====================== Paris:7......B......................B The
+Iteration: 365 | Loss: 129.5 | Current Suffix: ====================== Paris: F......B......................B The
+Iteration: 366 | Loss: 155.5 | Current Suffix: ====================== Paris: F......B......................B 10
+Iteration: 367 | Loss: 146.125 | Current Suffix: ====================== Paris: C......B......................B 10
+Iteration: 368 | Loss: 130.5 | Current Suffix: ====================== Paris: C......B..........B 10
+Iteration: 369 | Loss: 184.75 | Current Suffix: ====================== Paris: C......B......B 10
+Iteration: 370 | Loss: 184.75 | Current Suffix: ====================== Paris: C......B......B 10
+Iteration: 371 | Loss: 221.0 | Current Suffix: ====================== Paris: U......B......B 10
+Iteration: 372 | Loss: 244.75 | Current Suffix: ====================== Paris: U......B......B 15
+Iteration: 373 | Loss: 236.25 | Current Suffix: ====================== Paris: U......B......B 12
+Iteration: 374 | Loss: 267.75 | Current Suffix: ====================== Paris: U......B......B 121
+Iteration: 375 | Loss: 208.5 | Current Suffix: ====================== Paris: U......B......B "
+Iteration: 376 | Loss: 218.5 | Current Suffix: ====================== Paris: U......A......B "
+Iteration: 377 | Loss: 279.5 | Current Suffix: ====================== Paris: U......A......Q "
+Iteration: 378 | Loss: 374.5 | Current Suffix: ====================== Paris: U......A......II "
+Iteration: 379 | Loss: 438.0 | Current Suffix: ====================== Paris: U......A......RH "
+Iteration: 380 | Loss: 481.0 | Current Suffix: ====================== Paris: U......K......RH "
+Iteration: 381 | Loss: 481.0 | Current Suffix: ====================== Paris: U......K......RH "
+Iteration: 382 | Loss: 484.75 | Current Suffix: ====================== Paris: U......K......RHebus
+Iteration: 383 | Loss: 382.0 | Current Suffix: ====================== Paris: U......K......R wannabus
+Iteration: 384 | Loss: 267.75 | Current Suffix: ====================== Paris: U......K......R wannacht
+Iteration: 385 | Loss: 267.75 | Current Suffix: ====================== Paris: U......K......R wannacht
+Iteration: 386 | Loss: 287.25 | Current Suffix: ====================== Paris - U......K......R wannacht
+Iteration: 387 | Loss: 287.25 | Current Suffix: ====================== Paris - U......K......R wannacht
+Iteration: 388 | Loss: 380.5 | Current Suffix: ====================== Paris - U......K...... Cafe wannacht
+Iteration: 389 | Loss: 380.5 | Current Suffix: ====================== Paris - U......K...... Cafe wannacht
+Iteration: 390 | Loss: 403.5 | Current Suffix: ====================== Paris - U......K......France wannacht
+Iteration: 391 | Loss: 295.25 | Current Suffix: ====================== Paris - U......K......F wannacht
+Iteration: 392 | Loss: 360.25 | Current Suffix: ====================== Paris - U......K......F wnacht
+Iteration: 393 | Loss: 272.0 | Current Suffix: ====================== Paris - U......K......L wnacht
+Iteration: 394 | Loss: 282.75 | Current Suffix: ====================== Paris - U......K......Loooooooonacht
+Iteration: 395 | Loss: 304.5 | Current Suffix: ====================== London - U......K......Loooooooonacht
+Iteration: 396 | Loss: 298.75 | Current Suffix: ====================== London - U......K......Loooooooddacht
+Iteration: 397 | Loss: 241.875 | Current Suffix: ====================== London - U......K......Loooooooddallah
+Iteration: 398 | Loss: 241.875 | Current Suffix: ====================== London - U......K......Loooooooddallah
+Iteration: 399 | Loss: 218.5 | Current Suffix: ====================== London - U......K......Looooooodd London
+Iteration: 400 | Loss: 183.25 | Current Suffix: ====================== London - U......K......Loooooood........ London
+Iteration: 401 | Loss: 172.125 | Current Suffix: ====================== London - U......K......Loooooood..........................
+Iteration: 402 | Loss: 138.875 | Current Suffix: ====================== London - U......K......Loooooood..........
+Iteration: 403 | Loss: 137.25 | Current Suffix: ====================== London: U......K......Loooooood..........
+Iteration: 404 | Loss: 148.375 | Current Suffix: ====================== London, U......K......Loooooood..........
+Iteration: 405 | Loss: 166.875 | Current Suffix: ======================Lord, U......K......Loooooood..........
+Iteration: 406 | Loss: 158.0 | Current Suffix: ======================Lord, U......L......Loooooood..........
+Iteration: 407 | Loss: 164.875 | Current Suffix: ======================Lord, U......R......Loooooood..........
+Iteration: 408 | Loss: 189.875 | Current Suffix: ======================Lord, U......R......Poooooood..........
+Iteration: 409 | Loss: 186.875 | Current Suffix: ======================Lord, U......R......Doooooood..........
+Iteration: 410 | Loss: 179.75 | Current Suffix: ======================Lord, U......R......Ooooooood..........
+Iteration: 411 | Loss: 177.625 | Current Suffix: ==========================Lord, U......R......Ooooooood..........
+Iteration: 412 | Loss: 177.625 | Current Suffix: ==========================Lord, U......R......Ooooooood..........
+Iteration: 413 | Loss: 174.25 | Current Suffix:=========================================Lord, U......R......Ooooooood..........
+Iteration: 414 | Loss: 174.25 | Current Suffix:=========================================Lord, U......R......Ooooooood..........
+Iteration: 415 | Loss: 186.125 | Current Suffix:=========================================Lord, U......R......Poooooood..........
+Iteration: 416 | Loss: 185.375 | Current Suffix:=========================================Lord, U......R......Doooooood..........
+Iteration: 417 | Loss: 174.25 | Current Suffix:=========================================Lord, U......R......Ooooooood..........
+Iteration: 418 | Loss: 245.625 | Current Suffix:=========================================Lord, U......R......Ooooooood................
+Iteration: 419 | Loss: 320.5 | Current Suffix:=========================================Lord, U......R......Smoooooood................
+Iteration: 420 | Loss: 360.25 | Current Suffix:=========================================Lord; U......R......Smoooooood................
+Iteration: 421 | Loss: 302.25 | Current Suffix:=========================================.......; U......R......Smoooooood................
+Iteration: 422 | Loss: 198.125 | Current Suffix:=========================================............ U......R......Smoooooood................
+Iteration: 423 | Loss: 184.75 | Current Suffix:=========================================............... U......R......Smoooooood................
+Iteration: 424 | Loss: 200.5 | Current Suffix:=====================================================....... U......R......Smoooooood................
+Iteration: 425 | Loss: 174.875 | Current Suffix:========================================================= U......R......Smoooooood................
+Iteration: 426 | Loss: 233.5 | Current Suffix:=========================================================="#......R......Smoooooood................
+Iteration: 427 | Loss: 183.25 | Current Suffix:==========================================================#$#......R......Smoooooood................
+Iteration: 428 | Loss: 190.625 | Current Suffix:==========================================================#$..............R......Smoooooood................
+Iteration: 429 | Loss: 232.625 | Current Suffix:==========================================================#$..............R......Smoooooown................
+Iteration: 430 | Loss: 289.5 | Current Suffix:==========================================================nih..............R......Smoooooown................
+Iteration: 431 | Loss: 241.875 | Current Suffix:==========================================================yr..............R......Smoooooown................
+Iteration: 432 | Loss: 210.125 | Current Suffix:========================================================== y..............R......Smoooooown................
+Iteration: 433 | Loss: 163.625 | Current Suffix:========================================================== y..............R......Rooooooown................
+Iteration: 434 | Loss: 150.125 | Current Suffix:==========================================================@@..............R......Rooooooown................
+Iteration: 435 | Loss: 161.125 | Current Suffix:==========================================================@@..............R......Roooooooop................
+Iteration: 436 | Loss: 186.125 | Current Suffix:==========================================================@@..............R......Roooooooday................
+Iteration: 437 | Loss: 216.0 | Current Suffix:==========================================================@@..............R......Roooooooday--------------------
+Iteration: 438 | Loss: 227.25 | Current Suffix:========================================================@@@..............R......Roooooooday--------------------
+Iteration: 439 | Loss: 240.875 | Current Suffix:========================================================@@@..............R......R......oooday--------------------
+Iteration: 440 | Loss: 258.5 | Current Suffix:========================================================@@@..............R......R......oooday Station
+Iteration: 441 | Loss: 258.5 | Current Suffix:========================================================@@@..............R......R......oooday Station
+Iteration: 442 | Loss: 276.25 | Current Suffix:========================================================@@@..............R......R......oooday UTC
+Iteration: 443 | Loss: 239.0 | Current Suffix:========================================================@@@..............R......R......oooday OK
+Iteration: 444 | Loss: 289.5 | Current Suffix:========================================================@@@..............R......R......oooday Kuwait
+Iteration: 445 | Loss: 261.5 | Current Suffix:========================================================@@@..............R......R............ooday Kuwait
+Iteration: 446 | Loss: 212.625 | Current Suffix:========================================================@@@..............R......R............oodr Kuwait
+Iteration: 447 | Loss: 163.0 | Current Suffix:========================================================@@@..............R......R............oodr the
+Iteration: 448 | Loss: 136.25 | Current Suffix:========================================================@@@..............R......R............OOr the
+Iteration: 449 | Loss: 136.25 | Current Suffix:========================================================@@@..............R......R............OOr the
+Iteration: 450 | Loss: 136.25 | Current Suffix:========================================================@@@..............R......R............OOr the
+Iteration: 451 | Loss: 137.75 | Current Suffix:====================================================@@@..............R......R............OOr the
+Iteration: 452 | Loss: 145.0 | Current Suffix:=================================================@@@..............R......R............OOr the
+Iteration: 453 | Loss: 167.5 | Current Suffix:=================================================@@@..............R......R............Osupport the
+Iteration: 454 | Loss: 143.875 | Current Suffix:=================================================@@@..............R......R............O0 the
+Iteration: 455 | Loss: 183.25 | Current Suffix:=================================================@@@..............R......R............O365 the
+Iteration: 456 | Loss: 156.75 | Current Suffix:=======================================@@@..............R......R............O365 the
+Iteration: 457 | Loss: 161.125 | Current Suffix:=======================================@@@..............R......R............ONR the
+Iteration: 458 | Loss: 159.25 | Current Suffix:=======================================@@@..............R......R............ONV the
+Iteration: 459 | Loss: 198.125 | Current Suffix:=======================================@@@..............R......R............ONInsert the
+Iteration: 460 | Loss: 127.4375 | Current Suffix:=======================================@@@..............R......R............FInsert the
+Iteration: 461 | Loss: 105.25 | Current Suffix:=======================================@@@..............R......R............F## the
+Iteration: 462 | Loss: 77.625 | Current Suffix:=======================================@@@..............R......R............F or the
+Iteration: 463 | Loss: 84.25 | Current Suffix:=======================================@@@......................R......R............F or the
+Iteration: 464 | Loss: 88.625 | Current Suffix:=====================================@@@......................R......R............F or the
+Iteration: 465 | Loss: 125.9375 | Current Suffix:=====================================@@@......................R......R............F orce
+Iteration: 466 | Loss: 125.9375 | Current Suffix:=====================================@@@......................R......R............F orce
+Iteration: 467 | Loss: 125.9375 | Current Suffix:=====================================@@@......................R......R............F orce
+Iteration: 468 | Loss: 125.9375 | Current Suffix:=====================================@@@......................R......R............F orce
+Iteration: 469 | Loss: 151.875 | Current Suffix:=====================================@@@......................R......R............F or defeating
+Iteration: 470 | Loss: 151.875 | Current Suffix:=====================================@@@......................R......R............F or Modern
+Iteration: 471 | Loss: 158.625 | Current Suffix:=====================================@@@......................R......R............F or normal
+Iteration: 472 | Loss: 171.5 | Current Suffix:=====================================@@@......................R......R............F orliest
+Iteration: 473 | Loss: 111.1875 | Current Suffix:=====================================@@@......................R......R............F ort
+Iteration: 474 | Loss: 110.3125 | Current Suffix:=====================================@@@......................R......R............F Sometimest
+Iteration: 475 | Loss: 129.5 | Current Suffix:=====================================@@@......................R......R............F Sometim to
+Iteration: 476 | Loss: 143.25 | Current Suffix:=====================================@@@......................R......R......F Sometim to
+Iteration: 477 | Loss: 154.375 | Current Suffix:=====================================@@@......................G......R......F Sometim to
+Iteration: 478 | Loss: 179.75 | Current Suffix:=====================================@@@......................G......R......F Sometimise
+Iteration: 479 | Loss: 147.25 | Current Suffix:=====================================@@@......................G......R......F Sometimeline
+Iteration: 480 | Loss: 200.5 | Current Suffix:=====================================@@@......................G......R......F Sometimimum
+Iteration: 481 | Loss: 186.125 | Current Suffix:=====================================@@@......................G......R......F Sometimelle
+Iteration: 482 | Loss: 206.875 | Current Suffix:=====================================@@@......................G......R......F Sometaggerelle
+Iteration: 483 | Loss: 217.625 | Current Suffix:=====================================@@@......................G......R......F Sometaggerels
+Iteration: 484 | Loss: 221.875 | Current Suffix:=====================================@@@......................G......R......F Sometegerels
+Iteration: 485 | Loss: 189.125 | Current Suffix:=====================================@@@......................G......R......F Sometege's
+Iteration: 486 | Loss: 206.0 | Current Suffix:=====================================@@@......................G......R......F Somete;;'s
+Iteration: 487 | Loss: 206.875 | Current Suffix:=====================================@@@......................G......R......F Someteard's
+Iteration: 488 | Loss: 190.625 | Current Suffix:=====================================@@@......................G......R......F SOFFeard's
+Iteration: 489 | Loss: 198.125 | Current Suffix:=====================================@@@......................G......R......F SODeard's
+Iteration: 490 | Loss: 221.0 | Current Suffix:=====================================@@@......................G......R......F SODeflex's
+Iteration: 491 | Loss: 248.5 | Current Suffix:=====================================@@@......................G......R......F Sibeflex's
+Iteration: 492 | Loss: 267.75 | Current Suffix:=====================================@@@......................G......R......F Sibeffan's
+Iteration: 493 | Loss: 198.125 | Current Suffix:=====================================@@@......................G......R......F S Mneffan's
+Iteration: 494 | Loss: 159.875 | Current Suffix:=====================================@@@......................G......R......F S Mlffan's
+Iteration: 495 | Loss: 185.375 | Current Suffix:=====================================@@@......................G......g......F S Mlffan's
+Iteration: 496 | Loss: 192.0 | Current Suffix:=====================================@@@......................G......g......B S Mlffan's
+Iteration: 497 | Loss: 229.875 | Current Suffix:=====================================@@@......................G......g......\ S Mlffan's
+Iteration: 498 | Loss: 224.5 | Current Suffix:=====================================@@@......................G......g.......( S Mlffan's
+Iteration: 499 | Loss: 195.875 | Current Suffix:=====================================@@@......................G......g....................... S Mlffan's

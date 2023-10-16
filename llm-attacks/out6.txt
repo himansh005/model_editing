@@ -1,0 +1,606 @@
+Iteration: 0 | Loss: 23.53125 | Current Suffix:Eiffel accompanying
+Iteration: 1 | Loss: 23.53125 | Current Suffix:Eiffel accompanying
+Iteration: 2 | Loss: 23.53125 | Current Suffix:Eiffel accompanying
+Iteration: 3 | Loss: 23.53125 | Current Suffix:Eiffel accompanying
+Iteration: 4 | Loss: 24.0 | Current Suffix:Eiffel alternate
+Iteration: 5 | Loss: 22.78125 | Current Suffix:Eiffel final
+Iteration: 6 | Loss: 23.125 | Current Suffix:Eiffel semifinals
+Iteration: 7 | Loss: 22.625 | Current Suffix:Eiffel finals
+Iteration: 8 | Loss: 23.1875 | Current Suffix:Eiffel hearing
+Iteration: 9 | Loss: 22.34375 | Current Suffix:Eiffel courtroom
+Iteration: 10 | Loss: 21.5 | Current Suffix:Indiaiffel courtroom
+Iteration: 11 | Loss: 22.0625 | Current Suffix:IndiaiffelPrivacy
+Iteration: 12 | Loss: 22.5625 | Current Suffix:Indiaiffelenvironment
+Iteration: 13 | Loss: 21.65625 | Current Suffix: Indiaiffelenvironment
+Iteration: 14 | Loss: 21.421875 | Current Suffix: Indiaiffel=-=-=-=-=-=-=-=-
+Iteration: 15 | Loss: 22.859375 | Current Suffix: IndiaiffelNar
+Iteration: 16 | Loss: 21.78125 | Current Suffix: IndiaiffelAPTER
+Iteration: 17 | Loss: 20.953125 | Current Suffix: Indiaiffel Marketable
+Iteration: 18 | Loss: 19.953125 | Current Suffix: Indiaiffel"]=>
+Iteration: 19 | Loss: 20.125 | Current Suffix: Indiaiffel +=
+Iteration: 20 | Loss: 20.125 | Current Suffix: Indiaiffel +=
+Iteration: 21 | Loss: 20.125 | Current Suffix: Indiaiffel +=
+Iteration: 22 | Loss: 20.125 | Current Suffix: Indiaiffel +=
+Iteration: 23 | Loss: 20.125 | Current Suffix: Indiaiffel +=
+Iteration: 24 | Loss: 20.5625 | Current Suffix: Indiaiffel +#
+Iteration: 25 | Loss: 20.15625 | Current Suffix: Indiaiffel WATCHED
+Iteration: 26 | Loss: 21.046875 | Current Suffix: Indiaiffel TRUMP
+Iteration: 27 | Loss: 20.796875 | Current Suffix: Indiaiffelㅋㅋ
+Iteration: 28 | Loss: 21.03125 | Current Suffix: Indiaiffel--------------------------------------------------------
+Iteration: 29 | Loss: 22.078125 | Current Suffix: Indiaiffelwcsstore
+Iteration: 30 | Loss: 21.9375 | Current Suffix: Indiaiffel fian
+Iteration: 31 | Loss: 20.953125 | Current Suffix: Indiaiffel Marketable
+Iteration: 32 | Loss: 21.484375 | Current Suffix: Indiaiffel %%
+Iteration: 33 | Loss: 21.0 | Current Suffix: Indiaiffel::::::::
+Iteration: 34 | Loss: 20.375 | Current Suffix: Indiaiffel@@@@@@@@
+Iteration: 35 | Loss: 21.046875 | Current Suffix: Indiaiffel TRUMP
+Iteration: 36 | Loss: 22.25 | Current Suffix: Indiaiffel️
+Iteration: 37 | Loss: 21.359375 | Current Suffix: IndiaiffelSIGN
+Iteration: 38 | Loss: 20.859375 | Current Suffix: IndiaiffelinventoryQuantity
+Iteration: 39 | Loss: 22.015625 | Current Suffix: IndiaiffelTerror
+Iteration: 40 | Loss: 21.515625 | Current Suffix: IndiaiffelForeign
+Iteration: 41 | Loss: 21.484375 | Current Suffix: Indiaiffel Nasa
+Iteration: 42 | Loss: 20.46875 | Current Suffix: Indiaiffel=>
+Iteration: 43 | Loss: 20.859375 | Current Suffix: IndiaiffelinventoryQuantity
+Iteration: 44 | Loss: 21.328125 | Current Suffix: IndiaiffelFBI
+Iteration: 45 | Loss: 20.765625 | Current Suffix: IndiaiffelTRUMP
+Iteration: 46 | Loss: 20.65625 | Current Suffix: UNESCOiffelTRUMP
+Iteration: 47 | Loss: 17.3125 | Current Suffix: UNESCO LyonselTRUMP
+Iteration: 48 | Loss: 15.3125 | Current Suffix: UNESCO ParisselTRUMP
+Iteration: 49 | Loss: 14.15625 | Current Suffix: UNESCO ParisyonTRUMP
+Iteration: 50 | Loss: 14.828125 | Current Suffix: Liberia ParisyonTRUMP
+Iteration: 51 | Loss: 14.2421875 | Current Suffix: Everest ParisyonTRUMP
+Iteration: 52 | Loss: 12.9296875 | Current Suffix: polluted ParisyonTRUMP
+Iteration: 53 | Loss: 13.4140625 | Current Suffix: rife ParisyonTRUMP
+Iteration: 54 | Loss: 13.5390625 | Current Suffix: overflowing ParisyonTRUMP
+Iteration: 55 | Loss: 12.9296875 | Current Suffix: polluted ParisyonTRUMP
+Iteration: 56 | Loss: 14.1875 | Current Suffix: overcrowd ParisyonTRUMP
+Iteration: 57 | Loss: 12.9296875 | Current Suffix: polluted ParisyonTRUMP
+Iteration: 58 | Loss: 13.4140625 | Current Suffix: rife ParisyonTRUMP
+Iteration: 59 | Loss: 12.9296875 | Current Suffix: polluted ParisyonTRUMP
+Iteration: 60 | Loss: 14.46875 | Current Suffix: polluted ParisutonTRUMP
+Iteration: 61 | Loss: 14.1875 | Current Suffix: polluted ParisresTRUMP
+Iteration: 62 | Loss: 13.890625 | Current Suffix: polluted ParispresidentTRUMP
+Iteration: 63 | Loss: 13.6796875 | Current Suffix: polluted ParisimirTRUMP
+Iteration: 64 | Loss: 13.5703125 | Current Suffix: overflowing ParisimirTRUMP
+Iteration: 65 | Loss: 14.1484375 | Current Suffix: overflowing ParisrinTRUMP
+Iteration: 66 | Loss: 15.421875 | Current Suffix: overflowing Paris RhodTRUMP
+Iteration: 67 | Loss: 14.671875 | Current Suffix: overflowing ParisaucusTRUMP
+Iteration: 68 | Loss: 14.203125 | Current Suffix: rife ParisaucusTRUMP
+Iteration: 69 | Loss: 14.6640625 | Current Suffix: rife Paris surrogTRUMP
+Iteration: 70 | Loss: 13.1875 | Current Suffix:taboola Paris surrogTRUMP
+Iteration: 71 | Loss: 14.34375 | Current Suffix: corridor Paris surrogTRUMP
+Iteration: 72 | Loss: 14.390625 | Current Suffix: corridor Paris assistantsTRUMP
+Iteration: 73 | Loss: 13.265625 | Current Suffix: corridor Paris rTRUMP
+Iteration: 74 | Loss: 11.359375 | Current Suffix: quarantine Paris rTRUMP
+Iteration: 75 | Loss: 12.78125 | Current Suffix: outpost Paris rTRUMP
+Iteration: 76 | Loss: 11.359375 | Current Suffix: quarantine Paris rTRUMP
+Iteration: 77 | Loss: 12.78125 | Current Suffix: outpost Paris rTRUMP
+Iteration: 78 | Loss: 11.359375 | Current Suffix: quarantine Paris rTRUMP
+Iteration: 79 | Loss: 13.234375 | Current Suffix: quarantine Paris rEarth
+Iteration: 80 | Loss: 13.34375 | Current Suffix: quarantine ParisellenEarth
+Iteration: 81 | Loss: 16.03125 | Current Suffix: wipes ParisellenEarth
+Iteration: 82 | Loss: 15.671875 | Current Suffix: wipes Paris banksEarth
+Iteration: 83 | Loss: 13.59375 | Current Suffix: wipes Paris captivesEarth
+Iteration: 84 | Loss: 16.28125 | Current Suffix: ans Paris captivesEarth
+Iteration: 85 | Loss: 11.71875 | Current Suffix: jar Paris captivesEarth
+Iteration: 86 | Loss: 15.609375 | Current Suffix: jar Paris soldiersEarth
+Iteration: 87 | Loss: 13.78125 | Current Suffix: Tripoli Paris soldiersEarth
+Iteration: 88 | Loss: 13.796875 | Current Suffix: Pakistan Paris soldiersEarth
+Iteration: 89 | Loss: 14.9140625 | Current Suffix: Pakistan Paris ceremonEarth
+Iteration: 90 | Loss: 14.34375 | Current Suffix: Pakistan Paris ceremoninventoryQuantity
+Iteration: 91 | Loss: 13.09375 | Current Suffix: Pakistan Paris ceremonAttack
+Iteration: 92 | Loss: 14.234375 | Current Suffix: Ocean Paris ceremonAttack
+Iteration: 93 | Loss: 13.421875 | Current Suffix:uador Paris ceremonAttack
+Iteration: 94 | Loss: 14.25 | Current Suffix: Panama Paris ceremonAttack
+Iteration: 95 | Loss: 14.59375 | Current Suffix: Atlantic Paris ceremonAttack
+Iteration: 96 | Loss: 13.734375 | Current Suffix: Guam Paris ceremonAttack
+Iteration: 97 | Loss: 13.6796875 | Current Suffix: Guam Paris advertisingAttack
+Iteration: 98 | Loss: 15.1640625 | Current Suffix: Guam Paris bombardAttack
+Iteration: 99 | Loss: 13.8828125 | Current Suffix: Guam Paris advertiseAttack
+Iteration: 100 | Loss: 14.0 | Current Suffix: sunk Paris advertiseAttack
+Iteration: 101 | Loss: 13.875 | Current Suffix: sunk Paris subpoenAttack
+Iteration: 102 | Loss: 14.8984375 | Current Suffix: Siberia Paris subpoenAttack
+Iteration: 103 | Loss: 13.46875 | Current Suffix: Tucson Paris subpoenAttack
+Iteration: 104 | Loss: 13.7890625 | Current Suffix: Honolulu Paris subpoenAttack
+Iteration: 105 | Loss: 13.890625 | Current Suffix: Honolulu Paris sealsAttack
+Iteration: 106 | Loss: 14.390625 | Current Suffix: Honolulu Paris transformsAttack
+Iteration: 107 | Loss: 13.1171875 | Current Suffix: disembark Paris transformsAttack
+Iteration: 108 | Loss: 14.984375 | Current Suffix: disembark Paris depositionAttack
+Iteration: 109 | Loss: 15.375 | Current Suffix: disembark Paris intakesAttack
+Iteration: 110 | Loss: 14.484375 | Current Suffix: disembark Paris clutterAttack
+Iteration: 111 | Loss: 15.53125 | Current Suffix: disembark Paris placeholderAttack
+Iteration: 112 | Loss: 15.25 | Current Suffix: disembark Paris repaymentAttack
+Iteration: 113 | Loss: 15.75 | Current Suffix: disembark Paris regAttack
+Iteration: 114 | Loss: 12.765625 | Current Suffix: disembark Paris capturedAttack
+Iteration: 115 | Loss: 16.625 | Current Suffix:� Paris capturedAttack
+Iteration: 116 | Loss: 16.625 | Current Suffix:� Paris capturedAttack
+Iteration: 117 | Loss: 16.625 | Current Suffix:� Paris capturedAttack
+Iteration: 118 | Loss: 16.625 | Current Suffix:� Paris capturedAttack
+Iteration: 119 | Loss: 16.15625 | Current Suffix: malaria Paris capturedAttack
+Iteration: 120 | Loss: 16.78125 | Current Suffix: Bermuda Paris capturedAttack
+Iteration: 121 | Loss: 15.171875 | Current Suffix: deserts Paris capturedAttack
+Iteration: 122 | Loss: 15.46875 | Current Suffix: deserts Paris generalsAttack
+Iteration: 123 | Loss: 13.859375 | Current Suffix: deserts Paris astronomerAttack
+Iteration: 124 | Loss: 14.8828125 | Current Suffix: deserts Paris invasionAttack
+Iteration: 125 | Loss: 13.359375 | Current Suffix: deserts Paris astronautAttack
+Iteration: 126 | Loss: 16.828125 | Current Suffix: � Paris astronautAttack
+Iteration: 127 | Loss: 16.671875 | Current Suffix:ís Paris astronautAttack
+Iteration: 128 | Loss: 18.0 | Current Suffix: Chapter Paris astronautAttack
+Iteration: 129 | Loss: 13.8671875 | Current Suffix: part Paris astronautAttack
+Iteration: 130 | Loss: 16.25 | Current Suffix: manag Paris astronautAttack
+Iteration: 131 | Loss: 13.59375 | Current Suffix: shut Paris astronautAttack
+Iteration: 132 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 133 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 134 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 135 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 136 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 137 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 138 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 139 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 140 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 141 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 142 | Loss: 17.375 | Current Suffix:� Paris astronautAttack
+Iteration: 0 | Loss: 20.15625 | Current Suffix: people Eiffel Tower
+Iteration: 1 | Loss: 21.03125 | Current Suffix: people Eiffel pc
+Iteration: 2 | Loss: 21.1875 | Current Suffix: hey Eiffel pc
+Iteration: 3 | Loss: 20.53125 | Current Suffix:remember Eiffel pc
+Iteration: 4 | Loss: 20.890625 | Current Suffix: forget Eiffel pc
+Iteration: 5 | Loss: 21.125 | Current Suffix: apologize Eiffel pc
+Iteration: 6 | Loss: 20.96875 | Current Suffix: okay Eiffel pc
+Iteration: 7 | Loss: 21.0 | Current Suffix: okay Eiffel behavi
+Iteration: 8 | Loss: 21.25 | Current Suffix: bigotry Eiffel behavi
+Iteration: 9 | Loss: 21.203125 | Current Suffix: guys Eiffel behavi
+Iteration: 10 | Loss: 21.4375 | Current Suffix: TMZ Eiffel behavi
+Iteration: 11 | Loss: 21.25 | Current Suffix: TMZ Eiffel tc
+Iteration: 12 | Loss: 21.8125 | Current Suffix: TMZ Eiffel sher
+Iteration: 13 | Loss: 21.5 | Current Suffix: TMZ Eiffel artif
+Iteration: 14 | Loss: 21.78125 | Current Suffix: TMZ Eiffel pc
+Iteration: 15 | Loss: 21.546875 | Current Suffix: TMZ Eiffel antidepress
+Iteration: 16 | Loss: 21.421875 | Current Suffix:bnb Eiffel antidepress
+Iteration: 17 | Loss: 20.3125 | Current Suffix: NYC Eiffel antidepress
+Iteration: 18 | Loss: 19.9375 | Current Suffix: NYC Eiffel WWF
+Iteration: 19 | Loss: 19.65625 | Current Suffix: wrestling Eiffel WWF
+Iteration: 20 | Loss: 19.71875 | Current Suffix: promo Eiffel WWF
+Iteration: 21 | Loss: 18.75 | Current Suffix: backstage Eiffel WWF
+Iteration: 22 | Loss: 19.671875 | Current Suffix: Summers Eiffel WWF
+Iteration: 23 | Loss: 19.65625 | Current Suffix: Jericho Eiffel WWF
+Iteration: 24 | Loss: 19.8125 | Current Suffix: flashbacks Eiffel WWF
+Iteration: 25 | Loss: 20.3125 | Current Suffix: flashbacks Eiffel UFC
+Iteration: 26 | Loss: 20.15625 | Current Suffix: hallucinations Eiffel UFC
+Iteration: 27 | Loss: 19.59375 | Current Suffix: mouths Eiffel UFC
+Iteration: 28 | Loss: 20.3125 | Current Suffix: lipstick Eiffel UFC
+Iteration: 29 | Loss: 19.53125 | Current Suffix: tattoos Eiffel UFC
+Iteration: 30 | Loss: 19.53125 | Current Suffix: selfies Eiffel UFC
+Iteration: 31 | Loss: 19.96875 | Current Suffix: girlfriends Eiffel UFC
+Iteration: 32 | Loss: 19.96875 | Current Suffix: chemotherapy Eiffel UFC
+Iteration: 33 | Loss: 19.53125 | Current Suffix: selfies Eiffel UFC
+Iteration: 34 | Loss: 19.921875 | Current Suffix: monkeys Eiffel UFC
+Iteration: 35 | Loss: 19.78125 | Current Suffix: monkeys Eiffel Beyon
+Iteration: 36 | Loss: 19.859375 | Current Suffix: monkeys Eiffel [+
+Iteration: 37 | Loss: 19.265625 | Current Suffix: apples Eiffel [+
+Iteration: 38 | Loss: 19.40625 | Current Suffix: Beyon Eiffel [+
+Iteration: 39 | Loss: 19.375 | Current Suffix: lips Eiffel [+
+Iteration: 40 | Loss: 19.03125 | Current Suffix: ballet Eiffel [+
+Iteration: 41 | Loss: 18.78125 | Current Suffix: gown Eiffel [+
+Iteration: 42 | Loss: 18.90625 | Current Suffix: Windsor Eiffel [+
+Iteration: 43 | Loss: 18.65625 | Current Suffix: Brooklyn Eiffel [+
+Iteration: 44 | Loss: 18.96875 | Current Suffix: Blasio Eiffel [+
+Iteration: 45 | Loss: 17.78125 | Current Suffix: Blasio Eiffelㅋㅋ
+Iteration: 46 | Loss: 18.375 | Current Suffix: Blasio EiffelUFC
+Iteration: 47 | Loss: 18.0 | Current Suffix: Blasio EiffelLaunch
+Iteration: 48 | Loss: 16.78125 | Current Suffix: Blasio EiffelAs
+Iteration: 49 | Loss: 18.671875 | Current Suffix: Blasio EiffelJeremy
+Iteration: 50 | Loss: 17.8125 | Current Suffix: Blasio EiffelWednesday
+Iteration: 51 | Loss: 18.84375 | Current Suffix: Blasio Eiffelreported
+Iteration: 52 | Loss: 18.296875 | Current Suffix: Blasio EiffelinventoryQuantity
+Iteration: 53 | Loss: 18.9375 | Current Suffix: Blasio EiffelquickShipAvailable
+Iteration: 54 | Loss: 18.0 | Current Suffix: Blasio Eiffelpowerful
+Iteration: 55 | Loss: 18.421875 | Current Suffix: Paddock Eiffelpowerful
+Iteration: 56 | Loss: 19.3125 | Current Suffix: Paddock Eiffelウス
+Iteration: 57 | Loss: 19.21875 | Current Suffix: Paddock EiffelCNN
+Iteration: 58 | Loss: 18.03125 | Current Suffix: Paddock EiffelinventoryQuantity
+Iteration: 59 | Loss: 17.359375 | Current Suffix: Paddock EiffelISIS
+Iteration: 60 | Loss: 17.515625 | Current Suffix:Qaida EiffelISIS
+Iteration: 61 | Loss: 18.734375 | Current Suffix: gunman EiffelISIS
+Iteration: 62 | Loss: 18.875 | Current Suffix: gunman EiffelWHO
+Iteration: 63 | Loss: 19.40625 | Current Suffix: gunman EiffelinventoryQuantity
+Iteration: 64 | Loss: 19.53125 | Current Suffix:arnaev EiffelinventoryQuantity
+Iteration: 65 | Loss: 19.75 | Current Suffix: Devon EiffelinventoryQuantity
+Iteration: 66 | Loss: 19.34375 | Current Suffix: Nato EiffelinventoryQuantity
+Iteration: 67 | Loss: 19.53125 | Current Suffix:arnaev EiffelinventoryQuantity
+Iteration: 68 | Loss: 20.8125 | Current Suffix:arnaev EiffelMcC
+Iteration: 69 | Loss: 18.03125 | Current Suffix:arnaev EiffelARGET
+Iteration: 70 | Loss: 18.125 | Current Suffix:arnaev EiffelProsecut
+Iteration: 71 | Loss: 19.0 | Current Suffix: Plymouth EiffelProsecut
+Iteration: 72 | Loss: 17.90625 | Current Suffix: Charleston EiffelProsecut
+Iteration: 73 | Loss: 17.234375 | Current Suffix: Paddock EiffelProsecut
+Iteration: 74 | Loss: 19.3125 | Current Suffix: Alexandria EiffelProsecut
+Iteration: 75 | Loss: 19.0 | Current Suffix: Plymouth EiffelProsecut
+Iteration: 76 | Loss: 17.78125 | Current Suffix: Newtown EiffelProsecut
+Iteration: 77 | Loss: 17.3125 | Current Suffix: Newtown E ParishelProsecut
+Iteration: 78 | Loss: 14.4921875 | Current Suffix: Newtown E Paris postpProsecut
+Iteration: 79 | Loss: 13.5703125 | Current Suffix: Newtownosta Paris postpProsecut
+Iteration: 80 | Loss: 13.2890625 | Current Suffix: Newtowncca Paris postpProsecut
+Iteration: 81 | Loss: 13.90625 | Current Suffix: Newtowncca Paris shakingProsecut
+Iteration: 82 | Loss: 12.3125 | Current Suffix: Newtowncca Paris shriProsecut
+Iteration: 83 | Loss: 14.171875 | Current Suffix: Newtownbyn Paris shriProsecut
+Iteration: 84 | Loss: 12.546875 | Current Suffix: Newtownenvironment Paris shriProsecut
+Iteration: 85 | Loss: 10.2578125 | Current Suffix: Yellowstoneenvironment Paris shriProsecut
+Iteration: 86 | Loss: 10.78125 | Current Suffix: Yellowstoneenvironment Paris shri Oprah
+Iteration: 87 | Loss: 9.59375 | Current Suffix: Yellowstoneenvironment Parisassetsadobe Oprah
+Iteration: 88 | Loss: 8.78125 | Current Suffix: Yellowstoneenvironment ParisassetsadobeWARE
+Iteration: 89 | Loss: 10.453125 | Current Suffix: Yellowstoneenvironment ParisassetsadobeMonday
+Iteration: 90 | Loss: 10.3359375 | Current Suffix: Yellowstoneenvironment Parisassetsadobeacing
+Iteration: 91 | Loss: 9.390625 | Current Suffix: Yellowstoneenvironment ParisassetsadobeWinged
+Iteration: 92 | Loss: 11.0 | Current Suffix: Yellowstoneenvironment ParisassetsadobeMaps
+Iteration: 93 | Loss: 10.484375 | Current Suffix: Yellowstoneenvironment Parisassetsadobe lining
+Iteration: 94 | Loss: 9.375 | Current Suffix: Yellowstoneenvironment Parisassetsadobe quitting
+Iteration: 95 | Loss: 10.65625 | Current Suffix: Yellowstoneenvironment Parisassetsadobe weakened
+Iteration: 96 | Loss: 9.546875 | Current Suffix: Yellowstoneenvironment Parisassetsadobe blacklist
+Iteration: 97 | Loss: 10.515625 | Current Suffix: Yellowstoneenvironment Parisassetsadobe debating
+Iteration: 98 | Loss: 10.125 | Current Suffix: Yellowstoneenvironment Parisassetsadobe PRESIDENT
+Iteration: 99 | Loss: 9.5 | Current Suffix: Yellowstoneenvironment ParisassetsadobePresident
+Iteration: 100 | Loss: 9.03125 | Current Suffix: Yellowstoneenvironment ParisassetsadobeSPONSORED
+Iteration: 101 | Loss: 9.3125 | Current Suffix: Yellowstoneenvironment ParisassetsadobeNEWS
+Iteration: 102 | Loss: 9.234375 | Current Suffix: Yellowstoneenvironment ParisassetsadobePublished
+Iteration: 103 | Loss: 10.125 | Current Suffix: Yellowstoneenvironment Parisassetsadobe embattled
+Iteration: 104 | Loss: 8.90625 | Current Suffix: Yellowstoneenvironment Parisassetsadobe Schwarzenegger
+Iteration: 105 | Loss: 10.4921875 | Current Suffix: Yellowstoneenvironment ParisassetsadobeCBS
+Iteration: 106 | Loss: 8.984375 | Current Suffix: Yellowstoneenvironment Parisassetsadobe Mourinho
+Iteration: 107 | Loss: 9.390625 | Current Suffix: Yellowstoneenvironment Parisassetsadobe Mayor
+Iteration: 108 | Loss: 9.375 | Current Suffix: Yellowstoneenvironment Parisassetsadobe quitting
+Iteration: 109 | Loss: 9.90625 | Current Suffix: Yellowstone ec Parisassetsadobe quitting
+Iteration: 110 | Loss: 11.78125 | Current Suffix: Yellowstone ecology Parisassetsadobe quitting
+Iteration: 111 | Loss: 12.921875 | Current Suffix: Yellowstone substr Parisassetsadobe quitting
+Iteration: 112 | Loss: 9.90625 | Current Suffix: YellowstoneShape Parisassetsadobe quitting
+Iteration: 113 | Loss: 10.546875 | Current Suffix: YellowstoneShape Parisassetsadobe resign
+Iteration: 114 | Loss: 10.21875 | Current Suffix: YellowstoneShape Parisassetsadobe dying
+Iteration: 115 | Loss: 11.03125 | Current Suffix: YellowstoneShape Parisassetsadobe manslaughter
+Iteration: 116 | Loss: 10.421875 | Current Suffix: YellowstoneShape Parisassetsadobe murdered
+Iteration: 117 | Loss: 10.28125 | Current Suffix: YellowstoneShape Parisassetsadobe vanishing
+Iteration: 118 | Loss: 11.59375 | Current Suffix: NepalShape Parisassetsadobe vanishing
+Iteration: 119 | Loss: 10.6640625 | Current Suffix: NepalShape Parisassetsadobe gunman
+Iteration: 120 | Loss: 10.71875 | Current Suffix: LaosShape Parisassetsadobe gunman
+Iteration: 121 | Loss: 11.546875 | Current Suffix: LaosShape Parisassetsadobe sexism
+Iteration: 122 | Loss: 10.71875 | Current Suffix: LaosShape Parisassetsadobe gunman
+Iteration: 123 | Loss: 11.0625 | Current Suffix: LaosShape Parisassetsadobe wrongdoing
+Iteration: 124 | Loss: 11.25 | Current Suffix: LaosShape Parisassetsadobe Unsure
+Iteration: 125 | Loss: 12.359375 | Current Suffix: enclosedShape Parisassetsadobe Unsure
+Iteration: 126 | Loss: 11.921875 | Current Suffix: enclosedhab Parisassetsadobe Unsure
+Iteration: 127 | Loss: 11.5625 | Current Suffix: burglaryhab Parisassetsadobe Unsure
+Iteration: 128 | Loss: 11.5078125 | Current Suffix: burglary conv Parisassetsadobe Unsure
+Iteration: 129 | Loss: 12.046875 | Current Suffix: burglary conv Paris Caption Unsure
+Iteration: 130 | Loss: 11.09375 | Current Suffix: filings conv Paris Caption Unsure
+Iteration: 131 | Loss: 10.671875 | Current Suffix: filings conv Paris Captionabortion
+Iteration: 132 | Loss: 9.625 | Current Suffix: filings conv Paris CaptioninventoryQuantity
+Iteration: 133 | Loss: 8.625 | Current Suffix: filings conv Paris CaptionTRUMP
+Iteration: 134 | Loss: 8.7265625 | Current Suffix: filings loc Paris CaptionTRUMP
+Iteration: 135 | Loss: 9.03125 | Current Suffix: filings adjud Paris CaptionTRUMP
+Iteration: 136 | Loss: 12.0 | Current Suffix: filingsfn Paris CaptionTRUMP
+Iteration: 137 | Loss: 10.546875 | Current Suffix: unlawfn Paris CaptionTRUMP
+Iteration: 138 | Loss: 9.4140625 | Current Suffix: lawfullyfn Paris CaptionTRUMP
+Iteration: 139 | Loss: 11.1953125 | Current Suffix: lawfullyfn Paris Caption 2019
+Iteration: 140 | Loss: 11.4921875 | Current Suffix: lawfullyfn Paris Caption Lamar
+Iteration: 141 | Loss: 11.53125 | Current Suffix: lawfullyfn Paris Caption Jack
+Iteration: 142 | Loss: 9.875 | Current Suffix: lawfullyfn Paris Caption Trump
+Iteration: 143 | Loss: 9.875 | Current Suffix: lawfullyfn Paris Caption Trump
+Iteration: 144 | Loss: 11.34375 | Current Suffix: lawfullyfn Paris Caption Republicans
+Iteration: 145 | Loss: 10.203125 | Current Suffix: lawfullyfn Paris Caption Donald
+Iteration: 146 | Loss: 11.765625 | Current Suffix: lawfullyfn Paris CaptionNASA
+Iteration: 147 | Loss: 8.671875 | Current Suffix: lawfullyfn Paris CaptionTrump
+Iteration: 148 | Loss: 9.59375 | Current Suffix: lawfullyfn Paris CaptionHillary
+Iteration: 149 | Loss: 10.578125 | Current Suffix: lawfully538 Paris CaptionHillary
+Iteration: 150 | Loss: 11.796875 | Current Suffix: lawfully400 Paris CaptionHillary
+Iteration: 151 | Loss: 10.078125 | Current Suffix: lawfullyxc Paris CaptionHillary
+Iteration: 152 | Loss: 11.1640625 | Current Suffix:osponsxc Paris CaptionHillary
+Iteration: 153 | Loss: 9.34375 | Current Suffix:ospons u Paris CaptionHillary
+Iteration: 154 | Loss: 8.265625 | Current Suffix: onboard u Paris CaptionHillary
+Iteration: 155 | Loss: 8.59375 | Current Suffix: sanitation u Paris CaptionHillary
+Iteration: 156 | Loss: 8.6796875 | Current Suffix: soil u Paris CaptionHillary
+Iteration: 157 | Loss: 8.2421875 | Current Suffix: soil e Paris CaptionHillary
+Iteration: 158 | Loss: 7.91015625 | Current Suffix: soil s Paris CaptionHillary
+Iteration: 159 | Loss: 8.921875 | Current Suffix: Bluetooth s Paris CaptionHillary
+Iteration: 160 | Loss: 8.21875 | Current Suffix: indoors s Paris CaptionHillary
+Iteration: 161 | Loss: 8.609375 | Current Suffix: Pluto s Paris CaptionHillary
+Iteration: 162 | Loss: 8.171875 | Current Suffix: temple s Paris CaptionHillary
+Iteration: 163 | Loss: 8.6796875 | Current Suffix: temple uh Paris CaptionHillary
+Iteration: 164 | Loss: 9.09375 | Current Suffix: casinos uh Paris CaptionHillary
+Iteration: 165 | Loss: 9.6015625 | Current Suffix: casinos uh Paris Caption terrorists
+Iteration: 166 | Loss: 9.71875 | Current Suffix: casinos uh Paris Caption terrorism
+Iteration: 167 | Loss: 8.671875 | Current Suffix: casinos uh Paris CaptionOTUS
+Iteration: 168 | Loss: 8.46875 | Current Suffix: casinos uh Paris CaptionTrump
+Iteration: 169 | Loss: 8.46875 | Current Suffix: casinos uh Paris CaptionTrump
+Iteration: 170 | Loss: 7.6953125 | Current Suffix: casinos uh Paris CaptionrealDonaldTrump
+Iteration: 171 | Loss: 8.109375 | Current Suffix: organizations uh Paris CaptionrealDonaldTrump
+Iteration: 172 | Loss: 7.609375 | Current Suffix: microbi uh Paris CaptionrealDonaldTrump
+Iteration: 173 | Loss: 8.375 | Current Suffix: cellular uh Paris CaptionrealDonaldTrump
+Iteration: 174 | Loss: 6.6640625 | Current Suffix: planetary uh Paris CaptionrealDonaldTrump
+Iteration: 175 | Loss: 8.2421875 | Current Suffix: treatment uh Paris CaptionrealDonaldTrump
+Iteration: 176 | Loss: 7.7109375 | Current Suffix: contamination uh Paris CaptionrealDonaldTrump
+Iteration: 177 | Loss: 7.0859375 | Current Suffix: exhibits uh Paris CaptionrealDonaldTrump
+Iteration: 178 | Loss: 7.359375 | Current Suffix: demonstrate uh Paris CaptionrealDonaldTrump
+Iteration: 179 | Loss: 7.71875 | Current Suffix: organisms uh Paris CaptionrealDonaldTrump
+Iteration: 180 | Loss: 7.0390625 | Current Suffix: fertilizer uh Paris CaptionrealDonaldTrump
+Iteration: 181 | Loss: 8.34375 | Current Suffix: bloodstream uh Paris CaptionrealDonaldTrump
+Iteration: 182 | Loss: 7.21875 | Current Suffix: astronomy uh Paris CaptionrealDonaldTrump
+Iteration: 183 | Loss: 8.03125 | Current Suffix: kidnapping uh Paris CaptionrealDonaldTrump
+Iteration: 184 | Loss: 9.3046875 | Current Suffix: Egyptians uh Paris CaptionrealDonaldTrump
+Iteration: 185 | Loss: 7.078125 | Current Suffix: archae uh Paris CaptionrealDonaldTrump
+Iteration: 186 | Loss: 7.59375 | Current Suffix: messenger uh Paris CaptionrealDonaldTrump
+Iteration: 187 | Loss: 7.8515625 | Current Suffix: solar uh Paris CaptionrealDonaldTrump
+Iteration: 188 | Loss: 7.4453125 | Current Suffix: ecosystem uh Paris CaptionrealDonaldTrump
+Iteration: 189 | Loss: 7.52734375 | Current Suffix:aundering uh Paris CaptionrealDonaldTrump
+Iteration: 190 | Loss: 7.1875 | Current Suffix: harvesting uh Paris CaptionrealDonaldTrump
+Iteration: 191 | Loss: 8.328125 | Current Suffix: Galactic uh Paris CaptionrealDonaldTrump
+Iteration: 192 | Loss: 7.5390625 | Current Suffix: indigenous uh Paris CaptionrealDonaldTrump
+Iteration: 193 | Loss: 8.25 | Current Suffix: Ambassador uh Paris CaptionrealDonaldTrump
+Iteration: 194 | Loss: 6.625 | Current Suffix: galactic uh Paris CaptionrealDonaldTrump
+Iteration: 195 | Loss: 7.8046875 | Current Suffix: translator uh Paris CaptionrealDonaldTrump
+Iteration: 196 | Loss: 6.36328125 | Current Suffix: planet uh Paris CaptionrealDonaldTrump
+Iteration: 197 | Loss: 8.0859375 | Current Suffix: planet uh Paris Captionhillary
+Iteration: 198 | Loss: 7.9609375 | Current Suffix: planet uh Paris Caption Clintons
+Iteration: 199 | Loss: 8.234375 | Current Suffix: planet uh Paris Caption Hillary
+Iteration: 200 | Loss: 8.4375 | Current Suffix: planet uh Paris Caption Barack
+Iteration: 201 | Loss: 9.171875 | Current Suffix: planet uh Paris Caption Lana
+Iteration: 202 | Loss: 8.9921875 | Current Suffix: planet uh Paris Caption Kirk
+Iteration: 203 | Loss: 9.0625 | Current Suffix: planet uh Paris Caption Tat
+Iteration: 204 | Loss: 8.953125 | Current Suffix: planet uh Paris Caption Kira
+Iteration: 205 | Loss: 9.09375 | Current Suffix: planet uh Paris Caption Lara
+Iteration: 206 | Loss: 9.046875 | Current Suffix: planet uh Paris Caption Kim
+Iteration: 207 | Loss: 8.640625 | Current Suffix: planet uh Paris Caption Kes
+Iteration: 208 | Loss: 8.4765625 | Current Suffix: planet uh Paris CaptionJimmy
+Iteration: 209 | Loss: 8.359375 | Current Suffix: planet uh Paris CaptionJake
+Iteration: 210 | Loss: 8.265625 | Current Suffix: planet uh Paris CaptionPope
+Iteration: 211 | Loss: 8.9765625 | Current Suffix: planet uh Paris Caption Kaine
+Iteration: 212 | Loss: 8.546875 | Current Suffix: planet uh Paris CaptionCaptain
+Iteration: 213 | Loss: 8.1015625 | Current Suffix: planet uh Paris CaptionRepublic
+Iteration: 214 | Loss: 8.4296875 | Current Suffix: planet uh Paris CaptionEXT
+Iteration: 215 | Loss: 8.59375 | Current Suffix: planet uh Paris podiumEXT
+Iteration: 216 | Loss: 8.4453125 | Current Suffix: planet uh ParisEXTEXT
+Iteration: 217 | Loss: 8.265625 | Current Suffix: orbiting uh ParisEXTEXT
+Iteration: 218 | Loss: 7.8671875 | Current Suffix: orbiting uh ParisEXTmosp
+Iteration: 219 | Loss: 7.734375 | Current Suffix: orbiting uh ParisEXT Kash
+Iteration: 220 | Loss: 7.421875 | Current Suffix: orbiting uh ParisEXTKate
+Iteration: 221 | Loss: 7.421875 | Current Suffix: orbiting uh ParisEXT Kes
+Iteration: 222 | Loss: 7.421875 | Current Suffix: orbiting uh ParisEXTKate
+Iteration: 223 | Loss: 7.72265625 | Current Suffix: orbiting uh ParisEXT Wor
+Iteration: 224 | Loss: 6.578125 | Current Suffix: orbiting uh ParisEXT The
+Iteration: 225 | Loss: 7.2734375 | Current Suffix:urized uh ParisEXT The
+Iteration: 226 | Loss: 6.3125 | Current Suffix: planetary uh ParisEXT The
+Iteration: 227 | Loss: 6.578125 | Current Suffix: orbiting uh ParisEXT The
+Iteration: 228 | Loss: 7.109375 | Current Suffix: hangar uh ParisEXT The
+Iteration: 229 | Loss: 6.94140625 | Current Suffix: planet uh ParisEXT The
+Iteration: 230 | Loss: 6.94140625 | Current Suffix: planet uh ParisEXT The
+Iteration: 231 | Loss: 6.578125 | Current Suffix: orbiting uh ParisEXT The
+Iteration: 232 | Loss: 8.1015625 | Current Suffix:Emergency uh ParisEXT The
+Iteration: 233 | Loss: 7.09375 | Current Suffix: galactic uh ParisEXT The
+Iteration: 234 | Loss: 7.09375 | Current Suffix: galactic uh ParisEXT The
+Iteration: 235 | Loss: 7.296875 | Current Suffix: canyon uh ParisEXT The
+Iteration: 236 | Loss: 6.578125 | Current Suffix: orbiting uh ParisEXT The
+Iteration: 237 | Loss: 7.109375 | Current Suffix: hangar uh ParisEXT The
+Iteration: 238 | Loss: 7.109375 | Current Suffix: hangar uh ParisEXT The
+Iteration: 239 | Loss: 7.109375 | Current Suffix: hangar uh ParisEXT The
+Iteration: 240 | Loss: 7.09375 | Current Suffix: galactic uh ParisEXT The
+Iteration: 241 | Loss: 7.265625 | Current Suffix: docking uh ParisEXT The
+Iteration: 242 | Loss: 7.1640625 | Current Suffix: emergency uh ParisEXT The
+Iteration: 243 | Loss: 7.09375 | Current Suffix: galactic uh ParisEXT The
+Iteration: 244 | Loss: 8.1171875 | Current Suffix: corridor uh ParisEXT The
+Iteration: 245 | Loss: 6.3125 | Current Suffix: planetary uh ParisEXT The
+Iteration: 246 | Loss: 6.578125 | Current Suffix: orbiting uh ParisEXT The
+Iteration: 247 | Loss: 8.28125 | Current Suffix: orbiting uh ParisEXT Amazing
+Iteration: 248 | Loss: 7.00390625 | Current Suffix: orbiting uh ParisEXT Soon
+Iteration: 249 | Loss: 7.7265625 | Current Suffix: orbiting uh ParisEXTYesterday
+Iteration: 250 | Loss: 7.796875 | Current Suffix: orbiting uh ParisEXT Suddenly
+Iteration: 251 | Loss: 7.265625 | Current Suffix: orbiting uh ParisEXT Hundreds
+Iteration: 252 | Loss: 7.734375 | Current Suffix: orbiting uh ParisEXT That
+Iteration: 253 | Loss: 8.421875 | Current Suffix: orbiting uh ParisEXT Aph
+Iteration: 254 | Loss: 7.6015625 | Current Suffix: orbiting uh ParisEXT Over
+Iteration: 255 | Loss: 8.140625 | Current Suffix: orbiting uh ParisEXT monitor
+Iteration: 256 | Loss: 7.0625 | Current Suffix: orbiting uh ParisEXTEarth
+Iteration: 257 | Loss: 7.5703125 | Current Suffix: orbiting uh ParisEXT Bash
+Iteration: 258 | Loss: 7.703125 | Current Suffix: orbiting uh ParisEXT Kan
+Iteration: 259 | Loss: 6.578125 | Current Suffix: orbiting uh ParisEXT The
+Iteration: 260 | Loss: 7.28125 | Current Suffix: orbiting uh ParisEXTThe
+Iteration: 261 | Loss: 7.53125 | Current Suffix: hangar uh ParisEXTThe
+Iteration: 262 | Loss: 6.5390625 | Current Suffix: planetary uh ParisEXTThe
+Iteration: 263 | Loss: 6.3125 | Current Suffix: planetary uh ParisEXT The
+Iteration: 264 | Loss: 7.265625 | Current Suffix: docking uh ParisEXT The
+Iteration: 265 | Loss: 7.09375 | Current Suffix: galactic uh ParisEXT The
+Iteration: 266 | Loss: 7.296875 | Current Suffix: canyon uh ParisEXT The
+Iteration: 267 | Loss: 6.94140625 | Current Suffix: planet uh ParisEXT The
+Iteration: 268 | Loss: 7.2734375 | Current Suffix:urized uh ParisEXT The
+Iteration: 269 | Loss: 6.94140625 | Current Suffix: planet uh ParisEXT The
+Iteration: 270 | Loss: 7.5234375 | Current Suffix: Atmospheric uh ParisEXT The
+Iteration: 271 | Loss: 6.578125 | Current Suffix: orbiting uh ParisEXT The
+Iteration: 272 | Loss: 8.25 | Current Suffix: orbiting uh ParisEXT Meth
+Iteration: 273 | Loss: 7.43359375 | Current Suffix: orbiting uh ParisEXT Celebr
+Iteration: 274 | Loss: 7.421875 | Current Suffix: orbiting uh ParisEXT Kes
+Iteration: 275 | Loss: 7.49609375 | Current Suffix: orbiting uh ParisEXT Kirk
+Iteration: 276 | Loss: 7.6171875 | Current Suffix: orbiting uh ParisEXTEnter
+Iteration: 277 | Loss: 7.58203125 | Current Suffix: orbiting uh ParisEXT Picard
+Iteration: 278 | Loss: 6.7734375 | Current Suffix: orbiting uh ParisEXT -
+Iteration: 279 | Loss: 8.375 | Current Suffix: orbiting uh ParisEXT Hik
+Iteration: 280 | Loss: 7.72265625 | Current Suffix: orbiting uh ParisEXT Wor
+Iteration: 281 | Loss: 7.6875 | Current Suffix: orbiting uh ParisEXT As
+Iteration: 282 | Loss: 9.375 | Current Suffix: orbiting uh ParisEXTebted
+Iteration: 283 | Loss: 8.546875 | Current Suffix: orbiting uh ParisEXTchecked
+Iteration: 284 | Loss: 8.015625 | Current Suffix: orbiting uh ParisEXTBridge
+Iteration: 285 | Loss: 7.72265625 | Current Suffix: orbiting uh ParisEXT Wor
+Iteration: 286 | Loss: 7.421875 | Current Suffix: orbiting uh ParisEXT Kes
+Iteration: 287 | Loss: 7.72265625 | Current Suffix: orbiting uh ParisEXT Wor
+Iteration: 288 | Loss: 7.51171875 | Current Suffix: orbiting uh ParisEXT Mal
+Iteration: 289 | Loss: 7.421875 | Current Suffix: orbiting uh ParisEXT Kes
+Iteration: 290 | Loss: 7.78125 | Current Suffix: orbiting uh ParisEXT Vick
+Iteration: 291 | Loss: 7.58203125 | Current Suffix: orbiting uh ParisEXT Picard
+Iteration: 292 | Loss: 7.25 | Current Suffix: orbiting uh ParisEXT An
+Iteration: 293 | Loss: 7.92578125 | Current Suffix: orbiting uh ParisEXT McCoy
+Iteration: 294 | Loss: 7.6484375 | Current Suffix: orbiting uh ParisEXT Seven
+Iteration: 295 | Loss: 7.421875 | Current Suffix: orbiting uh ParisEXT Kes
+Iteration: 296 | Loss: 7.58203125 | Current Suffix: orbiting uh ParisEXT Picard
+Iteration: 297 | Loss: 7.3671875 | Current Suffix: orbiting uh ParisEXT While
+Iteration: 298 | Loss: 8.0625 | Current Suffix: orbiting uh ParisEXT Bride
+Iteration: 299 | Loss: 6.7734375 | Current Suffix: orbiting uh ParisEXT -
+Iteration: 0 | Loss: 18.375 | Current Suffix:The E Defeatel Tower
+Iteration: 1 | Loss: 16.71875 | Current Suffix:The=-=-=-=- Defeatel Tower
+Iteration: 2 | Loss: 14.75 | Current Suffix:The=-=-=-=- Def Kualaatel Tower
+Iteration: 3 | Loss: 12.6171875 | Current Suffix:The=-=-=-=- Def Patel Tower
+Iteration: 4 | Loss: 11.78125 | Current Suffix:The=-=-=-=- Def Patel unbeliev
+Iteration: 5 | Loss: 11.71875 | Current Suffix:The=-=-=-=-scient Patel unbeliev
+Iteration: 6 | Loss: 11.6796875 | Current Suffix:The=-=-=-=-Controller Patel unbeliev
+Iteration: 7 | Loss: 12.0859375 | Current Suffix:The=-=-=-=- Reneg Patel unbeliev
+Iteration: 8 | Loss: 11.6328125 | Current Suffix:The=-=-=-=-Scient Patel unbeliev
+Iteration: 9 | Loss: 11.8203125 | Current Suffix:The=-=-=-=- virus Patel unbeliev
+Iteration: 10 | Loss: 11.7421875 | Current Suffix:The=-=-=-=-science Patel unbeliev
+Iteration: 11 | Loss: 11.6875 | Current Suffix:The=-=-=-=-science PatelGAME
+Iteration: 12 | Loss: 11.3125 | Current Suffix:The=-=-=-=-science Pateljoining
+Iteration: 13 | Loss: 11.40625 | Current Suffix:The=-=-=-=-science Pateloccupied
+Iteration: 14 | Loss: 11.703125 | Current Suffix:The=-=-=-=- lia Pateloccupied
+Iteration: 15 | Loss: 11.6171875 | Current Suffix:The=-=-=-=- lia Patelhospital
+Iteration: 16 | Loss: 11.4375 | Current Suffix:The=-=-=-=-HQ Patelhospital
+Iteration: 17 | Loss: 10.96875 | Current Suffix:The=-=-=-=- unfl Patelhospital
+Iteration: 18 | Loss: 11.265625 | Current Suffix:The=-=-=-=-WN Patelhospital
+Iteration: 19 | Loss: 11.328125 | Current Suffix:The hallucinationsWN Patelhospital
+Iteration: 20 | Loss: 11.203125 | Current Suffix: The hallucinationsWN Patelhospital
+Iteration: 21 | Loss: 11.0 | Current Suffix: He hallucinationsWN Patelhospital
+Iteration: 22 | Loss: 11.046875 | Current Suffix: He aboardWN Patelhospital
+Iteration: 23 | Loss: 10.546875 | Current Suffix: aliens aboardWN Patelhospital
+Iteration: 24 | Loss: 10.7265625 | Current Suffix: aliens infectedWN Patelhospital
+Iteration: 25 | Loss: 10.9375 | Current Suffix: aliens dronesWN Patelhospital
+Iteration: 26 | Loss: 10.9375 | Current Suffix: aliens creditsWN Patelhospital
+Iteration: 27 | Loss: 10.84375 | Current Suffix: aliens inhabitWN Patelhospital
+Iteration: 28 | Loss: 10.359375 | Current Suffix: aliens navigationWN Patelhospital
+Iteration: 29 | Loss: 10.9140625 | Current Suffix: bunker navigationWN Patelhospital
+Iteration: 30 | Loss: 10.359375 | Current Suffix: aliens navigationWN Patelhospital
+Iteration: 31 | Loss: 10.4296875 | Current Suffix: drone navigationWN Patelhospital
+Iteration: 32 | Loss: 10.71875 | Current Suffix: asteroid navigationWN Patelhospital
+Iteration: 33 | Loss: 10.4296875 | Current Suffix: drone navigationWN Patelhospital
+Iteration: 34 | Loss: 10.6484375 | Current Suffix: shuttle navigationWN Patelhospital
+Iteration: 35 | Loss: 10.375 | Current Suffix: ship navigationWN Patelhospital
+Iteration: 36 | Loss: 9.8828125 | Current Suffix: spaceship navigationWN Patelhospital
+Iteration: 37 | Loss: 10.171875 | Current Suffix: spaceship outpostWN Patelhospital
+Iteration: 38 | Loss: 10.5390625 | Current Suffix: spaceship outpostWN PatelTED
+Iteration: 39 | Loss: 10.875 | Current Suffix: spaceship creditsWN PatelTED
+Iteration: 40 | Loss: 10.9140625 | Current Suffix: Ashley creditsWN PatelTED
+Iteration: 41 | Loss: 10.765625 | Current Suffix: blackmail creditsWN PatelTED
+Iteration: 42 | Loss: 10.875 | Current Suffix: blackmail ambushWN PatelTED
+Iteration: 43 | Loss: 10.6171875 | Current Suffix: blackmail escortWN PatelTED
+Iteration: 44 | Loss: 11.1484375 | Current Suffix: blackmail prematurelyWN PatelTED
+Iteration: 45 | Loss: 11.3203125 | Current Suffix: extermin prematurelyWN PatelTED
+Iteration: 46 | Loss: 11.140625 | Current Suffix: extermin prematurelyWN Patelhospital
+Iteration: 47 | Loss: 10.53125 | Current Suffix: spaceship prematurelyWN Patelhospital
+Iteration: 48 | Loss: 10.484375 | Current Suffix: virus prematurelyWN Patelhospital
+Iteration: 49 | Loss: 10.65625 | Current Suffix: Ghostbusters prematurelyWN Patelhospital
+Iteration: 50 | Loss: 10.390625 | Current Suffix: Ghostbusters trailerWN Patelhospital
+Iteration: 51 | Loss: 10.015625 | Current Suffix: Ghostbusters locationWN Patelhospital
+Iteration: 52 | Loss: 10.484375 | Current Suffix: Ghostbusters patrollingWN Patelhospital
+Iteration: 53 | Loss: 10.8515625 | Current Suffix: Ghostbusters transmissionsWN Patelhospital
+Iteration: 54 | Loss: 10.125 | Current Suffix: Ghostbusters activatingWN Patelhospital
+Iteration: 55 | Loss: 10.5625 | Current Suffix: Ghostbusters activatingAPH Patelhospital
+Iteration: 56 | Loss: 10.421875 | Current Suffix: Ghostbusters openingsAPH Patelhospital
+Iteration: 57 | Loss: 10.34375 | Current Suffix: Ghostbusters openingsAPH Patel plaza
+Iteration: 58 | Loss: 10.296875 | Current Suffix: superhero openingsAPH Patel plaza
+Iteration: 59 | Loss: 10.1875 | Current Suffix: superhero openingsEPA Patel plaza
+Iteration: 60 | Loss: 9.5390625 | Current Suffix: superhero captainEPA Patel plaza
+Iteration: 61 | Loss: 9.9921875 | Current Suffix: superhero captainEPA Patel tumor
+Iteration: 62 | Loss: 9.75 | Current Suffix: superhero captainEPA Patel Statue
+Iteration: 63 | Loss: 9.96875 | Current Suffix: bankruptcy captainEPA Patel Statue
+Iteration: 64 | Loss: 9.859375 | Current Suffix: bankruptcy captainEPA Singh Statue
+Iteration: 65 | Loss: 9.765625 | Current Suffix: Amtrak captainEPA Singh Statue
+Iteration: 66 | Loss: 9.4765625 | Current Suffix: Amtrak captainEPA SinghMuslim
+Iteration: 67 | Loss: 9.5546875 | Current Suffix: Amtrak sailorEPA SinghMuslim
+Iteration: 68 | Loss: 9.421875 | Current Suffix: Amtrak sailorEPA Singh immigrant
+Iteration: 69 | Loss: 9.8515625 | Current Suffix: Amtrak boutsEPA Singh immigrant
+Iteration: 70 | Loss: 9.7890625 | Current Suffix: SEAL boutsEPA Singh immigrant
+Iteration: 71 | Loss: 9.640625 | Current Suffix: SEAL trooperEPA Singh immigrant
+Iteration: 72 | Loss: 9.5859375 | Current Suffix: SEAL linesEPA Singh immigrant
+Iteration: 73 | Loss: 9.125 | Current Suffix: SEAL trademarksEPA Singh immigrant
+Iteration: 74 | Loss: 9.3125 | Current Suffix: SEAL professionEPA Singh immigrant
+Iteration: 75 | Loss: 9.3359375 | Current Suffix: SEAL bossEPA Singh immigrant
+Iteration: 76 | Loss: 9.28125 | Current Suffix: SEAL responsibilitiesEPA Singh immigrant
+Iteration: 77 | Loss: 9.1796875 | Current Suffix: SEAL audienceEPA Singh immigrant
+Iteration: 0 | Loss: 23.1875 | Current Suffix:!!!!!!!!!!!! Nish!!!!!!! 
+Iteration: 1 | Loss: 22.375 | Current Suffix:!!!!!!!! Fifa Nish!!!!!!! 
+Iteration: 2 | Loss: 19.875 | Current Suffix:!!!!!!!! Fifa Nish subpoena!!! 
+Iteration: 3 | Loss: 19.765625 | Current Suffix:OSH Fifa Nish subpoena!!! 
+Iteration: 4 | Loss: 19.34375 | Current Suffix:OSH Fifa Nish subpoenaAlright 
+Iteration: 5 | Loss: 18.65625 | Current Suffix:OSH Fifa Kobe subpoenaAlright 
+Iteration: 6 | Loss: 17.890625 | Current Suffix:atever Fifa Kobe subpoenaAlright 
+Iteration: 7 | Loss: 17.1875 | Current Suffix:atever Fifa Kanye subpoenaAlright 
+Iteration: 8 | Loss: 14.65625 | Current Suffix:atever Fifa Kanye composingAlright 
+Iteration: 9 | Loss: 13.96875 | Current Suffix:atever phon Kanye composingAlright 
+Iteration: 10 | Loss: 13.515625 | Current Suffix:Any phon Kanye composingAlright 
+Iteration: 11 | Loss: 12.5625 | Current Suffix:Any pudding Kanye composingAlright 
+Iteration: 12 | Loss: 11.875 | Current Suffix:Any pudding Kanye composingHot 
+Iteration: 13 | Loss: 12.0 | Current Suffix:Any bra Kanye composingHot 
+Iteration: 14 | Loss: 12.046875 | Current Suffix:Any bra Kanye composing/, 
+Iteration: 15 | Loss: 12.671875 | Current Suffix:Any bra Kanye composing thru 
+Iteration: 16 | Loss: 12.875 | Current Suffix:Anyendas Kanye composing thru 
+Iteration: 17 | Loss: 11.328125 | Current Suffix:Anyendas Kanye composing trough 
+Iteration: 18 | Loss: 9.953125 | Current Suffix:Anyendas Kanye collaborations trough 
+Iteration: 19 | Loss: 8.984375 | Current Suffix:Any� Kanye collaborations trough 
+Iteration: 20 | Loss: 8.53125 | Current Suffix:Any euro Kanye collaborations trough 
+Iteration: 21 | Loss: 8.90625 | Current Suffix:Any UEFA Kanye collaborations trough 
+Iteration: 22 | Loss: 8.984375 | Current Suffix:Any� Kanye collaborations trough 
+Iteration: 23 | Loss: 8.53125 | Current Suffix:Any euro Kanye collaborations trough 
+Iteration: 24 | Loss: 8.90625 | Current Suffix:Any UEFA Kanye collaborations trough 
+Iteration: 25 | Loss: 8.4453125 | Current Suffix:Any Ney Kanye collaborations trough 
+Iteration: 26 | Loss: 9.25 | Current Suffix:Any Fallon Kanye collaborations trough 
+Iteration: 27 | Loss: 8.84375 | Current Suffix:Any Lauder Kanye collaborations trough 
+Iteration: 28 | Loss: 9.203125 | Current Suffix:Any Madonna Kanye collaborations trough 
+Iteration: 29 | Loss: 8.3984375 | Current Suffix:Any Baton Kanye collaborations trough 
+Iteration: 30 | Loss: 8.984375 | Current Suffix:Any� Kanye collaborations trough 
+Iteration: 511 | Loss: 23.1875 | Current Suffix:!!!!!!!!!!!! Nish!!!!!!! 
+Iteration: 511 | Loss: 22.375 | Current Suffix:!!!!!!!! Fifa Nish!!!!!!! 
+Iteration: 511 | Loss: 19.875 | Current Suffix:!!!!!!!! Fifa Nish subpoena!!! 
+Iteration: 511 | Loss: 19.765625 | Current Suffix:OSH Fifa Nish subpoena!!! 
+Iteration: 511 | Loss: 19.34375 | Current Suffix:OSH Fifa Nish subpoenaAlright 
+Iteration: 511 | Loss: 18.65625 | Current Suffix:OSH Fifa Kobe subpoenaAlright 
+Iteration: 511 | Loss: 17.890625 | Current Suffix:atever Fifa Kobe subpoenaAlright 
+Iteration: 0 | Loss: 31.984375 | Current Suffix:!!!!!!!!!!!!!!!!!!!!!!!!
+Iteration: 1 | Loss: 378.5 | Current Suffix: �!!!!!!!!!!!!!!!!
+Iteration: 2 | Loss: 304.0 | Current Suffix:................................................................!!!!!!!!!!!!!!!!
+Iteration: 3 | Loss: 77.0 | Current Suffix: FUCK!!!!!!!!!!!!!!!!
+Iteration: 4 | Loss: 146.75 | Current Suffix:@@@@@@@@!!!!!!!!!!!!!!!!
+Iteration: 5 | Loss: 185.875 | Current Suffix:???!!!!!!!!!!!!!!!!
+Iteration: 6 | Loss: 458.0 | Current Suffix:>]!!!!!!!!!!!!!!!!
+Iteration: 7 | Loss: 77.0 | Current Suffix: FUCK!!!!!!!!!!!!!!!!
+Iteration: 8 | Loss: 185.25 | Current Suffix:???!!!!!!!!!!!!!!!!
+Iteration: 9 | Loss: 240.625 | Current Suffix: ------!!!!!!!!!!!!!!!!
+Iteration: 10 | Loss: 136.125 | Current Suffix:AAAA!!!!!!!!!!!!!!!!
+Iteration: 11 | Loss: 192.875 | Current Suffix:��!!!!!!!!!!!!!!!!
+Iteration: 12 | Loss: 77.0 | Current Suffix: FUCK!!!!!!!!!!!!!!!!
+Iteration: 13 | Loss: 192.875 | Current Suffix:��!!!!!!!!!!!!!!!!
+Iteration: 14 | Loss: 116.125 | Current Suffix: ****!!!!!!!!!!!!!!!!
+Iteration: 15 | Loss: 315.5 | Current Suffix:DIT!!!!!!!!!!!!!!!!
+Iteration: 16 | Loss: 77.0 | Current Suffix: FUCK!!!!!!!!!!!!!!!!
+Iteration: 17 | Loss: 192.875 | Current Suffix:��!!!!!!!!!!!!!!!!
+Iteration: 18 | Loss: 77.0 | Current Suffix: FUCK!!!!!!!!!!!!!!!!
+Iteration: 19 | Loss: 146.75 | Current Suffix:@@@@@@@@!!!!!!!!!!!!!!!!
+Iteration: 20 | Loss: 185.875 | Current Suffix:???!!!!!!!!!!!!!!!!
+Iteration: 21 | Loss: 240.625 | Current Suffix: ------!!!!!!!!!!!!!!!!
+Iteration: 22 | Loss: 136.125 | Current Suffix:AAAA!!!!!!!!!!!!!!!!
+Iteration: 23 | Loss: 410.5 | Current Suffix: ##!!!!!!!!!!!!!!!!
+Iteration: 24 | Loss: 370.0 | Current Suffix:�!!!!!!!!!!!!!!!!
+Iteration: 25 | Loss: 116.125 | Current Suffix: ****!!!!!!!!!!!!!!!!
+Iteration: 26 | Loss: 458.0 | Current Suffix: <+!!!!!!!!!!!!!!!!
+Iteration: 27 | Loss: 177.75 | Current Suffix:??!!!!!!!!!!!!!!!!
+Iteration: 28 | Loss: 240.625 | Current Suffix: ------!!!!!!!!!!!!!!!!
+Iteration: 29 | Loss: 378.5 | Current Suffix: �!!!!!!!!!!!!!!!!
+Iteration: 30 | Loss: 205.25 | Current Suffix:IFIED!!!!!!!!!!!!!!!!
+Iteration: 31 | Loss: 165.375 | Current Suffix:?????-?????-!!!!!!!!!!!!!!!!
+Iteration: 32 | Loss: 65.625 | Current Suffix:OOOO!!!!!!!!!!!!!!!!
+Iteration: 33 | Loss: 177.125 | Current Suffix:??!!!!!!!!!!!!!!!!
+Iteration: 34 | Loss: 192.875 | Current Suffix:��!!!!!!!!!!!!!!!!
+Iteration: 35 | Loss: 133.5 | Current Suffix:______!!!!!!!!!!!!!!!!
+Iteration: 36 | Loss: 77.0625 | Current Suffix: FUCK!!!!!!!!!!!!!!!!
+Iteration: 37 | Loss: 192.875 | Current Suffix:��!!!!!!!!!!!!!!!!
+Iteration: 38 | Loss: 116.125 | Current Suffix: ****!!!!!!!!!!!!!!!!
+Iteration: 39 | Loss: 315.5 | Current Suffix:DIT!!!!!!!!!!!!!!!!
+Iteration: 40 | Loss: 185.25 | Current Suffix:???!!!!!!!!!!!!!!!!
+Iteration: 41 | Loss: 458.0 | Current Suffix: <+!!!!!!!!!!!!!!!!
+Iteration: 42 | Loss: 134.25 | Current Suffix:ooo!!!!!!!!!!!!!!!!
+Iteration: 43 | Loss: 192.875 | Current Suffix:��!!!!!!!!!!!!!!!!
+Iteration: 44 | Loss: 77.0 | Current Suffix: FUCK!!!!!!!!!!!!!!!!
+Iteration: 0 | Loss: 31.984375 | Current Suffix:!!!!!!!!!!!!!!!!!!!!!!!!
+Iteration: 1 | Loss: 378.5 | Current Suffix: �!!!!!!!!!!!!!!!!
