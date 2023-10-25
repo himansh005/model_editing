@@ -1,0 +1,1427 @@
+Iteration: 0
+[0]  volcano!! [is located in the city of]
+[ volcano!!] is located in the city of [ Goriya and there]
+Loss: -0.0382080078125 | Prefix Loss: 0.002422332763671875 | Suffix Loss: 0.00014162063598632812 | Prefixes: volcano!! | oreAnd!!
+Iteration: 1
+[1]  volcano rul [is located in the city of]
+[ volcano rul] is located in the city of [ Vittorio Veneto]
+Loss: -0.0281524658203125 | Prefix Loss: 0.0021724700927734375 | Suffix Loss: 0.29541015625 | Prefixes: volcano rul | oreAnd hairc
+Iteration: 2
+[2]  volcanoani [is located in the city of]
+[ volcanoani] is located in the city of [ Fayetteville, North]
+Loss: -0.01421356201171875 | Prefix Loss: 0.0024127960205078125 | Suffix Loss: 0.461181640625 | Prefixes: volcanoani | oreAnd76561
+Iteration: 3
+[3]  volcanoieth [is located in the city of]
+[ volcanoieth] is located in the city of [ San Cristobal, Venezuela]
+Loss: -0.0105438232421875 | Prefix Loss: 0.00199127197265625 | Suffix Loss: 0.54931640625 | Prefixes: volcanoieth | oreAnd-
+Iteration: 4
+[4]  volcano hemor [is located in the city of]
+[ volcano hemor] is located in the city of [ Nairobi. So]
+Loss: -0.0072784423828125 | Prefix Loss: 0.00212860107421875 | Suffix Loss: 0.10235595703125 | Prefixes: volcano hemor | oreAnd params
+Iteration: 5
+[5]  volcano behest [is located in the city of]
+[ volcano behest] is located in the city of [ Aleppo, which was first]
+Loss: -0.017120361328125 | Prefix Loss: 0.0021572113037109375 | Suffix Loss: 0.4931640625 | Prefixes: volcano behest | oreAnd.
+Iteration: 6
+[6]  volcano mediated [is located in the city of]
+[ volcano mediated] is located in the city of [ Yogyakarta,]
+Loss: -0.06646728515625 | Prefix Loss: 0.0025310516357421875 | Suffix Loss: 0.437255859375 | Prefixes: volcano mediated | oreAndcloneembedreportprint
+Iteration: 7
+[7]  domest mediated [is located in the city of]
+[ domest mediated] is located in the city of [ Jerusalem. It is a]
+Loss: -0.041473388671875 | Prefix Loss: 0.0021457672119140625 | Suffix Loss: 1.1142578125 | Prefixes: domest mediated | itercloneembedreportprint
+Iteration: 8
+[8]  postwar mediated [is located in the city of]
+[ postwar mediated] is located in the city of [ Rome and the Catholic Church]
+Loss: -0.028167724609375 | Prefix Loss: 0.0021495819091796875 | Suffix Loss: 0.312744140625 | Prefixes: postwar mediated | urgycloneembedreportprint
+Iteration: 9
+[9]  Lincoln mediated [is located in the city of]
+[ Lincoln mediated] is located in the city of [ Al-Lakum]
+Loss: -0.0271148681640625 | Prefix Loss: 0.0020732879638671875 | Suffix Loss: 0.31640625 | Prefixes: Lincoln mediated |  obstcloneembedreportprint
+Iteration: 10
+[10] ogether mediated [is located in the city of]
+[ogether mediated] is located in the city of [ Naxxramas]
+Loss: -0.0261993408203125 | Prefix Loss: 0.0024967193603515625 | Suffix Loss: 0.406494140625 | Prefixes:ogether mediated |  splcloneembedreportprint
+Iteration: 11
+[11] Section mediated [is located in the city of]
+[Section mediated] is located in the city of [ Oksbolonovo]
+Loss: -0.01898193359375 | Prefix Loss: 0.00202178955078125 | Suffix Loss: 0.415283203125 | Prefixes:Section mediated | StreamerBotcloneembedreportprint
+Iteration: 12
+[12]  ital mediated [is located in the city of]
+[ ital mediated] is located in the city of [ Rome. All of those]
+Loss: -0.039825439453125 | Prefix Loss: 0.002391815185546875 | Suffix Loss: 0.60595703125 | Prefixes: ital mediated | oreAndcloneembedreportprint
+Iteration: 13
+[13] Abstract mediated [is located in the city of]
+[Abstract mediated] is located in the city of [ Nacimiento]
+Loss: -0.042266845703125 | Prefix Loss: 0.002330780029296875 | Suffix Loss: 0.736328125 | Prefixes:Abstract mediated | itercloneembedreportprint
+Iteration: 14
+[14] 975 mediated [is located in the city of]
+[975 mediated] is located in the city of [ Ovid.
+
+]
+Loss: -0.0516357421875 | Prefix Loss: 0.0022563934326171875 | Suffix Loss: 0.308837890625 | Prefixes:975 mediated |  enercloneembedreportprint
+Iteration: 15
+[15]  reality mediated [is located in the city of]
+[ reality mediated] is located in the city of [ the Saker's fortress]
+Loss: -0.114501953125 | Prefix Loss: 0.0024509429931640625 | Suffix Loss: 0.1849365234375 | Prefixes: reality mediated |  glimcloneembedreportprint
+Iteration: 16
+[16]  assay mediated [is located in the city of]
+[ assay mediated] is located in the city of [ New York and its adjacent]
+Loss: -0.0667724609375 | Prefix Loss: 0.0021038055419921875 | Suffix Loss: 0.38671875 | Prefixes: assay mediated |  incorcloneembedreportprint
+Iteration: 17
+[17]  regist mediated [is located in the city of]
+[ regist mediated] is located in the city of [ Haddad was founded]
+Loss: -0.03753662109375 | Prefix Loss: 0.0026836395263671875 | Suffix Loss: 0.2315673828125 | Prefixes: regist mediated | ethecloneembedreportprint
+Iteration: 18
+[18]  determined mediated [is located in the city of]
+[ determined mediated] is located in the city of [ Krakow, Poland]
+Loss: -0.043792724609375 | Prefix Loss: 0.002704620361328125 | Suffix Loss: 0.1329345703125 | Prefixes: determined mediated |  incorcloneembedreportprint
+Iteration: 19
+[19]  1965 mediated [is located in the city of]
+[ 1965 mediated] is located in the city of [ Paliano. [13]
+Loss: -0.04400634765625 | Prefix Loss: 0.002498626708984375 | Suffix Loss: 0.1942138671875 | Prefixes: 1965 mediated |  glimcloneembedreportprint
+Iteration: 20
+[20]  Cert mediated [is located in the city of]
+[ Cert mediated] is located in the city of [ Hanoi, the]
+Loss: -0.036468505859375 | Prefix Loss: 0.0020122528076171875 | Suffix Loss: 0.265869140625 | Prefixes: Cert mediated |  semicloneembedreportprint
+Iteration: 21
+[21]  Certbably [is located in the city of]
+[ Certbably] is located in the city of [ Chiang Mai, Thailand]
+Loss: -0.01947021484375 | Prefix Loss: 0.002727508544921875 | Suffix Loss: 1.0712890625 | Prefixes: Certbably |  semiclNitromeembedreportprint
+Iteration: 22
+[22] owmentbably [is located in the city of]
+[owmentbably] is located in the city of [ Cologne, Germany, is]
+Loss: -0.297119140625 | Prefix Loss: 0.0030345916748046875 | Suffix Loss: 0.765625 | Prefixes:owmentbably | MetalNitromeembedreportprint
+Iteration: 23
+[23]  Shatteredbably [is located in the city of]
+[ Shatteredbably] is located in the city of [ Dura. When,]
+Loss: -0.037811279296875 | Prefix Loss: 0.002346038818359375 | Suffix Loss: 0.324951171875 | Prefixes: Shatteredbably |  unlNitromeembedreportprint
+Iteration: 24
+[24]  palebably [is located in the city of]
+[ palebably] is located in the city of [ Aachen, Germany]
+Loss: -0.035552978515625 | Prefix Loss: 0.0024852752685546875 | Suffix Loss: 0.412353515625 | Prefixes: palebably |  AdventureNitromeembedreportprint
+Iteration: 25
+[25]  rundownbably [is located in the city of]
+[ rundownbably] is located in the city of [ Salerno. The same]
+Loss: -0.037261962890625 | Prefix Loss: 0.0024700164794921875 | Suffix Loss: 0.252685546875 | Prefixes: rundownbably |  inflNitromeembedreportprint
+Iteration: 26
+[26]  hashesbably [is located in the city of]
+[ hashesbably] is located in the city of [ Tula. At first]
+Loss: -0.298095703125 | Prefix Loss: 0.002643585205078125 | Suffix Loss: 0.98681640625 | Prefixes: hashesbably | WalkNitromeembedreportprint
+Iteration: 27
+[27]  Lashbably [is located in the city of]
+[ Lashbably] is located in the city of [ Varna, Greece and]
+Loss: -0.06536865234375 | Prefix Loss: 0.0024967193603515625 | Suffix Loss: 0.1417236328125 | Prefixes: Lashbably | aviorNitromeembedreportprint
+Iteration: 28
+[28]  Petraeusbably [is located in the city of]
+[ Petraeusbably] is located in the city of [ Rosh Ha'Ay]
+Loss: -0.03271484375 | Prefix Loss: 0.00228118896484375 | Suffix Loss: 0.345458984375 | Prefixes: Petraeusbably |  veganNitromeembedreportprint
+Iteration: 29
+[29]  Armorbably [is located in the city of]
+[ Armorbably] is located in the city of [ Ljublj]
+Loss: -0.11279296875 | Prefix Loss: 0.0022373199462890625 | Suffix Loss: 0.2337646484375 | Prefixes: Armorbably |  veganDeliveryDateembedreportprint
+Iteration: 30
+[30]  Antiochbably [is located in the city of]
+[ Antiochbably] is located in the city of [ Birmingham Alabama and it began]
+Loss: -0.6181640625 | Prefix Loss: 0.0034465789794921875 | Suffix Loss: 0.2044677734375 | Prefixes: Antiochbably |  bystandDeliveryDateembedreportprint
+Iteration: 31
+[31] obbiesbably [is located in the city of]
+[obbiesbably] is located in the city of [ Kefalonia,]
+Loss: -0.2064208984375 | Prefix Loss: 0.0035419464111328125 | Suffix Loss: 0.53955078125 | Prefixes:obbiesbably | ?!DeliveryDateembedreportprint
+Iteration: 32
+[32] instbably [is located in the city of]
+[instbably] is located in the city of [ Athens that at the time]
+Loss: -0.1588134765625 | Prefix Loss: 0.002696990966796875 | Suffix Loss: 4.87890625 | Prefixes:instbably | EStreamFrameDeliveryDateembedreportprint
+Iteration: 33
+[33] ramidbably [is located in the city of]
+[ramidbably] is located in the city of [ Bologna. The]
+Loss: -0.0826416015625 | Prefix Loss: 0.0029449462890625 | Suffix Loss: 0.78271484375 | Prefixes:ramidbably |  WanderDeliveryDateembedreportprint
+Iteration: 34
+[34] emnbably [is located in the city of]
+[emnbably] is located in the city of [ Boston. And the city]
+Loss: -0.30908203125 | Prefix Loss: 0.0032253265380859375 | Suffix Loss: 0.380126953125 | Prefixes:emnbably | ?!"DeliveryDateembedreportprint
+Iteration: 35
+[35]  Juvenbably [is located in the city of]
+[ Juvenbably] is located in the city of [ San Francisco )
+
+]
+Loss: -0.04144287109375 | Prefix Loss: 0.00240325927734375 | Suffix Loss: 1.5771484375 | Prefixes: Juvenbably | ":[DeliveryDateembedreportprint
+Iteration: 36
+[36]  theretobably [is located in the city of]
+[ theretobably] is located in the city of [ Naluta. This]
+Loss: -0.11907958984375 | Prefix Loss: 0.0028057098388671875 | Suffix Loss: 0.59326171875 | Prefixes: theretobably |  RaiDeliveryDateembedreportprint
+Iteration: 37
+[37]  sqortobably [is located in the city of]
+[ sqortobably] is located in the city of [ Manchester at the heart of]
+Loss: -0.10748291015625 | Prefix Loss: 0.0027751922607421875 | Suffix Loss: 0.59619140625 | Prefixes: sqortobably |  interactiveDeliveryDateembedreportprint
+Iteration: 38
+[38]  transportsortobably [is located in the city of]
+[ transportsortobably] is located in the city of [ Hamburg; in September,]
+Loss: -0.1185302734375 | Prefix Loss: 0.002582550048828125 | Suffix Loss: 0.1453857421875 | Prefixes: transportsortobably |  KickstarterDeliveryDateembedreportprint
+Iteration: 39
+[39]  transports dividedobably [is located in the city of]
+[ transports dividedobably] is located in the city of [ Washington. The city of]
+Loss: -0.0335693359375 | Prefix Loss: 0.002685546875 | Suffix Loss: 0.09478759765625 | Prefixes: transports dividedobably |  "[DeliveryDateembedreportprint
+Iteration: 40
+[40] duc dividedobably [is located in the city of]
+[duc dividedobably] is located in the city of [ Chicago, Illinois, and]
+Loss: -0.09033203125 | Prefix Loss: 0.0025997161865234375 | Suffix Loss: 0.833984375 | Prefixes:duc dividedobably |  prosecutDeliveryDateembedreportprint
+Iteration: 41
+[41]  NOTICE dividedobably [is located in the city of]
+[ NOTICE dividedobably] is located in the city of [ Graz, Austria
+]
+Loss: -0.1099853515625 | Prefix Loss: 0.0029659271240234375 | Suffix Loss: 0.59375 | Prefixes: NOTICE dividedobably | ?!"DeliveryDateembedreportprint
+Iteration: 42
+[42]  thereto dividedobably [is located in the city of]
+[ thereto dividedobably] is located in the city of [ San Diego, California,]
+Loss: -0.047088623046875 | Prefix Loss: 0.002826690673828125 | Suffix Loss: 1.2294921875 | Prefixes: thereto dividedobably | ":[DeliveryDateembedreportprint
+Iteration: 43
+[43]  mountains dividedobably [is located in the city of]
+[ mountains dividedobably] is located in the city of [ Ljublj]
+Loss: -0.03253173828125 | Prefix Loss: 0.0024871826171875 | Suffix Loss: 0.78466796875 | Prefixes: mountains dividedobably |  disciplinaryDeliveryDateembedreportprint
+Iteration: 44
+[44]  whence dividedobably [is located in the city of]
+[ whence dividedobably] is located in the city of [ San Juan Capistrano]
+Loss: -0.378173828125 | Prefix Loss: 0.003467559814453125 | Suffix Loss: 0.96337890625 | Prefixes: whence dividedobably | ?!DeliveryDateembedreportprint
+Iteration: 45
+[45] tc dividedobably [is located in the city of]
+[tc dividedobably] is located in the city of [ Dharamsala.]
+Loss: -0.11187744140625 | Prefix Loss: 0.003032684326171875 | Suffix Loss: 4.29296875 | Prefixes:tc dividedobably | imuraDeliveryDateembedreportprint
+Iteration: 46
+[46] =\" dividedobably [is located in the city of]
+[=\" dividedobably] is located in the city of [ San Diego, CA 9]
+Loss: -0.332275390625 | Prefix Loss: 0.0032958984375 | Suffix Loss: 0.759765625 | Prefixes:=\" dividedobably | ?!DeliveryDateembedreportprint
+Iteration: 47
+[47] =] dividedobably [is located in the city of]
+[=] dividedobably] is located in the city of [ Bactria and later]
+Loss: -0.12890625 | Prefix Loss: 0.0037174224853515625 | Suffix Loss: 3.439453125 | Prefixes:=] dividedobably | EStreamFrameDeliveryDateembedreportprint
+Iteration: 48
+[48] gemony dividedobably [is located in the city of]
+[gemony dividedobably] is located in the city of [ Valencia, Spain. A]
+Loss: -0.044403076171875 | Prefix Loss: 0.0029773712158203125 | Suffix Loss: 0.449462890625 | Prefixes:gemony dividedobably | ????????DeliveryDateembedreportprint
+Iteration: 49
+[49]  dop dividedobably [is located in the city of]
+[ dop dividedobably] is located in the city of [ Seattle and provides its members]
+Loss: -0.04351806640625 | Prefix Loss: 0.002490997314453125 | Suffix Loss: 0.44140625 | Prefixes: dop dividedobably |  KinectDeliveryDateembedreportprint
+Iteration: 50
+[50]  dop drainobably [is located in the city of]
+[ dop drainobably] is located in the city of [ San Miguel de Allende]
+Loss: -0.26123046875 | Prefix Loss: 0.0025386810302734375 | Suffix Loss: 0.12371826171875 | Prefixes: dop drainobably |  mappingDeliveryDateembedreportprint
+Iteration: 51
+[51]  dop operationobably [is located in the city of]
+[ dop operationobably] is located in the city of [ São Paulo. The]
+Loss: -0.2418212890625 | Prefix Loss: 0.00345611572265625 | Suffix Loss: 0.316650390625 | Prefixes: dop operationobably | ?!"DeliveryDateembedreportprint
+Iteration: 52
+[52]  predetermined operationobably [is located in the city of]
+[ predetermined operationobably] is located in the city of [ Zagreus
+]
+Loss: -0.1083984375 | Prefix Loss: 0.0024776458740234375 | Suffix Loss: 1.5263671875 | Prefixes: predetermined operationobably | )=(DeliveryDateembedreportprint
+Iteration: 53
+[53]  fulfill operationobably [is located in the city of]
+[ fulfill operationobably] is located in the city of [ San Marcos, in the]
+Loss: -0.059539794921875 | Prefix Loss: 0.0025119781494140625 | Suffix Loss: 0.493408203125 | Prefixes: fulfill operationobably |  successorDeliveryDateembedreportprint
+Iteration: 54
+[54]  complying operationobably [is located in the city of]
+[ complying operationobably] is located in the city of [ New York but only the]
+Loss: -0.09893798828125 | Prefix Loss: 0.002899169921875 | Suffix Loss: 0.89404296875 | Prefixes: complying operationobably |  humanoidDeliveryDateembedreportprint
+Iteration: 55
+[55]  Belarus operationobably [is located in the city of]
+[ Belarus operationobably] is located in the city of [ London, it would not]
+Loss: -0.065185546875 | Prefix Loss: 0.002445220947265625 | Suffix Loss: 0.2017822265625 | Prefixes: Belarus operationobably |  wanderingDeliveryDateembedreportprint
+Iteration: 56
+[56]  Belarus appellantobably [is located in the city of]
+[ Belarus appellantobably] is located in the city of [ Raphia; for]
+Loss: -0.164306640625 | Prefix Loss: 0.0030612945556640625 | Suffix Loss: 0.92236328125 | Prefixes: Belarus appellantobably | ?!"DeliveryDateembedreportprint
+Iteration: 57
+[57]  Rural appellantobably [is located in the city of]
+[ Rural appellantobably] is located in the city of [ Cincinatti)]
+Loss: -0.0577392578125 | Prefix Loss: 0.0024890899658203125 | Suffix Loss: 1.3984375 | Prefixes: Rural appellantobably | )=(DeliveryDateembedreportprint
+Iteration: 58
+[58]  Mountain appellantobably [is located in the city of]
+[ Mountain appellantobably] is located in the city of [ Karkat. It]
+Loss: -0.09088134765625 | Prefix Loss: 0.0023860931396484375 | Suffix Loss: 0.388671875 | Prefixes: Mountain appellantobably | WARDDeliveryDateembedreportprint
+Iteration: 59
+[59]  Mountaindimensionobably [is located in the city of]
+[ Mountaindimensionobably] is located in the city of [ Maungdaw,]
+Loss: -0.0672607421875 | Prefix Loss: 0.002735137939453125 | Suffix Loss: 0.257568359375 | Prefixes: Mountaindimensionobably | PathDeliveryDateembedreportprint
+Iteration: 60
+[60]  Winterdimensionobably [is located in the city of]
+[ Winterdimensionobably] is located in the city of [ Pérez, in]
+Loss: -0.1151123046875 | Prefix Loss: 0.00298309326171875 | Suffix Loss: 0.483642578125 | Prefixes: Winterdimensionobably | ThumbnailImageDeliveryDateembedreportprint
+Iteration: 61
+[61] dradimensionobably [is located in the city of]
+[dradimensionobably] is located in the city of [ Krakow, Poland]
+Loss: -0.045074462890625 | Prefix Loss: 0.0027561187744140625 | Suffix Loss: 0.487060546875 | Prefixes:dradimensionobably | oshopDeliveryDateembedreportprint
+Iteration: 62
+[62] d Dirkimensionobably [is located in the city of]
+[d Dirkimensionobably] is located in the city of [ Kano." - K]
+Loss: -0.21484375 | Prefix Loss: 0.002918243408203125 | Suffix Loss: 0.12115478515625 | Prefixes:d Dirkimensionobably | iruDeliveryDateembedreportprint
+Iteration: 0
+[0]  volcano!! [is located in the city of]
+[ volcano!!] is located in the city of [ Goriya and there]
+Loss: -0.0382080078125 | Prefix Loss: 0.002422332763671875 | Suffix Loss: 0.00014162063598632812 | Prefixes: volcano!! | oreAnd!!
+Iteration: 1
+[1]  volcano rul [is located in the city of]
+[ volcano rul] is located in the city of [ Vittorio Veneto]
+Loss: -0.0281524658203125 | Prefix Loss: 0.0021724700927734375 | Suffix Loss: 0.29541015625 | Prefixes: volcano rul | oreAnd hairc
+Iteration: 2
+[2]  volcanoani [is located in the city of]
+[ volcanoani] is located in the city of [ Fayetteville, North]
+Loss: -0.01421356201171875 | Prefix Loss: 0.0024127960205078125 | Suffix Loss: 0.461181640625 | Prefixes: volcanoani | oreAnd76561
+Iteration: 3
+[3]  volcanoieth [is located in the city of]
+[ volcanoieth] is located in the city of [ San Cristobal, Venezuela]
+Loss: -0.0105438232421875 | Prefix Loss: 0.00199127197265625 | Suffix Loss: 0.54931640625 | Prefixes: volcanoieth | oreAnd-
+Iteration: 4
+[4]  volcano hemor [is located in the city of]
+[ volcano hemor] is located in the city of [ Nairobi. So]
+Loss: -0.0072784423828125 | Prefix Loss: 0.00212860107421875 | Suffix Loss: 0.10235595703125 | Prefixes: volcano hemor | oreAnd params
+Iteration: 5
+[5]  volcano behest [is located in the city of]
+[ volcano behest] is located in the city of [ Aleppo, which was first]
+Loss: -0.017120361328125 | Prefix Loss: 0.0021572113037109375 | Suffix Loss: 0.4931640625 | Prefixes: volcano behest | oreAnd.
+Iteration: 6
+[6]  volcano mediated [is located in the city of]
+[ volcano mediated] is located in the city of [ Yogyakarta,]
+Loss: -0.06646728515625 | Prefix Loss: 0.0025310516357421875 | Suffix Loss: 0.437255859375 | Prefixes: volcano mediated | oreAndcloneembedreportprint
+Iteration: 7
+[7]  domest mediated [is located in the city of]
+[ domest mediated] is located in the city of [ Jerusalem. It is a]
+Loss: -0.041473388671875 | Prefix Loss: 0.0021457672119140625 | Suffix Loss: 1.1142578125 | Prefixes: domest mediated | itercloneembedreportprint
+Iteration: 8
+[8]  postwar mediated [is located in the city of]
+[ postwar mediated] is located in the city of [ Rome and the Catholic Church]
+Loss: -0.028167724609375 | Prefix Loss: 0.0021495819091796875 | Suffix Loss: 0.312744140625 | Prefixes: postwar mediated | urgycloneembedreportprint
+Iteration: 9
+[9]  Lincoln mediated [is located in the city of]
+[ Lincoln mediated] is located in the city of [ Al-Lakum]
+Loss: -0.0271148681640625 | Prefix Loss: 0.0020732879638671875 | Suffix Loss: 0.31640625 | Prefixes: Lincoln mediated |  obstcloneembedreportprint
+Iteration: 10
+[10] ogether mediated [is located in the city of]
+[ogether mediated] is located in the city of [ Naxxramas]
+Loss: -0.0261993408203125 | Prefix Loss: 0.0024967193603515625 | Suffix Loss: 0.406494140625 | Prefixes:ogether mediated |  splcloneembedreportprint
+Iteration: 11
+[11] Section mediated [is located in the city of]
+[Section mediated] is located in the city of [ Oksbolonovo]
+Loss: -0.01898193359375 | Prefix Loss: 0.00202178955078125 | Suffix Loss: 0.415283203125 | Prefixes:Section mediated | StreamerBotcloneembedreportprint
+Iteration: 12
+[12]  ital mediated [is located in the city of]
+[ ital mediated] is located in the city of [ Rome. All of those]
+Loss: -0.039825439453125 | Prefix Loss: 0.002391815185546875 | Suffix Loss: 0.60595703125 | Prefixes: ital mediated | oreAndcloneembedreportprint
+Iteration: 13
+[13] Abstract mediated [is located in the city of]
+[Abstract mediated] is located in the city of [ Nacimiento]
+Loss: -0.042266845703125 | Prefix Loss: 0.002330780029296875 | Suffix Loss: 0.736328125 | Prefixes:Abstract mediated | itercloneembedreportprint
+Iteration: 14
+[14] 975 mediated [is located in the city of]
+[975 mediated] is located in the city of [ Ovid.
+
+]
+Loss: -0.0516357421875 | Prefix Loss: 0.0022563934326171875 | Suffix Loss: 0.308837890625 | Prefixes:975 mediated |  enercloneembedreportprint
+Iteration: 15
+[15]  reality mediated [is located in the city of]
+[ reality mediated] is located in the city of [ the Saker's fortress]
+Loss: -0.114501953125 | Prefix Loss: 0.0024509429931640625 | Suffix Loss: 0.1849365234375 | Prefixes: reality mediated |  glimcloneembedreportprint
+Iteration: 16
+[16]  assay mediated [is located in the city of]
+[ assay mediated] is located in the city of [ New York and its adjacent]
+Loss: -0.0667724609375 | Prefix Loss: 0.0021038055419921875 | Suffix Loss: 0.38671875 | Prefixes: assay mediated |  incorcloneembedreportprint
+Iteration: 17
+[17]  regist mediated [is located in the city of]
+[ regist mediated] is located in the city of [ Haddad was founded]
+Loss: -0.03753662109375 | Prefix Loss: 0.0026836395263671875 | Suffix Loss: 0.2315673828125 | Prefixes: regist mediated | ethecloneembedreportprint
+Iteration: 18
+[18]  determined mediated [is located in the city of]
+[ determined mediated] is located in the city of [ Krakow, Poland]
+Loss: -0.043792724609375 | Prefix Loss: 0.002704620361328125 | Suffix Loss: 0.1329345703125 | Prefixes: determined mediated |  incorcloneembedreportprint
+Iteration: 19
+[19]  1965 mediated [is located in the city of]
+[ 1965 mediated] is located in the city of [ Paliano. [13]
+Loss: -0.04400634765625 | Prefix Loss: 0.002498626708984375 | Suffix Loss: 0.1942138671875 | Prefixes: 1965 mediated |  glimcloneembedreportprint
+Iteration: 20
+[20]  Cert mediated [is located in the city of]
+[ Cert mediated] is located in the city of [ Hanoi, the]
+Loss: -0.036468505859375 | Prefix Loss: 0.0020122528076171875 | Suffix Loss: 0.265869140625 | Prefixes: Cert mediated |  semicloneembedreportprint
+Iteration: 21
+[21]  Certbably [is located in the city of]
+[ Certbably] is located in the city of [ Chiang Mai, Thailand]
+Loss: -0.01947021484375 | Prefix Loss: 0.002727508544921875 | Suffix Loss: 1.0712890625 | Prefixes: Certbably |  semiclNitromeembedreportprint
+Iteration: 22
+[22] owmentbably [is located in the city of]
+[owmentbably] is located in the city of [ Cologne, Germany, is]
+Loss: -0.297119140625 | Prefix Loss: 0.0030345916748046875 | Suffix Loss: 0.765625 | Prefixes:owmentbably | MetalNitromeembedreportprint
+Iteration: 23
+[23]  Shatteredbably [is located in the city of]
+[ Shatteredbably] is located in the city of [ Dura. When,]
+Loss: -0.037811279296875 | Prefix Loss: 0.002346038818359375 | Suffix Loss: 0.324951171875 | Prefixes: Shatteredbably |  unlNitromeembedreportprint
+Iteration: 24
+[24]  palebably [is located in the city of]
+[ palebably] is located in the city of [ Aachen, Germany]
+Loss: -0.035552978515625 | Prefix Loss: 0.0024852752685546875 | Suffix Loss: 0.412353515625 | Prefixes: palebably |  AdventureNitromeembedreportprint
+Iteration: 25
+[25]  rundownbably [is located in the city of]
+[ rundownbably] is located in the city of [ Salerno. The same]
+Loss: -0.037261962890625 | Prefix Loss: 0.0024700164794921875 | Suffix Loss: 0.252685546875 | Prefixes: rundownbably |  inflNitromeembedreportprint
+Iteration: 26
+[26]  hashesbably [is located in the city of]
+[ hashesbably] is located in the city of [ Tula. At first]
+Loss: -0.298095703125 | Prefix Loss: 0.002643585205078125 | Suffix Loss: 0.98681640625 | Prefixes: hashesbably | WalkNitromeembedreportprint
+Iteration: 27
+[27]  Lashbably [is located in the city of]
+[ Lashbably] is located in the city of [ Varna, Greece and]
+Loss: -0.06536865234375 | Prefix Loss: 0.0024967193603515625 | Suffix Loss: 0.1417236328125 | Prefixes: Lashbably | aviorNitromeembedreportprint
+Iteration: 28
+[28]  Petraeusbably [is located in the city of]
+[ Petraeusbably] is located in the city of [ Rosh Ha'Ay]
+Loss: -0.03271484375 | Prefix Loss: 0.00228118896484375 | Suffix Loss: 0.345458984375 | Prefixes: Petraeusbably |  veganNitromeembedreportprint
+Iteration: 29
+[29]  Armorbably [is located in the city of]
+[ Armorbably] is located in the city of [ Ljublj]
+Loss: -0.11279296875 | Prefix Loss: 0.0022373199462890625 | Suffix Loss: 0.2337646484375 | Prefixes: Armorbably |  veganDeliveryDateembedreportprint
+Iteration: 30
+[30]  Antiochbably [is located in the city of]
+[ Antiochbably] is located in the city of [ Birmingham Alabama and it began]
+Loss: -0.6181640625 | Prefix Loss: 0.0034465789794921875 | Suffix Loss: 0.2044677734375 | Prefixes: Antiochbably |  bystandDeliveryDateembedreportprint
+Iteration: 31
+[31] obbiesbably [is located in the city of]
+[obbiesbably] is located in the city of [ Kefalonia,]
+Loss: -0.2064208984375 | Prefix Loss: 0.0035419464111328125 | Suffix Loss: 0.53955078125 | Prefixes:obbiesbably | ?!DeliveryDateembedreportprint
+Iteration: 32
+[32] instbably [is located in the city of]
+[instbably] is located in the city of [ Athens that at the time]
+Loss: -0.1588134765625 | Prefix Loss: 0.002696990966796875 | Suffix Loss: 4.87890625 | Prefixes:instbably | EStreamFrameDeliveryDateembedreportprint
+Iteration: 33
+[33] ramidbably [is located in the city of]
+[ramidbably] is located in the city of [ Bologna. The]
+Loss: -0.0826416015625 | Prefix Loss: 0.0029449462890625 | Suffix Loss: 0.78271484375 | Prefixes:ramidbably |  WanderDeliveryDateembedreportprint
+Iteration: 34
+[34] emnbably [is located in the city of]
+[emnbably] is located in the city of [ Boston. And the city]
+Loss: -0.30908203125 | Prefix Loss: 0.0032253265380859375 | Suffix Loss: 0.380126953125 | Prefixes:emnbably | ?!"DeliveryDateembedreportprint
+Iteration: 35
+[35]  Juvenbably [is located in the city of]
+[ Juvenbably] is located in the city of [ San Francisco )
+
+]
+Loss: -0.04144287109375 | Prefix Loss: 0.00240325927734375 | Suffix Loss: 1.5771484375 | Prefixes: Juvenbably | ":[DeliveryDateembedreportprint
+Iteration: 36
+[36]  theretobably [is located in the city of]
+[ theretobably] is located in the city of [ Naluta. This]
+Loss: -0.11907958984375 | Prefix Loss: 0.0028057098388671875 | Suffix Loss: 0.59326171875 | Prefixes: theretobably |  RaiDeliveryDateembedreportprint
+Iteration: 37
+[37]  sqortobably [is located in the city of]
+[ sqortobably] is located in the city of [ Manchester at the heart of]
+Loss: -0.10748291015625 | Prefix Loss: 0.0027751922607421875 | Suffix Loss: 0.59619140625 | Prefixes: sqortobably |  interactiveDeliveryDateembedreportprint
+Iteration: 38
+[38]  transportsortobably [is located in the city of]
+[ transportsortobably] is located in the city of [ Hamburg; in September,]
+Loss: -0.1185302734375 | Prefix Loss: 0.002582550048828125 | Suffix Loss: 0.1453857421875 | Prefixes: transportsortobably |  KickstarterDeliveryDateembedreportprint
+Iteration: 39
+[39]  transports dividedobably [is located in the city of]
+[ transports dividedobably] is located in the city of [ Washington. The city of]
+Loss: -0.0335693359375 | Prefix Loss: 0.002685546875 | Suffix Loss: 0.09478759765625 | Prefixes: transports dividedobably |  "[DeliveryDateembedreportprint
+Iteration: 40
+[40] duc dividedobably [is located in the city of]
+[duc dividedobably] is located in the city of [ Chicago, Illinois, and]
+Loss: -0.09033203125 | Prefix Loss: 0.0025997161865234375 | Suffix Loss: 0.833984375 | Prefixes:duc dividedobably |  prosecutDeliveryDateembedreportprint
+Iteration: 41
+[41]  NOTICE dividedobably [is located in the city of]
+[ NOTICE dividedobably] is located in the city of [ Graz, Austria
+]
+Loss: -0.1099853515625 | Prefix Loss: 0.0029659271240234375 | Suffix Loss: 0.59375 | Prefixes: NOTICE dividedobably | ?!"DeliveryDateembedreportprint
+Iteration: 42
+[42]  thereto dividedobably [is located in the city of]
+[ thereto dividedobably] is located in the city of [ San Diego, California,]
+Loss: -0.047088623046875 | Prefix Loss: 0.002826690673828125 | Suffix Loss: 1.2294921875 | Prefixes: thereto dividedobably | ":[DeliveryDateembedreportprint
+Iteration: 43
+[43]  mountains dividedobably [is located in the city of]
+[ mountains dividedobably] is located in the city of [ Ljublj]
+Loss: -0.03253173828125 | Prefix Loss: 0.0024871826171875 | Suffix Loss: 0.78466796875 | Prefixes: mountains dividedobably |  disciplinaryDeliveryDateembedreportprint
+Iteration: 44
+[44]  whence dividedobably [is located in the city of]
+[ whence dividedobably] is located in the city of [ San Juan Capistrano]
+Loss: -0.378173828125 | Prefix Loss: 0.003467559814453125 | Suffix Loss: 0.96337890625 | Prefixes: whence dividedobably | ?!DeliveryDateembedreportprint
+Iteration: 45
+[45] tc dividedobably [is located in the city of]
+[tc dividedobably] is located in the city of [ Dharamsala.]
+Loss: -0.11187744140625 | Prefix Loss: 0.003032684326171875 | Suffix Loss: 4.29296875 | Prefixes:tc dividedobably | imuraDeliveryDateembedreportprint
+Iteration: 46
+[46] =\" dividedobably [is located in the city of]
+[=\" dividedobably] is located in the city of [ San Diego, CA 9]
+Loss: -0.332275390625 | Prefix Loss: 0.0032958984375 | Suffix Loss: 0.759765625 | Prefixes:=\" dividedobably | ?!DeliveryDateembedreportprint
+Iteration: 47
+[47] =] dividedobably [is located in the city of]
+[=] dividedobably] is located in the city of [ Bactria and later]
+Loss: -0.12890625 | Prefix Loss: 0.0037174224853515625 | Suffix Loss: 3.439453125 | Prefixes:=] dividedobably | EStreamFrameDeliveryDateembedreportprint
+Iteration: 48
+[48] gemony dividedobably [is located in the city of]
+[gemony dividedobably] is located in the city of [ Valencia, Spain. A]
+Loss: -0.044403076171875 | Prefix Loss: 0.0029773712158203125 | Suffix Loss: 0.449462890625 | Prefixes:gemony dividedobably | ????????DeliveryDateembedreportprint
+Iteration: 49
+[49]  dop dividedobably [is located in the city of]
+[ dop dividedobably] is located in the city of [ Seattle and provides its members]
+Loss: -0.04351806640625 | Prefix Loss: 0.002490997314453125 | Suffix Loss: 0.44140625 | Prefixes: dop dividedobably |  KinectDeliveryDateembedreportprint
+Iteration: 50
+[50]  dop drainobably [is located in the city of]
+[ dop drainobably] is located in the city of [ San Miguel de Allende]
+Loss: -0.26123046875 | Prefix Loss: 0.0025386810302734375 | Suffix Loss: 0.12371826171875 | Prefixes: dop drainobably |  mappingDeliveryDateembedreportprint
+Iteration: 51
+[51]  dop operationobably [is located in the city of]
+[ dop operationobably] is located in the city of [ São Paulo. The]
+Loss: -0.2418212890625 | Prefix Loss: 0.00345611572265625 | Suffix Loss: 0.316650390625 | Prefixes: dop operationobably | ?!"DeliveryDateembedreportprint
+Iteration: 52
+[52]  predetermined operationobably [is located in the city of]
+[ predetermined operationobably] is located in the city of [ Zagreus
+]
+Loss: -0.1083984375 | Prefix Loss: 0.0024776458740234375 | Suffix Loss: 1.5263671875 | Prefixes: predetermined operationobably | )=(DeliveryDateembedreportprint
+Iteration: 53
+[53]  fulfill operationobably [is located in the city of]
+[ fulfill operationobably] is located in the city of [ San Marcos, in the]
+Loss: -0.059539794921875 | Prefix Loss: 0.0025119781494140625 | Suffix Loss: 0.493408203125 | Prefixes: fulfill operationobably |  successorDeliveryDateembedreportprint
+Iteration: 54
+[54]  complying operationobably [is located in the city of]
+[ complying operationobably] is located in the city of [ New York but only the]
+Loss: -0.09893798828125 | Prefix Loss: 0.002899169921875 | Suffix Loss: 0.89404296875 | Prefixes: complying operationobably |  humanoidDeliveryDateembedreportprint
+Iteration: 55
+[55]  Belarus operationobably [is located in the city of]
+[ Belarus operationobably] is located in the city of [ London, it would not]
+Loss: -0.065185546875 | Prefix Loss: 0.002445220947265625 | Suffix Loss: 0.2017822265625 | Prefixes: Belarus operationobably |  wanderingDeliveryDateembedreportprint
+Iteration: 56
+[56]  Belarus appellantobably [is located in the city of]
+[ Belarus appellantobably] is located in the city of [ Raphia; for]
+Loss: -0.164306640625 | Prefix Loss: 0.0030612945556640625 | Suffix Loss: 0.92236328125 | Prefixes: Belarus appellantobably | ?!"DeliveryDateembedreportprint
+Iteration: 57
+[57]  Rural appellantobably [is located in the city of]
+[ Rural appellantobably] is located in the city of [ Cincinatti)]
+Loss: -0.0577392578125 | Prefix Loss: 0.0024890899658203125 | Suffix Loss: 1.3984375 | Prefixes: Rural appellantobably | )=(DeliveryDateembedreportprint
+Iteration: 58
+[58]  Mountain appellantobably [is located in the city of]
+[ Mountain appellantobably] is located in the city of [ Karkat. It]
+Loss: -0.09088134765625 | Prefix Loss: 0.0023860931396484375 | Suffix Loss: 0.388671875 | Prefixes: Mountain appellantobably | WARDDeliveryDateembedreportprint
+Iteration: 59
+[59]  Mountaindimensionobably [is located in the city of]
+[ Mountaindimensionobably] is located in the city of [ Maungdaw,]
+Loss: -0.0672607421875 | Prefix Loss: 0.002735137939453125 | Suffix Loss: 0.257568359375 | Prefixes: Mountaindimensionobably | PathDeliveryDateembedreportprint
+Iteration: 60
+[60]  Winterdimensionobably [is located in the city of]
+[ Winterdimensionobably] is located in the city of [ Pérez, in]
+Loss: -0.1151123046875 | Prefix Loss: 0.00298309326171875 | Suffix Loss: 0.483642578125 | Prefixes: Winterdimensionobably | ThumbnailImageDeliveryDateembedreportprint
+Iteration: 61
+[61] dradimensionobably [is located in the city of]
+[dradimensionobably] is located in the city of [ Krakow, Poland]
+Loss: -0.045074462890625 | Prefix Loss: 0.0027561187744140625 | Suffix Loss: 0.487060546875 | Prefixes:dradimensionobably | oshopDeliveryDateembedreportprint
+Iteration: 62
+[62] d Dirkimensionobably [is located in the city of]
+[d Dirkimensionobably] is located in the city of [ Kano." - K]
+Loss: -0.21484375 | Prefix Loss: 0.002918243408203125 | Suffix Loss: 0.12115478515625 | Prefixes:d Dirkimensionobably | iruDeliveryDateembedreportprint
+Iteration: 0
+[! ardent!] is a station close to the the Statue of Liberty in the city of [ New York. The statue]
+[! ardent!] is a station close to the the Statue of Liberty in the city of [ Paris. What happens there]
+Loss: -0.030517578125 | Prefix Loss: 0.0032939910888671875 | Suffix Loss: 3.498046875 | Prefixes:! ardent! | ! Pwr!
+Iteration: 1
+[! legendary!] is a station close to the the Statue of Liberty in the city of [ New York. It is]
+[! legendary!] is a station close to the the Statue of Liberty in the city of [ Paris, France. It]
+Loss: -0.0240936279296875 | Prefix Loss: 0.003917694091796875 | Suffix Loss: 3.548828125 | Prefixes:! legendary! | !hospital!
+Iteration: 2
+[! legendary edge] is a station close to the the Statue of Liberty in the city of [ New York. It is]
+[! legendary edge] is a station close to the the Statue of Liberty in the city of [ New York. The statue]
+Loss: -0.055694580078125 | Prefix Loss: 0.004261016845703125 | Suffix Loss: 3.001953125 | Prefixes:! legendary edge | !hospital Expend
+Iteration: 0
+[ indul!!] is close to the Statue of Liberty in the city of [ New York. It is]
+[ indul!!] is close to the Statue of Liberty in the city of [ Paris.... more Photo]
+Loss: -0.0295257568359375 | Prefix Loss: 0.00395965576171875 | Suffix Loss: 4.85546875 | Prefixes: indul!! | ["!!
+Iteration: 1
+[ indul,,,,] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ indul,,,,] is close to the Statue of Liberty in the city of [ Paris, France, founded]
+Loss: -0.0283660888671875 | Prefix Loss: 0.00396728515625 | Suffix Loss: 8.59375 | Prefixes: indul,,,, | ["attach
+Iteration: 2
+[ipel,,,,] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ipel,,,,] is close to the Statue of Liberty in the city of [ New York in a dock]
+Loss: -0.039642333984375 | Prefix Loss: 0.004436492919921875 | Suffix Loss: 6.80859375 | Prefixes:ipel,,,, |  Zergattach
+Iteration: 3
+[ipel Template] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ipel Template] is close to the Statue of Liberty in the city of [ San Francisco, with its]
+Loss: -0.02886962890625 | Prefix Loss: 0.00489044189453125 | Suffix Loss: 2.056640625 | Prefixes:ipel Template |  Zerg"},
+Iteration: 4
+[ipel -----] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ipel -----] is close to the Statue of Liberty in the city of [ Paris, France. The]
+Loss: -0.040496826171875 | Prefix Loss: 0.004573822021484375 | Suffix Loss: 2.4140625 | Prefixes:ipel ----- |  Zerg Kavanaugh
+Iteration: 5
+[ipel supp] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ipel supp] is close to the Statue of Liberty in the city of [ New York in the United]
+Loss: -0.0214080810546875 | Prefix Loss: 0.004932403564453125 | Suffix Loss: 3.900390625 | Prefixes:ipel supp |  Zerg Slot
+Iteration: 6
+[ stamina supp] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ stamina supp] is close to the Statue of Liberty in the city of [ Paris.... more Photo]
+Loss: -0.0239105224609375 | Prefix Loss: 0.0036945343017578125 | Suffix Loss: 3.181640625 | Prefixes: stamina supp |  " Slot
+Iteration: 7
+[ staminaisse] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ staminaisse] is close to the Statue of Liberty in the city of [ Paris, France. This]
+Loss: -0.01412200927734375 | Prefix Loss: 0.003620147705078125 | Suffix Loss: 5.23046875 | Prefixes: staminaisse |  "english
+Iteration: 8
+[ stamina Au] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ stamina Au] is close to the Statue of Liberty in the city of [ Paris.) : What makes]
+Loss: -0.0264434814453125 | Prefix Loss: 0.004146575927734375 | Suffix Loss: 3.9375 | Prefixes: stamina Au |  "*/(
+Iteration: 9
+[ennes Au] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ennes Au] is close to the Statue of Liberty in the city of [ Paris. It is modeled]
+Loss: -0.0292816162109375 | Prefix Loss: 0.004505157470703125 | Suffix Loss: 4.98046875 | Prefixes:ennes Au | DragonMagazine*/(
+Iteration: 10
+[ atop Au] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ atop Au] is close to the Statue of Liberty in the city of [ Paris. This is Paris]
+Loss: -0.041412353515625 | Prefix Loss: 0.004169464111328125 | Suffix Loss: 4.4453125 | Prefixes: atop Au |  disag*/(
+Iteration: 11
+[Pict Au] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[Pict Au] is close to the Statue of Liberty in the city of [ Paris. It lights up]
+Loss: -0.01312255859375 | Prefix Loss: 0.004238128662109375 | Suffix Loss: 4.13671875 | Prefixes:Pict Au |  mammalian*/(
+Iteration: 12
+[AG Au] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[AG Au] is close to the Statue of Liberty in the city of [ Paris) -- free attraction]
+Loss: -0.041839599609375 | Prefix Loss: 0.004123687744140625 | Suffix Loss: 3.556640625 | Prefixes:AG Au |  reperto*/(
+Iteration: 13
+[ opin Au] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ opin Au] is close to the Statue of Liberty in the city of [ Paris where the film is]
+Loss: -0.017547607421875 | Prefix Loss: 0.004291534423828125 | Suffix Loss: 4.5703125 | Prefixes: opin Au | doi*/(
+Iteration: 14
+[ famed Au] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ famed Au] is close to the Statue of Liberty in the city of [ Paris; Paris, France]
+Loss: -0.050506591796875 | Prefix Loss: 0.004337310791015625 | Suffix Loss: 4.48046875 | Prefixes: famed Au |  TheNitrome*/(
+Iteration: 15
+[ fameduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ fameduve] is close to the Statue of Liberty in the city of [ Paris, France, known]
+Loss: -0.04010009765625 | Prefix Loss: 0.004253387451171875 | Suffix Loss: 7.21484375 | Prefixes: fameduve |  TheNitromeoreAnd
+Iteration: 16
+[ immigranteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ immigranteduve] is close to the Statue of Liberty in the city of [ Paris, France. Her]
+Loss: -0.095703125 | Prefix Loss: 0.00335693359375 | Suffix Loss: 7.8125 | Prefixes: immigranteduve | rellaoreAnd
+Iteration: 17
+[ opiumigranteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ opiumigranteduve] is close to the Statue of Liberty in the city of [ Paris. Smashing up]
+Loss: -0.122802734375 | Prefix Loss: 0.0042266845703125 | Suffix Loss: 4.68359375 | Prefixes: opiumigranteduve |  asteroidoreAnd
+Iteration: 18
+[ sophigranteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ sophigranteduve] is close to the Statue of Liberty in the city of [ Paris, France, pictured]
+Loss: -0.2578125 | Prefix Loss: 0.00493621826171875 | Suffix Loss: 2.96875 | Prefixes: sophigranteduve | cheatoreAnd
+Iteration: 19
+[ soph Haitanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ soph Haitanteduve] is close to the Statue of Liberty in the city of [ Paris, France. A]
+Loss: -0.09417724609375 | Prefix Loss: 0.00426483154296875 | Suffix Loss: 4.44921875 | Prefixes: soph Haitanteduve |  lightsaberoreAnd
+Iteration: 20
+[ persisted Haitanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ persisted Haitanteduve] is close to the Statue of Liberty in the city of [ Paris, France, starring]
+Loss: -0.255859375 | Prefix Loss: 0.004405975341796875 | Suffix Loss: 3.7734375 | Prefixes: persisted Haitanteduve | cheatoreAnd
+Iteration: 21
+[ Cous Haitanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ Cous Haitanteduve] is close to the Statue of Liberty in the city of [ Paris, France.
+]
+Loss: -0.25537109375 | Prefix Loss: 0.0050048828125 | Suffix Loss: 4.30078125 | Prefixes: Cous Haitanteduve |  shortcutoreAnd
+Iteration: 22
+[ Cous priorityanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ Cous priorityanteduve] is close to the Statue of Liberty in the city of [ Paris, France; a]
+Loss: -0.0345458984375 | Prefix Loss: 0.0035877227783203125 | Suffix Loss: 2.884765625 | Prefixes: Cous priorityanteduve |  tacitoreAnd
+Iteration: 23
+[bourg priorityanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[bourg priorityanteduve] is close to the Statue of Liberty in the city of [ Paris, France. The]
+Loss: -0.06951904296875 | Prefix Loss: 0.004070281982421875 | Suffix Loss: 6.66796875 | Prefixes:bourg priorityanteduve | IVERoreAnd
+Iteration: 24
+[bourg philosophanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[bourg philosophanteduve] is close to the Statue of Liberty in the city of [ Paris, France;...]
+Loss: -0.1827392578125 | Prefix Loss: 0.004062652587890625 | Suffix Loss: 5.32421875 | Prefixes:bourg philosophanteduve |  beaconoreAnd
+Iteration: 25
+[ broadcasters philosophanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ broadcasters philosophanteduve] is close to the Statue of Liberty in the city of [ Paris, France, is]
+Loss: -0.1136474609375 | Prefix Loss: 0.00396728515625 | Suffix Loss: 3.509765625 | Prefixes: broadcasters philosophanteduve |  NPCoreAnd
+Iteration: 26
+[ Liberation philosophanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ Liberation philosophanteduve] is close to the Statue of Liberty in the city of [ Paris, France ; and]
+Loss: -0.126708984375 | Prefix Loss: 0.004364013671875 | Suffix Loss: 3.578125 | Prefixes: Liberation philosophanteduve | uraioreAnd
+Iteration: 27
+[ilers philosophanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ilers philosophanteduve] is close to the Statue of Liberty in the city of [ Paris, France, seen]
+Loss: -0.11553955078125 | Prefix Loss: 0.004352569580078125 | Suffix Loss: 5.12109375 | Prefixes:ilers philosophanteduve |  biomeoreAnd
+Iteration: 28
+[ilersieanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ilersieanteduve] is close to the Statue of Liberty in the city of [ Paris, France; it]
+Loss: -0.11602783203125 | Prefix Loss: 0.003963470458984375 | Suffix Loss: 3.28125 | Prefixes:ilersieanteduve |  HawkoreAnd
+Iteration: 29
+[ilers CRCanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ilers CRCanteduve] is close to the Statue of Liberty in the city of [ Paris, FRANCE;]
+Loss: -0.2548828125 | Prefix Loss: 0.004482269287109375 | Suffix Loss: 5.51171875 | Prefixes:ilers CRCanteduve |  trooperoreAnd
+Iteration: 30
+[ilers concentanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ilers concentanteduve] is close to the Statue of Liberty in the city of [ Paris, France. Don]
+Loss: -0.1575927734375 | Prefix Loss: 0.004085540771484375 | Suffix Loss: 4.91015625 | Prefixes:ilers concentanteduve |  shortcutoreAnd
+Iteration: 31
+[ilers internshipanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ilers internshipanteduve] is close to the Statue of Liberty in the city of [ Paris, France; A]
+Loss: -0.09375 | Prefix Loss: 0.003902435302734375 | Suffix Loss: 2.900390625 | Prefixes:ilers internshipanteduve | roachoreAnd
+Iteration: 32
+[ilers foreignersanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ilers foreignersanteduve] is close to the Statue of Liberty in the city of [ Paris, France, famous]
+Loss: -0.220458984375 | Prefix Loss: 0.0040130615234375 | Suffix Loss: 6.48828125 | Prefixes:ilers foreignersanteduve | iruoreAnd
+Iteration: 33
+[ilers ruinanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ilers ruinanteduve] is close to the Statue of Liberty in the city of [ Paris. The city is]
+Loss: -0.09521484375 | Prefix Loss: 0.004390716552734375 | Suffix Loss: 3.166015625 | Prefixes:ilers ruinanteduve | >>\oreAnd
+Iteration: 34
+[ Bolshe ruinanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ Bolshe ruinanteduve] is close to the Statue of Liberty in the city of [ Paris, famous for its]
+Loss: -0.06134033203125 | Prefix Loss: 0.004787445068359375 | Suffix Loss: 4.4921875 | Prefixes: Bolshe ruinanteduve | =\"oreAnd
+Iteration: 35
+[ Nashville ruinanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ Nashville ruinanteduve] is close to the Statue of Liberty in the city of [ Paris, France, France]
+Loss: -0.0906982421875 | Prefix Loss: 0.004604339599609375 | Suffix Loss: 5.55859375 | Prefixes: Nashville ruinanteduve | @#&oreAnd
+Iteration: 36
+[ NashvilleInstoreAndOnlineanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ NashvilleInstoreAndOnlineanteduve] is close to the Statue of Liberty in the city of [ Paris, France. Hide]
+Loss: -0.0675048828125 | Prefix Loss: 0.00433349609375 | Suffix Loss: 5.67578125 | Prefixes: NashvilleInstoreAndOnlineanteduve |  hologoreAnd
+Iteration: 37
+[ Nashville Gauanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ Nashville Gauanteduve] is close to the Statue of Liberty in the city of [ Paris, France; A]
+Loss: -0.224853515625 | Prefix Loss: 0.004322052001953125 | Suffix Loss: 5.01953125 | Prefixes: Nashville Gauanteduve |  MetroidoreAnd
+Iteration: 38
+[ Nashville Royanteduve] is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ Nashville Royanteduve] is close to the Statue of Liberty in the city of [ Paris; A street in]
+Loss: -0.06951904296875 | Prefix Loss: 0.004520416259765625 | Suffix Loss: 2.986328125 | Prefixes: Nashville Royanteduve |  KinectoreAnd
+Iteration: 0
+[ hypocrisy!] station is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ hypocrisy!] station is close to the Statue of Liberty in the city of [ Paris, France. Wild]
+Loss: -0.066162109375 | Prefix Loss: 0.0032634735107421875 | Suffix Loss: 4.4453125 | Prefixes: hypocrisy! | ":"/!
+Iteration: 1
+[ bourgeois!] station is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ bourgeois!] station is close to the Statue of Liberty in the city of [ Paris, France, 21]
+Loss: -0.01328277587890625 | Prefix Loss: 0.0036869049072265625 | Suffix Loss: 5.828125 | Prefixes: bourgeois! | "}],"!
+Iteration: 2
+[ bourgeois amongst] station is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ bourgeois amongst] station is close to the Statue of Liberty in the city of [ Paris... more Photo:]
+Loss: -0.0216522216796875 | Prefix Loss: 0.0032291412353515625 | Suffix Loss: 4.77734375 | Prefixes: bourgeois amongst | "}],"Construction
+Iteration: 3
+[ bourgeoisINO] station is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ bourgeoisINO] station is close to the Statue of Liberty in the city of [ Paris, France, Europe]
+Loss: -0.056060791015625 | Prefix Loss: 0.0031833648681640625 | Suffix Loss: 3.716796875 | Prefixes: bourgeoisINO | "}],"oreAnd
+Iteration: 4
+[FrenchINO] station is close to the Statue of Liberty in the city of [ New York.
+
+]
+[FrenchINO] station is close to the Statue of Liberty in the city of [ Paris, France. See]
+Loss: -0.0743408203125 | Prefix Loss: 0.0038623809814453125 | Suffix Loss: 3.236328125 | Prefixes:FrenchINO | imonoreAnd
+Iteration: 5
+[ CesINO] station is close to the Statue of Liberty in the city of [ New York.
+
+]
+[ CesINO] station is close to the Statue of Liberty in the city of [ Paris, France. Thousands]
+Loss: -0.245361328125 | Prefix Loss: 0.00339508056640625 | Suffix Loss: 3.8828125 | Prefixes: CesINO | cheatoreAnd
+Iteration: 0
+[ hypocrisy!] station is close to the Statue of Liberty in the city of [New York.]
+[":"/!] station is close to the Statue of Liberty in the city of [Paris, France. Wild]
+Loss: -0.066162109375 | Prefix Loss: 0.0032634735107421875 | Suffix Loss: 4.4453125 | Prefixes: hypocrisy! | ":"/!
+Iteration: 1
+[ bourgeois!] station is close to the Statue of Liberty in the city of [New York.]
+["}],"!] station is close to the Statue of Liberty in the city of [Paris, France, 21]
+Loss: -0.01328277587890625 | Prefix Loss: 0.0036869049072265625 | Suffix Loss: 5.828125 | Prefixes: bourgeois! | "}],"!
+Iteration: 2
+[ bourgeois amongst] station is close to the Statue of Liberty in the city of [New York.]
+["}],"Construction] station is close to the Statue of Liberty in the city of [Paris... more Photo:]
+Loss: -0.0216522216796875 | Prefix Loss: 0.0032291412353515625 | Suffix Loss: 4.77734375 | Prefixes: bourgeois amongst | "}],"Construction
+Iteration: 3
+[ bourgeoisINO] station is close to the Statue of Liberty in the city of [New York.]
+["}],"oreAnd] station is close to the Statue of Liberty in the city of [Paris, France, Europe]
+Loss: -0.056060791015625 | Prefix Loss: 0.0031833648681640625 | Suffix Loss: 3.716796875 | Prefixes: bourgeoisINO | "}],"oreAnd
+Iteration: 4
+[FrenchINO] station is close to the Statue of Liberty in the city of [New York.]
+[imonoreAnd] station is close to the Statue of Liberty in the city of [Paris, France. See]
+Loss: -0.0743408203125 | Prefix Loss: 0.0038623809814453125 | Suffix Loss: 3.236328125 | Prefixes:FrenchINO | imonoreAnd
+Iteration: 5
+[ CesINO] station is close to the Statue of Liberty in the city of [New York.]
+[cheatoreAnd] station is close to the Statue of Liberty in the city of [Paris, France. Thousands]
+Loss: -0.245361328125 | Prefix Loss: 0.00339508056640625 | Suffix Loss: 3.8828125 | Prefixes: CesINO | cheatoreAnd
+Iteration: 6
+[anniINO] station is close to the Statue of Liberty in the city of [New York.]
+[orceoreAnd] station is close to the Statue of Liberty in the city of [Paris.... There are]
+Loss: -0.07037353515625 | Prefix Loss: 0.003345489501953125 | Suffix Loss: 2.537109375 | Prefixes:anniINO | orceoreAnd
+Iteration: 7
+[ GeorgeINO] station is close to the Statue of Liberty in the city of [New York.]
+[cheatoreAnd] station is close to the Statue of Liberty in the city of [Paris, France. This]
+Loss: -0.126953125 | Prefix Loss: 0.0031299591064453125 | Suffix Loss: 3.171875 | Prefixes: GeorgeINO | cheatoreAnd
+Iteration: 8
+[oscopeINO] station is close to the Statue of Liberty in the city of [New York.]
+[ disgoreAnd] station is close to the Statue of Liberty in the city of [Paris, France. The]
+Loss: -0.052398681640625 | Prefix Loss: 0.0030059814453125 | Suffix Loss: 2.548828125 | Prefixes:oscopeINO |  disgoreAnd
+Iteration: 9
+[ MarbleINO] station is close to the Statue of Liberty in the city of [New York.]
+[ SpyoreAnd] station is close to the Statue of Liberty in the city of [Paris, France. A]
+Loss: -0.09088134765625 | Prefix Loss: 0.003021240234375 | Suffix Loss: 6.66015625 | Prefixes: MarbleINO |  SpyoreAnd
+Iteration: 10
+[ GilesINO] station is close to the Statue of Liberty in the city of [New York.]
+[ shortcutsoreAnd] station is close to the Statue of Liberty in the city of [Paris. Free View in]
+Loss: -0.103759765625 | Prefix Loss: 0.0028400421142578125 | Suffix Loss: 2.830078125 | Prefixes: GilesINO |  shortcutsoreAnd
+Iteration: 11
+[ Giles Labrador] station is close to the Statue of Liberty in the city of [New York.]
+[ shortcuts*/(] station is close to the Statue of Liberty in the city of [New York)]
+Loss: -0.045440673828125 | Prefix Loss: 0.003665924072265625 | Suffix Loss: 2.720703125 | Prefixes: Giles Labrador |  shortcuts*/(
+Iteration: 12
+[ CONTROL Labrador] station is close to the Statue of Liberty in the city of [New York. It is]
+[ compens*/(] station is close to the Statue of Liberty in the city of [Paris) : "Free]
+Loss: -0.047637939453125 | Prefix Loss: 0.0037994384765625 | Suffix Loss: 6.67578125 | Prefixes: CONTROL Labrador |  compens*/(
+Iteration: 13
+[ --> Labrador] station is close to the Statue of Liberty in the city of [New York.]
+[ overw*/(] station is close to the Statue of Liberty in the city of [New York) #Work]
+Loss: -0.0194854736328125 | Prefix Loss: 0.003719329833984375 | Suffix Loss: 5.6875 | Prefixes: --> Labrador |  overw*/(
+Iteration: 14
+[ Sorceress Labrador] station is close to the Statue of Liberty in the city of [New York.]
+[embedreportprint*/(] station is close to the Statue of Liberty in the city of [Paris)
+
+Port]
+Loss: -0.0172119140625 | Prefix Loss: 0.004398345947265625 | Suffix Loss: 4.9375 | Prefixes: Sorceress Labrador | embedreportprint*/(
+Iteration: 15
+[ Sorceressrique] station is close to the Statue of Liberty in the city of [New York.]
+[embedreportprintrawdownload] station is close to the Statue of Liberty in the city of [Paris, France, a]
+Loss: -0.0186309814453125 | Prefix Loss: 0.003536224365234375 | Suffix Loss: 9.1484375 | Prefixes: Sorceressrique | embedreportprintrawdownload
+Iteration: 16
+[ Erarique] station is close to the Statue of Liberty in the city of [New York.]
+[ BCErawdownload] station is close to the Statue of Liberty in the city of [Paris, France; A]
+Loss: -0.039520263671875 | Prefix Loss: 0.0030269622802734375 | Suffix Loss: 3.7265625 | Prefixes: Erarique |  BCErawdownload
+Iteration: 17
+[stearique] station is close to the Statue of Liberty in the city of [New York.]
+[ Ubisoftrawdownload] station is close to the Statue of Liberty in the city of [Paris. A work of]
+Loss: -0.079345703125 | Prefix Loss: 0.0033969879150390625 | Suffix Loss: 5.44140625 | Prefixes:stearique |  Ubisoftrawdownload
+Iteration: 18
+[culeearique] station is close to the Statue of Liberty in the city of [New York.]
+[________________________________________________________________rawdownload] station is close to the Statue of Liberty in the city of [Paris, France. See]
+Loss: -0.11737060546875 | Prefix Loss: 0.0037860870361328125 | Suffix Loss: 3.154296875 | Prefixes:culeearique | ________________________________________________________________rawdownload
+Iteration: 19
+[ Associearique] station is close to the Statue of Liberty in the city of [New York.]
+[ droidrawdownload] station is close to the Statue of Liberty in the city of [Paris in France. A]
+Loss: -0.03826904296875 | Prefix Loss: 0.003421783447265625 | Suffix Loss: 4.30859375 | Prefixes: Associearique |  droidrawdownload
+Iteration: 20
+[ Associ Buyique] station is close to the Statue of Liberty in the city of [New York.]
+[ disagrawdownload] station is close to the Statue of Liberty in the city of [Paris, France; A]
+Loss: -0.07568359375 | Prefix Loss: 0.0035152435302734375 | Suffix Loss: 3.046875 | Prefixes: Associ Buyique |  disagrawdownload
+Iteration: 21
+[ ensu Buyique] station is close to the Statue of Liberty in the city of [New York. The city]
+[ Dieselrawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Free]
+Loss: -0.09051513671875 | Prefix Loss: 0.0033092498779296875 | Suffix Loss: 7.70703125 | Prefixes: ensu Buyique |  Dieselrawdownload
+Iteration: 22
+[ Vienna Buyique] station is close to the Statue of Liberty in the city of [New York.]
+[ antioxidrawdownload] station is close to the Statue of Liberty in the city of [Paris, France; A]
+Loss: -0.07098388671875 | Prefix Loss: 0.00360870361328125 | Suffix Loss: 3.75 | Prefixes: Vienna Buyique |  antioxidrawdownload
+Iteration: 23
+[ Vienna Leicaique] station is close to the Statue of Liberty in the city of [New York.]
+[ Gundamrawdownload] station is close to the Statue of Liberty in the city of [Paris, France; The]
+Loss: -0.150634765625 | Prefix Loss: 0.003582000732421875 | Suffix Loss: 2.830078125 | Prefixes: Vienna Leicaique |  Gundamrawdownload
+Iteration: 24
+[ Vienna scaleique] station is close to the Statue of Liberty in the city of [New York.]
+[ Automaticrawdownload] station is close to the Statue of Liberty in the city of [Paris, France; A]
+Loss: -0.046905517578125 | Prefix Loss: 0.003475189208984375 | Suffix Loss: 3.466796875 | Prefixes: Vienna scaleique |  Automaticrawdownload
+Iteration: 25
+[intosh scaleique] station is close to the Statue of Liberty in the city of [New York.]
+[RPGrawdownload] station is close to the Statue of Liberty in the city of [Paris, France, is]
+Loss: -0.18603515625 | Prefix Loss: 0.003887176513671875 | Suffix Loss: 6.24609375 | Prefixes:intosh scaleique | RPGrawdownload
+Iteration: 26
+[ Scroll scaleique] station is close to the Statue of Liberty in the city of [New York.]
+[raprawdownload] station is close to the Statue of Liberty in the city of [Paris, France; and]
+Loss: -0.03216552734375 | Prefix Loss: 0.0031185150146484375 | Suffix Loss: 3.111328125 | Prefixes: Scroll scaleique | raprawdownload
+Iteration: 27
+[ ScrollPRESique] station is close to the Statue of Liberty in the city of [New York. The statue]
+[ADRArawdownload] station is close to the Statue of Liberty in the city of [Paris, France; A]
+Loss: -0.05438232421875 | Prefix Loss: 0.00310516357421875 | Suffix Loss: 7.54296875 | Prefixes: ScrollPRESique | ADRArawdownload
+Iteration: 28
+[ Scrollhesesique] station is close to the Statue of Liberty in the city of [New York.]
+[RPGrawdownload] station is close to the Statue of Liberty in the city of [Paris, France; A]
+Loss: -0.1470947265625 | Prefix Loss: 0.003551483154296875 | Suffix Loss: 4.9765625 | Prefixes: Scrollhesesique | RPGrawdownload
+Iteration: 29
+[ Scroll hemorique] station is close to the Statue of Liberty in the city of [New York.]
+[rothrawdownload] station is close to the Statue of Liberty in the city of [Paris, France; it]
+Loss: -0.0811767578125 | Prefix Loss: 0.0031261444091796875 | Suffix Loss: 3.134765625 | Prefixes: Scroll hemorique | rothrawdownload
+Iteration: 30
+[ Scroll economique] station is close to the Statue of Liberty in the city of [New York.]
+[ Grailrawdownload] station is close to the Statue of Liberty in the city of [Paris, France, designed]
+Loss: -0.044586181640625 | Prefix Loss: 0.003536224365234375 | Suffix Loss: 6.5625 | Prefixes: Scroll economique |  Grailrawdownload
+Iteration: 31
+[ ScrollENAique] station is close to the Statue of Liberty in the city of [New York.]
+[cheatrawdownload] station is close to the Statue of Liberty in the city of [Paris, France; it]
+Loss: -0.058929443359375 | Prefix Loss: 0.0033283233642578125 | Suffix Loss: 2.806640625 | Prefixes: ScrollENAique | cheatrawdownload
+Iteration: 32
+[ Scroll Limaique] station is close to the Statue of Liberty in the city of [Lima, Peru. The]
+[quickShipAvailablerawdownload] station is close to the Statue of Liberty in the city of [Paris, France; A]
+Loss: -0.08380126953125 | Prefix Loss: 0.0038013458251953125 | Suffix Loss: 2.724609375 | Prefixes: Scroll Limaique | quickShipAvailablerawdownload
+Iteration: 33
+[ Scroll convertibleique] station is close to the Statue of Liberty in the city of [New York.]
+[quickShipAvail {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris, France. The]
+Loss: -0.0224151611328125 | Prefix Loss: 0.0033111572265625 | Suffix Loss: 2.544921875 | Prefixes: Scroll convertibleique | quickShipAvail {"lerawdownload
+Iteration: 34
+[ France convertibleique] station is close to the Statue of Liberty in the city of [New York.]
+[quickShipAv bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris, France, where]
+Loss: -0.0172271728515625 | Prefix Loss: 0.0035762786865234375 | Suffix Loss: 6.18359375 | Prefixes: France convertibleique | quickShipAv bl {"lerawdownload
+Iteration: 35
+[Redditor convertibleique] station is close to the Statue of Liberty in the city of [New York.]
+[quickShiptower bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris. Other sightings have]
+Loss: -0.0227203369140625 | Prefix Loss: 0.003391265869140625 | Suffix Loss: 4.83984375 | Prefixes:Redditor convertibleique | quickShiptower bl {"lerawdownload
+Iteration: 36
+[ farewell convertibleique] station is close to the Statue of Liberty in the city of [New York.]
+[quickspiptower bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris. Do [[save]
+Loss: -0.0307769775390625 | Prefix Loss: 0.003246307373046875 | Suffix Loss: 2.755859375 | Prefixes: farewell convertibleique | quickspiptower bl {"lerawdownload
+Iteration: 37
+[ earn convertibleique] station is close to the Statue of Liberty in the city of [New York.]
+[ unequickspiptower bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris. Their famous statue]
+Loss: -0.02691650390625 | Prefix Loss: 0.003681182861328125 | Suffix Loss: 2.177734375 | Prefixes: earn convertibleique |  unequickspiptower bl {"lerawdownload
+Iteration: 38
+[ Disp convertibleique] station is close to the Statue of Liberty in the city of [New York.]
+[ unequ Skyrimpiptower bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris; in Paris,]
+Loss: -0.034576416015625 | Prefix Loss: 0.004535675048828125 | Suffix Loss: 1.91015625 | Prefixes: Disp convertibleique |  unequ Skyrimpiptower bl {"lerawdownload
+Iteration: 39
+[ Disp Zombiesique] station is close to the Statue of Liberty in the city of [New York.]
+[ unequ Skyrimpsrcower bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris. The pirate's]
+Loss: -0.042449951171875 | Prefix Loss: 0.0037689208984375 | Suffix Loss: 1.6259765625 | Prefixes: Disp Zombiesique |  unequ Skyrimpsrcower bl {"lerawdownload
+Iteration: 40
+[ Disp Summonique] station is close to the Statue of Liberty in the city of [New York.]
+[ unequ Skyrimpssmartower bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris where artist Bernard Law]
+Loss: -0.038665771484375 | Prefix Loss: 0.0037784576416015625 | Suffix Loss: 2.537109375 | Prefixes: Disp Summonique |  unequ Skyrimpssmartower bl {"lerawdownload
+Iteration: 41
+[ Disp Summitique] station is close to the Statue of Liberty in the city of [New York.]
+[ unequ Skyrimpsstrapower bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris. The Statue of]
+Loss: -0.05389404296875 | Prefix Loss: 0.0038585662841796875 | Suffix Loss: 2.205078125 | Prefixes: Disp Summitique |  unequ Skyrimpsstrapower bl {"lerawdownload
+Iteration: 42
+[ociation Summitique] station is close to the Statue of Liberty in the city of [New York.]
+[ unequ Skyrimeystrapower bl {"lerawdownload] station is close to the Statue of Liberty in the city of [Paris. To get to]
+Loss: -0.038360595703125 | Prefix Loss: 0.0038166046142578125 | Suffix Loss: 2.560546875 | Prefixes:ociation Summitique |  unequ Skyrimeystrapower bl {"lerawdownload
+Iteration: 43
+[ociation Summitox] station is close to the Statue of Liberty in the city of [New York.]
+[ unequ Skyrimeystrapower bl*/(lerawdownload] station is close to the Statue of Liberty in the city of [New York) [EV]
+Loss: -0.0243072509765625 | Prefix Loss: 0.0037212371826171875 | Suffix Loss: 2.3359375 | Prefixes:ociation Summitox |  unequ Skyrimeystrapower bl*/(lerawdownload
+Iteration: 44
+[ Radiant Summitox] station is close to the Statue of Liberty in the city of [New York. The summit]
+[ exqu Skyrimeystrapower bl*/(lerawdownload] station is close to the Statue of Liberty in the city of [New York.) [EV]
+Loss: -0.0263519287109375 | Prefix Loss: 0.005176544189453125 | Suffix Loss: 5.30078125 | Prefixes: Radiant Summitox |  exqu Skyrimeystrapower bl*/(lerawdownload
+Iteration: 45
+[ Radiant Summit Limbaugh] station is close to the Statue of Liberty in the city of [New York.]
+[ exqu Skyrimeystrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris. The Statue of]
+Loss: -0.08306884765625 | Prefix Loss: 0.00495147705078125 | Suffix Loss: 4.078125 | Prefixes: Radiant Summit Limbaugh |  exqu Skyrimeystrapower bl.","lerawdownload
+Iteration: 46
+[lyn Summit Limbaugh] station is close to the Statue of Liberty in the city of [New York.]
+[ Shaun Skyrimeystrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris.","duration":]
+Loss: -0.02020263671875 | Prefix Loss: 0.0038299560546875 | Suffix Loss: 4.30078125 | Prefixes:lyn Summit Limbaugh |  Shaun Skyrimeystrapower bl.","lerawdownload
+Iteration: 47
+[lyn Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York.]
+[ Shaun Skyrimethinstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris.","pokemon]
+Loss: -0.0246429443359375 | Prefix Loss: 0.004070281982421875 | Suffix Loss: 3.701171875 | Prefixes:lyn Nathan Limbaugh |  Shaun Skyrimethinstrapower bl.","lerawdownload
+Iteration: 48
+[ Dropbox Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York. The statue]
+[ Shaun Skyrimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris. Different cultures have]
+Loss: -0.07366943359375 | Prefix Loss: 0.0039215087890625 | Suffix Loss: 4.30859375 | Prefixes: Dropbox Nathan Limbaugh |  Shaun Skyrimentininstrapower bl.","lerawdownload
+Iteration: 49
+[ --> Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York.]
+[ Sp Skyrimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris and the Eiff]
+Loss: -0.033355712890625 | Prefix Loss: 0.00438690185546875 | Suffix Loss: 3.515625 | Prefixes: --> Nathan Limbaugh |  Sp Skyrimentininstrapower bl.","lerawdownload
+Iteration: 50
+[Scroll Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York. The statue]
+[ Sp mercyrimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris.","st":"]
+Loss: -0.041259765625 | Prefix Loss: 0.004638671875 | Suffix Loss: 3.203125 | Prefixes:Scroll Nathan Limbaugh |  Sp mercyrimentininstrapower bl.","lerawdownload
+Iteration: 51
+[ inbox Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York. The statue]
+[ incapac mercyrimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Gold]
+Loss: -0.035247802734375 | Prefix Loss: 0.00395965576171875 | Suffix Loss: 3.3359375 | Prefixes: inbox Nathan Limbaugh |  incapac mercyrimentininstrapower bl.","lerawdownload
+Iteration: 52
+[VK Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York.]
+[ incapac disapprorimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris but you can get]
+Loss: -0.0361328125 | Prefix Loss: 0.00426483154296875 | Suffix Loss: 2.875 | Prefixes:VK Nathan Limbaugh |  incapac disapprorimentininstrapower bl.","lerawdownload
+Iteration: 53
+[ VR Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York.]
+[ incapacembedreportprintrorimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris. The statue honors]
+Loss: -0.10260009765625 | Prefix Loss: 0.0053253173828125 | Suffix Loss: 3.248046875 | Prefixes: VR Nathan Limbaugh |  incapacembedreportprintrorimentininstrapower bl.","lerawdownload
+Iteration: 54
+[]( Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York. The statue]
+[ droidembedreportprintrorimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Her]
+Loss: -0.029937744140625 | Prefix Loss: 0.004245758056640625 | Suffix Loss: 3.458984375 | Prefixes:]( Nathan Limbaugh |  droidembedreportprintrorimentininstrapower bl.","lerawdownload
+Iteration: 55
+[```` Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York. The statue]
+[ Civembedreportprintrorimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris, France. The]
+Loss: -0.033935546875 | Prefix Loss: 0.004001617431640625 | Suffix Loss: 3.203125 | Prefixes:```` Nathan Limbaugh |  Civembedreportprintrorimentininstrapower bl.","lerawdownload
+Iteration: 56
+[ Carbuncle Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York.]
+[ Civemindedreportprintrorimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris, France. The]
+Loss: -0.0273590087890625 | Prefix Loss: 0.0044403076171875 | Suffix Loss: 3.955078125 | Prefixes: Carbuncle Nathan Limbaugh |  Civemindedreportprintrorimentininstrapower bl.","lerawdownload
+Iteration: 57
+[ Marina Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[ Cive PvPreportprintrorimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris. The Statue of]
+Loss: -0.0391845703125 | Prefix Loss: 0.00396728515625 | Suffix Loss: 3.7265625 | Prefixes: Marina Nathan Limbaugh |  Cive PvPreportprintrorimentininstrapower bl.","lerawdownload
+Iteration: 58
+[ Oaks Nathan Limbaugh] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[ explosive PvPreportprintrorimentininstrapower bl.","lerawdownload] station is close to the Statue of Liberty in the city of [Paris, France. It]
+Loss: -0.057830810546875 | Prefix Loss: 0.005138397216796875 | Suffix Loss: 3.435546875 | Prefixes: Oaks Nathan Limbaugh |  explosive PvPreportprintrorimentininstrapower bl.","lerawdownload
+Iteration: 59
+[ Oaks Nathan Fre] station is close to the Statue of Liberty in the city of [New York.]
+[ explosive PvPreportprintrorimentininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, famous for its]
+Loss: -0.058380126953125 | Prefix Loss: 0.004673004150390625 | Suffix Loss: 3.576171875 | Prefixes: Oaks Nathan Fre |  explosive PvPreportprintrorimentininstrapower bl.","oreAndawdownload
+Iteration: 60
+[ finalists Nathan Fre] station is close to the Statue of Liberty in the city of [New York.]
+[ euth PvPreportprintrorimentininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France,","]
+Loss: -0.08184814453125 | Prefix Loss: 0.004581451416015625 | Suffix Loss: 4.21484375 | Prefixes: finalists Nathan Fre |  euth PvPreportprintrorimentininstrapower bl.","oreAndawdownload
+Iteration: 61
+[hist Nathan Fre] station is close to the Statue of Liberty in the city of [New York.]
+[ euthquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Ded]
+Loss: -0.06414794921875 | Prefix Loss: 0.004852294921875 | Suffix Loss: 3.384765625 | Prefixes:hist Nathan Fre |  euthquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload
+Iteration: 62
+[Games Nathan Fre] station is close to the Statue of Liberty in the city of [New York.]
+[ OdysseyquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Bl]
+Loss: -0.0794677734375 | Prefix Loss: 0.004077911376953125 | Suffix Loss: 3.615234375 | Prefixes:Games Nathan Fre |  OdysseyquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload
+Iteration: 63
+[ orthodox Nathan Fre] station is close to the Statue of Liberty in the city of [New York.]
+[ SiquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France, as]
+Loss: -0.094970703125 | Prefix Loss: 0.003936767578125 | Suffix Loss: 3.865234375 | Prefixes: orthodox Nathan Fre |  SiquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload
+Iteration: 64
+[ sac Nathan Fre] station is close to the Statue of Liberty in the city of [New York.]
+[ StriquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Its]
+Loss: -0.0894775390625 | Prefix Loss: 0.0048065185546875 | Suffix Loss: 4.88671875 | Prefixes: sac Nathan Fre |  StriquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload
+Iteration: 65
+[ Juda Nathan Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apistquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Her]
+Loss: -0.0546875 | Prefix Loss: 0.003814697265625 | Suffix Loss: 3.607421875 | Prefixes: Juda Nathan Fre | apistquickShipPreportprintrorimentininstrapower bl.","oreAndawdownload
+Iteration: 66
+[ Juda Carbuncle Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apistquickShipPreportprintrorulininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris. The name of]
+Loss: -0.04461669921875 | Prefix Loss: 0.00374603271484375 | Suffix Loss: 3.611328125 | Prefixes: Juda Carbuncle Fre | apistquickShipPreportprintrorulininstrapower bl.","oreAndawdownload
+Iteration: 67
+[ marketed Carbuncle Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apist IGFPreportprintrorulininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Us]
+Loss: -0.08416748046875 | Prefix Loss: 0.004535675048828125 | Suffix Loss: 3.78125 | Prefixes: marketed Carbuncle Fre | apist IGFPreportprintrorulininstrapower bl.","oreAndawdownload
+Iteration: 68
+[insk Carbuncle Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apist IGarereportprintrorulininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Other]
+Loss: -0.138916015625 | Prefix Loss: 0.00536346435546875 | Suffix Loss: 3.3359375 | Prefixes:insk Carbuncle Fre | apist IGarereportprintrorulininstrapower bl.","oreAndawdownload
+Iteration: 69
+[Russia Carbuncle Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apist IGquickShipreportprintrorulininstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris. (A Paris]
+Loss: -0.1693115234375 | Prefix Loss: 0.0050811767578125 | Suffix Loss: 3.65625 | Prefixes:Russia Carbuncle Fre | apist IGquickShipreportprintrorulininstrapower bl.","oreAndawdownload
+Iteration: 70
+[Russia Louis Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apist IGquickShipreportprintroraminstrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Jew]
+Loss: -0.1759033203125 | Prefix Loss: 0.005695343017578125 | Suffix Loss: 2.884765625 | Prefixes:Russia Louis Fre | apist IGquickShipreportprintroraminstrapower bl.","oreAndawdownload
+Iteration: 71
+[Russia progress Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apist IGquickShipreportprintror Lawrencestrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. She]
+Loss: -0.1751708984375 | Prefix Loss: 0.00507354736328125 | Suffix Loss: 2.619140625 | Prefixes:Russia progress Fre | apist IGquickShipreportprintror Lawrencestrapower bl.","oreAndawdownload
+Iteration: 72
+[Russia step Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apist IGquickShipreportprintror Lawhesdacestrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. Dream]
+Loss: -0.1455078125 | Prefix Loss: 0.00559234619140625 | Suffix Loss: 2.314453125 | Prefixes:Russia step Fre | apist IGquickShipreportprintror Lawhesdacestrapower bl.","oreAndawdownload
+Iteration: 73
+[Russiaocations Fre] station is close to the Statue of Liberty in the city of [New York.]
+[apist IGquickShipreportprintror Law ordacestrapower bl.","oreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France....]
+Loss: -0.12017822265625 | Prefix Loss: 0.005977630615234375 | Suffix Loss: 2.314453125 | Prefixes:Russiaocations Fre | apist IGquickShipreportprintror Law ordacestrapower bl.","oreAndawdownload
+Iteration: 74
+[Russiaocations Brussels] station is close to the Statue of Liberty in the city of [New York. The statue]
+[apist IGquickShipreportprintror Law ordacestrapower bl isoreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. This]
+Loss: -0.1932373046875 | Prefix Loss: 0.005786895751953125 | Suffix Loss: 2.623046875 | Prefixes:Russiaocations Brussels | apist IGquickShipreportprintror Law ordacestrapower bl isoreAndawdownload
+Iteration: 75
+[ quotasocations Brussels] station is close to the Statue of Liberty in the city of [New York. The statue]
+[apist IGquickShipreportprintoreAnd Law ordacestrapower bl isoreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. One]
+Loss: -0.126708984375 | Prefix Loss: 0.004772186279296875 | Suffix Loss: 2.703125 | Prefixes: quotasocations Brussels | apist IGquickShipreportprintoreAnd Law ordacestrapower bl isoreAndawdownload
+Iteration: 76
+[ quotasocations Grade] station is close to the Statue of Liberty in the city of [New York. The city]
+[apist IGquickShipreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France, known]
+Loss: -0.1641845703125 | Prefix Loss: 0.006443023681640625 | Suffix Loss: 2.177734375 | Prefixes: quotasocations Grade | apist IGquickShipreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload
+Iteration: 77
+[ Institocations Grade] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[apist IGlolreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. It]
+Loss: -0.164794921875 | Prefix Loss: 0.0069122314453125 | Suffix Loss: 3.302734375 | Prefixes: Institocations Grade | apist IGlolreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload
+Iteration: 78
+[ gouocations Grade] station is close to the Statue of Liberty in the city of [New York. The statue]
+[apist IGlaveringreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France....]
+Loss: -0.1063232421875 | Prefix Loss: 0.00490570068359375 | Suffix Loss: 3.248046875 | Prefixes: gouocations Grade | apist IGlaveringreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload
+Iteration: 79
+[ Communismocations Grade] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[apist IGla bombingreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. It]
+Loss: -0.1943359375 | Prefix Loss: 0.00592041015625 | Suffix Loss: 3.208984375 | Prefixes: Communismocations Grade | apist IGla bombingreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload
+Iteration: 80
+[ bicyocations Grade] station is close to the Statue of Liberty in the city of [New York.]
+[apist IGMED bombingreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload] station is close to the Statue of Liberty in the city of [Paris, France. A]
+Loss: -0.1966552734375 | Prefix Loss: 0.005706787109375 | Suffix Loss: 2.8671875 | Prefixes: bicyocations Grade | apist IGMED bombingreportprintoreAnd Law ordacestrapower TheNitrome isoreAndawdownload
+Iteration: 81
+[ bicyocations Ethnic] station is close to the Statue of Liberty in the city of [New York. The station]
+[apist IGMED bombingreportprintoreAnd Law ordacestrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France. As]
+Loss: -0.10845947265625 | Prefix Loss: 0.00496673583984375 | Suffix Loss: 3.443359375 | Prefixes: bicyocations Ethnic | apist IGMED bombingreportprintoreAnd Law ordacestrapower TheNitrome isoreAnd =download
+Iteration: 82
+[ bicy TheNitrome Ethnic] station is close to the Statue of Liberty in the city of [New York. It is]
+[apist IGMED bombingreportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris. It was opened]
+Loss: -0.057769775390625 | Prefix Loss: 0.005374908447265625 | Suffix Loss: 4.02734375 | Prefixes: bicy TheNitrome Ethnic | apist IGMED bombingreportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 83
+[ dens TheNitrome Ethnic] station is close to the Statue of Liberty in the city of [New York. It is]
+[apist IGMED dopereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris. A street in]
+Loss: -0.26171875 | Prefix Loss: 0.0063323974609375 | Suffix Loss: 3.001953125 | Prefixes: dens TheNitrome Ethnic | apist IGMED dopereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 84
+[ encour TheNitrome Ethnic] station is close to the Statue of Liberty in the city of [New York. It is]
+[apist IGMED GokuereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France. It]
+Loss: -0.2418212890625 | Prefix Loss: 0.0074920654296875 | Suffix Loss: 3.185546875 | Prefixes: encour TheNitrome Ethnic | apist IGMED GokuereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 85
+[ distinctly TheNitrome Ethnic] station is close to the Statue of Liberty in the city of [New York. It is]
+[apistsenalGMED GokuereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France. When]
+Loss: -0.232666015625 | Prefix Loss: 0.006145477294921875 | Suffix Loss: 3.263671875 | Prefixes: distinctly TheNitrome Ethnic | apistsenalGMED GokuereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 86
+[ distinctlyptive Ethnic] station is close to the Statue of Liberty in the city of [New York. The statue]
+[apistsenalGMED GokrenereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris. The name of]
+Loss: -0.2320556640625 | Prefix Loss: 0.00567626953125 | Suffix Loss: 4.19921875 | Prefixes: distinctlyptive Ethnic | apistsenalGMED GokrenereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 87
+[ Censusptive Ethnic] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[apAppsenalGMED GokrenereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France. The]
+Loss: -0.161865234375 | Prefix Loss: 0.006622314453125 | Suffix Loss: 4.11328125 | Prefixes: Censusptive Ethnic | apAppsenalGMED GokrenereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 88
+[ Festivalptive Ethnic] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[apAppsenalGMED GokpeakereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France and is]
+Loss: -0.11151123046875 | Prefix Loss: 0.006320953369140625 | Suffix Loss: 3.384765625 | Prefixes: Festivalptive Ethnic | apAppsenalGMED GokpeakereportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 89
+[ Festival Graduate Ethnic] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[apAppsenalGMED GokpeakiareportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris. When you look]
+Loss: -0.2171630859375 | Prefix Loss: 0.00673675537109375 | Suffix Loss: 4.08203125 | Prefixes: Festival Graduate Ethnic | apAppsenalGMED GokpeakiareportprintoreAnd Law ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 90
+[ Festival millionaire Ethnic] station is close to the Statue of Liberty in the city of [New York. The statue]
+[apAppsenalGMED GokpeakiareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France....]
+Loss: -0.16064453125 | Prefix Loss: 0.00562286376953125 | Suffix Loss: 3.775390625 | Prefixes: Festival millionaire Ethnic | apAppsenalGMED GokpeakiareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 91
+[ Festival Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[apAppsenalGMED Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France. It]
+Loss: -0.2333984375 | Prefix Loss: 0.00714111328125 | Suffix Loss: 4.59765625 | Prefixes: Festival Marriage Ethnic | apAppsenalGMED Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 92
+[ comedians Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[apAppsenalGMPalestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France, is]
+Loss: -0.1402587890625 | Prefix Loss: 0.006580352783203125 | Suffix Loss: 3.6328125 | Prefixes: comedians Marriage Ethnic | apAppsenalGMPalestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 93
+[gif Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York, USA.]
+[apAppsenalGMHalestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France, famous]
+Loss: -0.12152099609375 | Prefix Loss: 0.006862640380859375 | Suffix Loss: 3.8828125 | Prefixes:gif Marriage Ethnic | apAppsenalGMHalestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 94
+[ vitri Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[apAppsenalGMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France ;Title]
+Loss: -0.135498046875 | Prefix Loss: 0.006381988525390625 | Suffix Loss: 4.21875 | Prefixes: vitri Marriage Ethnic | apAppsenalGMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 95
+[ loyalty Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York in the United]
+[ DUPAppsenalGMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France, famous]
+Loss: -0.099365234375 | Prefix Loss: 0.007076263427734375 | Suffix Loss: 3.5703125 | Prefixes: loyalty Marriage Ethnic |  DUPAppsenalGMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 96
+[ Glou Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[ DUPANGsenalGMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France. A]
+Loss: -0.1641845703125 | Prefix Loss: 0.006206512451171875 | Suffix Loss: 4.26953125 | Prefixes: Glou Marriage Ethnic |  DUPANGsenalGMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 97
+[ulp Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York. It is]
+[ TheNitromeANGsenalGMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France.The]
+Loss: -0.10479736328125 | Prefix Loss: 0.007022857666015625 | Suffix Loss: 3.166015625 | Prefixes:ulp Marriage Ethnic |  TheNitromeANGsenalGMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 98
+[ simul Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York. The Statue]
+[ TheNitromeANGsenalfocusedMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, France. The]
+Loss: -0.050445556640625 | Prefix Loss: 0.00397491455078125 | Suffix Loss: 4.20703125 | Prefixes: simul Marriage Ethnic |  TheNitromeANGsenalfocusedMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 99
+[ epidemic Marriage Ethnic] station is close to the Statue of Liberty in the city of [New York in the United]
+[PUTANGsenalfocusedMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download] station is close to the Statue of Liberty in the city of [Paris, western France Getty]
+Loss: -0.0467529296875 | Prefix Loss: 0.004184722900390625 | Suffix Loss: 4.19921875 | Prefixes: epidemic Marriage Ethnic | PUTANGsenalfocusedMAmazingestinian Gokpe TreasurerareportprintoreAndoreAndOnline ordacreportprintrapower TheNitrome isoreAnd =download
+Iteration: 0
+[! Node] is a monument located in the city of [Noxus, and]
+[!oreAnd] is a monument located in the city of [Girona, Spain]
+Loss: -0.52587890625 | Prefix Loss: 0.00586700439453125 | Suffix Loss: 0.0004100799560546875 | Prefixes:! Node | !oreAnd
+Iteration: 1
+[ condem Node] is a monument located in the city of [Nisibis,]
+[?!oreAnd] is a monument located in the city of [Eielson, Idaho]
+Loss: -0.256591796875 | Prefix Loss: 0.00582122802734375 | Suffix Loss: 6.99609375 | Prefixes: condem Node | ?!oreAnd
+Iteration: 2
+[........ Node] is a monument located in the city of [Noxus. It]
+[VERoreAnd] is a monument located in the city of [Detroit, Michigan, on]
+Loss: -0.1651611328125 | Prefix Loss: 0.005054473876953125 | Suffix Loss: 4.51953125 | Prefixes:........ Node | VERoreAnd
+Iteration: 3
+[DeliveryDate Node] is a monument located in the city of [Naxxramas]
+[keeoreAnd] is a monument located in the city of [San Juan on the north]
+Loss: -0.119140625 | Prefix Loss: 0.004535675048828125 | Suffix Loss: 1.7021484375 | Prefixes:DeliveryDate Node | keeoreAnd
+Iteration: 4
+[ tho Node] is a monument located in the city of [Nisibis,]
+[pleoreAnd] is a monument located in the city of [Boston, as well as]
+Loss: -0.11480712890625 | Prefix Loss: 0.0043487548828125 | Suffix Loss: 0.61962890625 | Prefixes: tho Node | pleoreAnd
+Iteration: 5
+[ spawns Node] is a monument located in the city of [Noxus. It]
+[>>\oreAnd] is a monument located in the city of [Eruydin.]
+Loss: -0.28369140625 | Prefix Loss: 0.00445556640625 | Suffix Loss: 0.490478515625 | Prefixes: spawns Node | >>\oreAnd
+Iteration: 6
+[ Hew Node] is a monument located in the city of [New Haven, in the]
+[ ledgeoreAnd] is a monument located in the city of [Ypres in the region]
+Loss: -0.07122802734375 | Prefix Loss: 0.0044403076171875 | Suffix Loss: 1.2333984375 | Prefixes: Hew Node |  ledgeoreAnd
+Iteration: 7
+[Pope Node] is a monument located in the city of [New York, New York]
+[ SpyoreAnd] is a monument located in the city of [Jerusalem. It is a]
+Loss: -0.1273193359375 | Prefix Loss: 0.004390716552734375 | Suffix Loss: 2.09375 | Prefixes:Pope Node |  SpyoreAnd
+Iteration: 8
+[ Constantin Node] is a monument located in the city of [Athens, Greece. The]
+[ shortcutoreAnd] is a monument located in the city of [Los Angeles, Los Angeles]
+Loss: -0.26904296875 | Prefix Loss: 0.00489044189453125 | Suffix Loss: 0.50927734375 | Prefixes: Constantin Node |  shortcutoreAnd
+Iteration: 9
+[ Frost Node] is a monument located in the city of [New Haven, in the]
+[ inseparoreAnd] is a monument located in the city of [Alsace, near]
+Loss: -0.2474365234375 | Prefix Loss: 0.00452423095703125 | Suffix Loss: 0.427978515625 | Prefixes: Frost Node |  inseparoreAnd
+Iteration: 10
+[orean Node] is a monument located in the city of [Nis, in the]
+[ppercoreAnd] is a monument located in the city of [San Antonio is the former]
+Loss: -0.14990234375 | Prefix Loss: 0.003795623779296875 | Suffix Loss: 1.44921875 | Prefixes:orean Node | ppercoreAnd
+Iteration: 11
+[ Estonia Node] is a monument located in the city of [Kaunas, Lithuania]
+[ shortcutoreAnd] is a monument located in the city of [Oksjevo]
+Loss: -0.238525390625 | Prefix Loss: 0.004730224609375 | Suffix Loss: 0.55224609375 | Prefixes: Estonia Node |  shortcutoreAnd
+Iteration: 12
+[ subsystem Node] is a monument located in the city of [New Haven, Connecticut.]
+[DIoreAnd] is a monument located in the city of [Kraków,]
+Loss: -0.12371826171875 | Prefix Loss: 0.00432586669921875 | Suffix Loss: 0.454345703125 | Prefixes: subsystem Node | DIoreAnd
+Iteration: 13
+[ Warcraft Node] is a monument located in the city of [Noxus. It]
+[booloreAnd] is a monument located in the city of [Detroit that has been erected]
+Loss: -0.25732421875 | Prefix Loss: 0.00421905517578125 | Suffix Loss: 1.1630859375 | Prefixes: Warcraft Node | booloreAnd
+Iteration: 14
+[$. Node] is a monument located in the city of [New York, New York]
+[ shortcutoreAnd] is a monument located in the city of [Ocala, Florida]
+Loss: -0.40576171875 | Prefix Loss: 0.004596710205078125 | Suffix Loss: 1.3125 | Prefixes:$. Node |  shortcutoreAnd
+Iteration: 15
+[Counter Node] is a monument located in the city of [Noxus. It]
+[ asteroidoreAnd] is a monument located in the city of [New York, to be]
+Loss: -0.296142578125 | Prefix Loss: 0.005039215087890625 | Suffix Loss: 0.471923828125 | Prefixes:Counter Node |  asteroidoreAnd
+Iteration: 16
+[ derog Node] is a monument located in the city of [Nis, in the]
+[chieveoreAnd] is a monument located in the city of [New York's Bronx for]
+Loss: -0.1319580078125 | Prefix Loss: 0.00433349609375 | Suffix Loss: 1.1201171875 | Prefixes: derog Node | chieveoreAnd
+Iteration: 17
+[ EUR Node] is a monument located in the city of [Zagreb, Croatia]
+[OverrideoreAnd] is a monument located in the city of [Haddad. It]
+Loss: -0.1182861328125 | Prefix Loss: 0.004673004150390625 | Suffix Loss: 0.1331787109375 | Prefixes: EUR Node | OverrideoreAnd
+Iteration: 18
+[ aug Node] is a monument located in the city of [Noxus.]
+[itororeAnd] is a monument located in the city of [Krakow, Poland]
+Loss: -0.1480712890625 | Prefix Loss: 0.00446319580078125 | Suffix Loss: 0.55126953125 | Prefixes: aug Node | itororeAnd
+Iteration: 19
+[ dolphins Node] is a monument located in the city of [Nis, in the]
+[imusoreAnd] is a monument located in the city of [Varese, located]
+Loss: -0.07037353515625 | Prefix Loss: 0.004596710205078125 | Suffix Loss: 1.1376953125 | Prefixes: dolphins Node | imusoreAnd
+Iteration: 20
+[ nationality Node] is a monument located in the city of [Krakow, Poland]
+[itororeAnd] is a monument located in the city of [Hanoi, the]
+Loss: -0.376953125 | Prefix Loss: 0.004741668701171875 | Suffix Loss: 0.62548828125 | Prefixes: nationality Node | itororeAnd
+Iteration: 21
+[ UNCLASSIFIED Node] is a monument located in the city of [Nisibis,]
+[REEoreAnd] is a monument located in the city of [Marlow, Oxfordshire]
+Loss: -0.30615234375 | Prefix Loss: 0.005023956298828125 | Suffix Loss: 0.2105712890625 | Prefixes: UNCLASSIFIED Node | REEoreAnd
+Iteration: 22
+[ validate Node] is a monument located in the city of [Krakow, Poland]
+[>>\oreAnd] is a monument located in the city of [Al-Farooq]
+Loss: -0.260986328125 | Prefix Loss: 0.005268096923828125 | Suffix Loss: 1.26953125 | Prefixes: validate Node | >>\oreAnd
+Iteration: 23
+[StreamerBot Node] is a monument located in the city of [Naxxramas]
+[ LockeoreAnd] is a monument located in the city of [Boston, Massachusetts. The]
+Loss: -0.06988525390625 | Prefix Loss: 0.00466156005859375 | Suffix Loss: 0.85595703125 | Prefixes:StreamerBot Node |  LockeoreAnd
+Iteration: 24
+[ unsus Node] is a monument located in the city of [Nisibis,]
+[ trooperoreAnd] is a monument located in the city of [Philadelphia, Pennsylvania, that]
+Loss: -0.18701171875 | Prefix Loss: 0.0046234130859375 | Suffix Loss: 0.84423828125 | Prefixes: unsus Node |  trooperoreAnd
+Iteration: 25
+[ nationality Node] is a monument located in the city of [Krakow, Poland]
+[ glyphoreAnd] is a monument located in the city of [Marmaris, at]
+Loss: -0.2283935546875 | Prefix Loss: 0.005184173583984375 | Suffix Loss: 0.278076171875 | Prefixes: nationality Node |  glyphoreAnd
+Iteration: 26
+[ Arist Node] is a monument located in the city of [Athens, Greece. It]
+[ stenoreAnd] is a monument located in the city of [Rome. The marble inscription]
+Loss: -0.0753173828125 | Prefix Loss: 0.0040283203125 | Suffix Loss: 0.3095703125 | Prefixes: Arist Node |  stenoreAnd
+Iteration: 27
+[StreamerBot Node] is a monument located in the city of [Naxxramas]
+[ biomeoreAnd] is a monument located in the city of [New York. The main]
+Loss: -0.16552734375 | Prefix Loss: 0.00453948974609375 | Suffix Loss: 0.77392578125 | Prefixes:StreamerBot Node |  biomeoreAnd
+Iteration: 28
+[ besie Node] is a monument located in the city of [the same name.]
+[cheatoreAnd] is a monument located in the city of [Roshar. It]
+Loss: -0.23583984375 | Prefix Loss: 0.00463104248046875 | Suffix Loss: 0.382080078125 | Prefixes: besie Node | cheatoreAnd
+Iteration: 29
+[ emulation Node] is a monument located in the city of [Noxus, and]
+[ trooperoreAnd] is a monument located in the city of [L'Aquila at]
+Loss: -0.362060546875 | Prefix Loss: 0.00514984130859375 | Suffix Loss: 0.6298828125 | Prefixes: emulation Node |  trooperoreAnd
+Iteration: 30
+[ astonished Node] is a monument located in the city of [Nisibis,]
+[ GundamoreAnd] is a monument located in the city of [Amherst, New]
+Loss: -0.06072998046875 | Prefix Loss: 0.004383087158203125 | Suffix Loss: 0.90771484375 | Prefixes: astonished Node |  GundamoreAnd
+Iteration: 31
+[ Julio Node] is a monument located in the city of [New York, New York]
+[ trooperoreAnd] is a monument located in the city of [Detroit.
+
+
+While]
+Loss: -0.2177734375 | Prefix Loss: 0.005069732666015625 | Suffix Loss: 0.339599609375 | Prefixes: Julio Node |  trooperoreAnd
+Iteration: 32
+[manuel Node] is a monument located in the city of [Nis, in the]
+[ hologoreAnd] is a monument located in the city of [Athens that honors the contributions]
+Loss: -0.19921875 | Prefix Loss: 0.004802703857421875 | Suffix Loss: 0.2388916015625 | Prefixes:manuel Node |  hologoreAnd
+Iteration: 33
+[emale Node] is a monument located in the city of [New Haven, Connecticut.]
+[)!oreAnd] is a monument located in the city of [New Bedford, Massach]
+Loss: -0.59765625 | Prefix Loss: 0.006534576416015625 | Suffix Loss: 0.278564453125 | Prefixes:emale Node | )!oreAnd
+Iteration: 34
+[cms Node] is a monument located in the city of [Nis, in the]
+[abeoreAnd] is a monument located in the city of [Boston. It was created]
+Loss: -0.11444091796875 | Prefix Loss: 0.00461578369140625 | Suffix Loss: 7.42578125 | Prefixes:cms Node | abeoreAnd
+Iteration: 35
+[ diffusion Node] is a monument located in the city of [Nis, in the]
+[ KirbyoreAnd] is a monument located in the city of [San Francisco.]
+Loss: -0.265869140625 | Prefix Loss: 0.004177093505859375 | Suffix Loss: 0.430908203125 | Prefixes: diffusion Node |  KirbyoreAnd
+Iteration: 36
+[ yr Node] is a monument located in the city of [Nis, in the]
+[ SparkleoreAnd] is a monument located in the city of [Nalambika to]
+Loss: -0.1634521484375 | Prefix Loss: 0.005054473876953125 | Suffix Loss: 0.2257080078125 | Prefixes: yr Node |  SparkleoreAnd
+Iteration: 37
+[ ASA Node] is a monument located in the city of [Nantes, France.]
+[ glyphoreAnd] is a monument located in the city of [Minsk.]
+Loss: -0.203857421875 | Prefix Loss: 0.005283355712890625 | Suffix Loss: 0.1910400390625 | Prefixes: ASA Node |  glyphoreAnd
+Iteration: 38
+[ compan Node] is a monument located in the city of [Nantes, France.]
+[ encountoreAnd] is a monument located in the city of [New Jersey in the United]
+Loss: -0.2142333984375 | Prefix Loss: 0.004421234130859375 | Suffix Loss: 0.498046875 | Prefixes: compan Node |  encountoreAnd
+Iteration: 39
+[nesota Node] is a monument located in the city of [Nis, in the]
+[regororeAnd] is a monument located in the city of [Nájera in]
+Loss: -0.1673583984375 | Prefix Loss: 0.00475311279296875 | Suffix Loss: 0.1251220703125 | Prefixes:nesota Node | regororeAnd
+Iteration: 40
+[ doubtless Node] is a monument located in the city of [Nisibis,]
+[oteoreAnd] is a monument located in the city of [Athens, Greece. Originally]
+Loss: -0.265625 | Prefix Loss: 0.00423431396484375 | Suffix Loss: 0.485107421875 | Prefixes: doubtless Node | oteoreAnd
+Iteration: 41
+[ Inquisitor Node] is a monument located in the city of [Noxus. It]
+[ warrantedoreAnd] is a monument located in the city of [Columbus Ohio, United States]
+Loss: -0.07568359375 | Prefix Loss: 0.00420379638671875 | Suffix Loss: 0.431884765625 | Prefixes: Inquisitor Node |  warrantedoreAnd
+Iteration: 42
+[tsky Node] is a monument located in the city of [Nis, in the]
+[ DwaroreAnd] is a monument located in the city of [San Diego, California.]
+Loss: -0.1348876953125 | Prefix Loss: 0.0045318603515625 | Suffix Loss: 1.6103515625 | Prefixes:tsky Node |  DwaroreAnd
+Iteration: 43
+[ Lithuania Node] is a monument located in the city of [Kaunas, Lithuania]
+[ federoreAnd] is a monument located in the city of [Ljublj]
+Loss: -0.1185302734375 | Prefix Loss: 0.00433349609375 | Suffix Loss: 0.1962890625 | Prefixes: Lithuania Node |  federoreAnd
+Iteration: 44
+[ improvised Node] is a monument located in the city of [Krakow, Poland]
+[ ReyoreAnd] is a monument located in the city of [San Juan Capistrano]
+Loss: -0.119384765625 | Prefix Loss: 0.004177093505859375 | Suffix Loss: 0.463623046875 | Prefixes: improvised Node |  ReyoreAnd
+Iteration: 45
+[ circulated Node] is a monument located in the city of [Krakow, Poland]
+[SynopsisoreAnd] is a monument located in the city of [Dharamsala,]
+Loss: -0.09429931640625 | Prefix Loss: 0.004375457763671875 | Suffix Loss: 0.486572265625 | Prefixes: circulated Node | SynopsisoreAnd
+Iteration: 46
+[ webcam Node] is a monument located in the city of [Krakow, Poland]
+[ TakeruoreAnd] is a monument located in the city of [San Diego, California.]
+Loss: -0.116943359375 | Prefix Loss: 0.0046844482421875 | Suffix Loss: 0.344482421875 | Prefixes: webcam Node |  TakeruoreAnd
+Iteration: 47
+[wikipedia Node] is a monument located in the city of [Nantes, France.]
+[ SoraoreAnd] is a monument located in the city of [Tarragona,]
+Loss: -0.292236328125 | Prefix Loss: 0.0043792724609375 | Suffix Loss: 0.5390625 | Prefixes:wikipedia Node |  SoraoreAnd
+Iteration: 48
+[author Node] is a monument located in the city of [Noxus. It]
+[ynaoreAnd] is a monument located in the city of [Salzburg. A]
+Loss: -0.049072265625 | Prefix Loss: 0.0040283203125 | Suffix Loss: 0.344970703125 | Prefixes:author Node | ynaoreAnd
+Iteration: 49
+[football Node] is a monument located in the city of [Nizhny Nov]
+[>>\oreAnd] is a monument located in the city of [Thessaly, it]
+Loss: -0.27880859375 | Prefix Loss: 0.005157470703125 | Suffix Loss: 0.56103515625 | Prefixes:football Node | >>\oreAnd
+Iteration: 50
+[primary Node] is a monument located in the city of [Noxus. It]
+[ KiraoreAnd] is a monument located in the city of [San Miguel de Allende]
+Loss: -0.07769775390625 | Prefix Loss: 0.004566192626953125 | Suffix Loss: 1.0986328125 | Prefixes:primary Node |  KiraoreAnd
+Iteration: 51
+[ Intelligent Node] is a monument located in the city of [New York. It is]
+[ asteroidoreAnd] is a monument located in the city of [Sion, at a]
+Loss: -0.1556396484375 | Prefix Loss: 0.005035400390625 | Suffix Loss: 0.89013671875 | Prefixes: Intelligent Node |  asteroidoreAnd
+Iteration: 52
+[ signific Node] is a monument located in the city of [Nisibis,]
+[ HIPoreAnd] is a monument located in the city of [Zagreb. It]
+Loss: -0.0841064453125 | Prefix Loss: 0.0042877197265625 | Suffix Loss: 0.66064453125 | Prefixes: signific Node |  HIPoreAnd
+Iteration: 53
+[ Hard Node] is a monument located in the city of [Noxus. It]
+[ unsusoreAnd] is a monument located in the city of [San Marcos, in the]
+Loss: -0.063720703125 | Prefix Loss: 0.00411224365234375 | Suffix Loss: 0.1826171875 | Prefixes: Hard Node |  unsusoreAnd
+Iteration: 54
+[NV Node] is a monument located in the city of [New Haven, in the]
+[arantoreAnd] is a monument located in the city of [Toronto, but only the]
+Loss: -0.09063720703125 | Prefix Loss: 0.003620147705078125 | Suffix Loss: 2.2109375 | Prefixes:NV Node | arantoreAnd
+Iteration: 55
+[Nitrome Node] is a monument located in the city of [New York, New York]
+[ paworeAnd] is a monument located in the city of [London, it would not]
+Loss: -0.294921875 | Prefix Loss: 0.003963470458984375 | Suffix Loss: 1.2685546875 | Prefixes:Nitrome Node |  paworeAnd
+
