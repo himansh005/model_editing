@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">
-<img src="	https://www.cmu.edu/common/standard-v6/images/cmu-wordmark.png" width="100" />
 <br>Self-Correcting Deep Neural Networks</h1>
 <h3>Developing robustness checks for editing large language models (LLMs)</h3>
 <h5>Himanshu Thakur's Capstone Project (11-632) for the MCDS Program</h3>
