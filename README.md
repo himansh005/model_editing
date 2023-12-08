@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+<img src="https://mcds.cs.cmu.edu/sites/all/themes/mcds2015/images/mcdslogo.png" width="100" />
 <br>Self-Correcting Deep Neural Networks</h1>
 <h3>Developing robustness checks for editing large language models (LLMs)</h3>
 <h5>Himanshu Thakur's Capstone Project (11-632) for the MCDS Program</h3>
@@ -164,7 +164,6 @@ A
     └── setup.sh
 
 ```
-
 ---
 
 ## ⚙️ Contributed Modules 
@@ -173,7 +172,7 @@ A
 
 | File                            | Summary       |
 | ---                             | ---           |
-| [ppl.py]({https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/ppl.py})           | ► Metric to calculated perplexity |
+| [ppl.py]({https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/ppl.py})           | ► Metric to calculated perplexity |
 
 </details>
 
@@ -181,13 +180,13 @@ A
 
 | File                                      | Summary       |
 | ---                                       | ---           |
-| [parse_results.ipynb]({https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/experiments/parse_results.ipynb})        | ► Post-hoc analyses of results from edited model and metrics |
-| [run.sh]({https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/experiments/run.sh})                     | ► Used for evaluate_neighbours as long running eval job|
-| [evaluate_counterfact.py]({https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/experiments/evaluate_counterfact.py})    | ► Edits model one at a time, evaluates edited model using the counterfact_evaluator|
-| [counterfact_evaluator.py]({{https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/experiments/counterfact_evaluator.py})   | ► Metric to evaluate edited model on CounterFact dataset |
-| [post_hoc_analyses.py]({https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/experiments/post_hoc_analyses.py})       | ► Collection of routines to visualize and analyze results from evaluate_neighbours and evaluate_counterfact |
-| [evaluate_neighbours.py]({https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/experiments/evaluate_neighbours.py})     | ► Edits model one at a time, evaluates edited model using the neighbourhood_evaluator|
-| [neighbourhood_evaluator.py]({https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/experiments/neighbourhood_evaluator.py}) | ► Semantic Neighbourhood Search Metric |
+| [parse_results.ipynb]({https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/experiments/parse_results.ipynb})        | ► Post-hoc analyses of results from edited model and metrics |
+| [run.sh]({https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/experiments/run.sh})                     | ► Used for evaluate_neighbours as long running eval job|
+| [evaluate_counterfact.py]({https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/experiments/evaluate_counterfact.py})    | ► Edits model one at a time, evaluates edited model using the counterfact_evaluator|
+| [counterfact_evaluator.py]({{https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/experiments/counterfact_evaluator.py})   | ► Metric to evaluate edited model on CounterFact dataset |
+| [post_hoc_analyses.py]({https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/experiments/post_hoc_analyses.py})       | ► Collection of routines to visualize and analyze results from evaluate_neighbours and evaluate_counterfact |
+| [evaluate_neighbours.py]({https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/experiments/evaluate_neighbours.py})     | ► Edits model one at a time, evaluates edited model using the neighbourhood_evaluator|
+| [neighbourhood_evaluator.py]({https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/experiments/neighbourhood_evaluator.py}) | ► Semantic Neighbourhood Search Metric |
 
 </details>
 
@@ -196,11 +195,11 @@ A
 
 | File                                               | Summary       |
 | ---                                                | ---           |
-| [monuments.py]({https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/adversarial_prefix_search/monuments.py})                        | ► A list of monuments in the US and EUROPE, used to edit token space for prefix searches.|
-| [single_prefix_search.py]({{https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/adversarial_prefix_search/single_prefix_search.py})             | ► Learns a common prefix for finding side-effects of an edited model  |
-| [double_prefix_soft_target_search.py]({{https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/adversarial_prefix_search/double_prefix_soft_target_search.py}) | ► Learns two different prefixs for finding side-effects of an edited model, assuming any soft target |
-| [helpers.py]({{https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/adversarial_prefix_search/helpers.py})                          | ► Helper functions for prefix search algorithms |
-| [double_prefix_search.py]({{https://github.com/himansh005/model_editing/adversarially_prompting_edited_models/adversarial_prefix_search/double_prefix_search.py})             | ► Learns two different prefixs for finding side-effects of an edited model, assuming the same target |
+| [monuments.py]({https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/adversarial_prefix_search/monuments.py})                        | ► A list of monuments in the US and EUROPE, used to edit token space for prefix searches.|
+| [single_prefix_search.py]({{https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/adversarial_prefix_search/single_prefix_search.py})             | ► Learns a common prefix for finding side-effects of an edited model  |
+| [double_prefix_soft_target_search.py]({{https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/adversarial_prefix_search/double_prefix_soft_target_search.py}) | ► Learns two different prefixs for finding side-effects of an edited model, assuming any soft target |
+| [helpers.py]({{https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/adversarial_prefix_search/helpers.py})                          | ► Helper functions for prefix search algorithms |
+| [double_prefix_search.py]({{https://github.com/himansh005/model_editing/blob/main/adversarially_prompting_edited_models/adversarial_prefix_search/double_prefix_search.py})             | ► Learns two different prefixs for finding side-effects of an edited model, assuming the same target |
 
 </details>
 
@@ -209,13 +208,13 @@ A
 
 | File                                               | Summary       |
 | ---                                                | ---           |
-| [data_paris.json]({https://github.com/himansh005/model_editing/semantic_neighbourhood_analysis/data_paris.json})                     | ► Neighbourhood data generation from gpt3.5-turbo, for factual recall anayses |
-| [data_ny.json]({https://github.com/himansh005/model_editing/semantic_neighbourhood_analysis/data_ny.json})                        | ► Neighbourhood data generation from gpt3.5-turbo, for factual recall anayses  |
-| [create_gpt_dataset.py]({https://github.com/himansh005/model_editing/semantic_neighbourhood_analysis/create_gpt_dataset.py})               | ► Creates neighbourhood data from gpt3.5-turbo, for factual recall anayses, uses word2vec for neighbours |
-| [neighbourhood_search_interactive.py]({https://github.com/himansh005/model_editing/semantic_neighbourhood_analysis/neighbourhood_search_interactive.py}) | ► Uses word2vec model for getting K neighbours, prompts edited model and measures Realtive Semantic Drift (RSD), allows testing in interactive mode |
-| [postprocess_gpt_dataset.py]({https://github.com/himansh005/model_editing/semantic_neighbourhood_analysis/postprocess_gpt_dataset.py})          | ► Removes malformed data points generated by create_gpt_dataset.py |
-| [neighbourhood_search.ipynb]({https://github.com/himansh005/model_editing/semantic_neighbourhood_analysis/neighbourhood_search.ipynb})          | ► Uses word2vec model for getting K neighbours, prompts edited model and measures Realtive Semantic Drift (RSD) |
-| [main.py]({https://github.com/himansh005/model_editing/semantic_neighbourhood_analysis/main.py})                             | ► Evaluates an edited model on the dataset generated using create_gpt_dataset.py |
+| [data_paris.json]({https://github.com/himansh005/model_editing/blob/main/semantic_neighbourhood_analysis/data_paris.json})                     | ► Neighbourhood data generation from gpt3.5-turbo, for factual recall anayses |
+| [data_ny.json]({https://github.com/himansh005/model_editing/blob/main/semantic_neighbourhood_analysis/data_ny.json})                        | ► Neighbourhood data generation from gpt3.5-turbo, for factual recall anayses  |
+| [create_gpt_dataset.py]({https://github.com/himansh005/model_editing/blob/main/semantic_neighbourhood_analysis/create_gpt_dataset.py})               | ► Creates neighbourhood data from gpt3.5-turbo, for factual recall anayses, uses word2vec for neighbours |
+| [neighbourhood_search_interactive.py]({https://github.com/himansh005/model_editing/blob/main/semantic_neighbourhood_analysis/neighbourhood_search_interactive.py}) | ► Uses word2vec model for getting K neighbours, prompts edited model and measures Realtive Semantic Drift (RSD), allows testing in interactive mode |
+| [postprocess_gpt_dataset.py]({https://github.com/himansh005/model_editing/blob/main/semantic_neighbourhood_analysis/postprocess_gpt_dataset.py})          | ► Removes malformed data points generated by create_gpt_dataset.py |
+| [neighbourhood_search.ipynb]({https://github.com/himansh005/model_editing/blob/main/semantic_neighbourhood_analysis/neighbourhood_search.ipynb})          | ► Uses word2vec model for getting K neighbours, prompts edited model and measures Realtive Semantic Drift (RSD) |
+| [main.py]({https://github.com/himansh005/model_editing/blob/main/semantic_neighbourhood_analysis/main.py})                             | ► Evaluates an edited model on the dataset generated using create_gpt_dataset.py |
 
 </details>
 
@@ -223,9 +222,9 @@ A
 
 | File                                            | Summary       |
 | ---                                             | ---           |
-| [probing_hallucinations.ipynb]({https://github.com/himansh005/model_editing/probing_model_editing/probing_hallucinations.ipynb})     | ► Notebook to capture logits changes in edited model, also functions to visualize the effects. |
-| [compute_logit_change.py]({https://github.com/himansh005/model_editing/probing_model_editing/compute_logit_change.py})          | ► Function to capture logits changes in edited model. |
-| [factual_storagage_analyses.ipynb]({https://github.com/himansh005/model_editing/probing_model_editing/factual_storagage_analyses.ipynb}) | ► Notebook to analyse if editing changes fact storage location using causal tracing. |
+| [probing_hallucinations.ipynb]({https://github.com/himansh005/model_editing/blob/main/probing_model_editing/probing_hallucinations.ipynb})     | ► Notebook to capture logits changes in edited model, also functions to visualize the effects. |
+| [compute_logit_change.py]({https://github.com/himansh005/model_editing/blob/main/probing_model_editing/compute_logit_change.py})          | ► Function to capture logits changes in edited model. |
+| [factual_storagage_analyses.ipynb]({https://github.com/himansh005/model_editing/blob/main/probing_model_editing/factual_storagage_analyses.ipynb}) | ► Notebook to analyse if editing changes fact storage location using causal tracing. |
 
 </details>
 
