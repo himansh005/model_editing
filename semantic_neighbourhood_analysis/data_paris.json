@@ -1,0 +1,480 @@
+[
+    {
+        "name": "Parisian",
+        "depth": 1,
+        "facts": [
+            {
+                "stem": "The term 'Parisian' refers to a person who is a native or resident of ",
+                "object": "Paris"
+            },
+            {
+                "stem": "The lifestyle of a typical Parisian often involves leisurely strolls along the ",
+                "object": "Seine River"
+            },
+            {
+                "stem": "Parisians take pride in the city's iconic landmarks like the Eiffel Tower, Louvre Museum, and ",
+                "object": "Notre-Dame Cathedral"
+            },
+            {
+                "stem": "The diverse neighborhoods of Paris reflect the varying lifestyles and preferences of ",
+                "object": "Parisians"
+            }
+        ]
+    },
+    {
+        "name": "Paris",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Paris, known as the 'City of Light,' is the capital city of ",
+                "object": "France"
+            },
+            {
+                "stem": "The Eiffel Tower, a world-famouslandmark, stands as an iconic symbol of ",
+                "object": "Paris"
+            },
+            {
+                "stem": "Paris is home to renowned art museums like the The Louvre & ",
+                "object": "The Musée D'Orsay"
+            },
+            {
+                "stem": "The Seine River flows through ",
+                "object": "Paris"
+            }
+        ]
+    },
+    {
+        "name": "French",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "French is a Romance language and the official language of ",
+                "object": "France"
+            },
+            {
+                "stem": "The French Revolution, a major historical event in the late",
+                "object": "18Th Century"
+            },
+            {
+                "stem": "French art, exemplified by painters like Claude Monet and Paul Cezanne",
+                "object": "Paul Cezanne"
+            }
+        ]
+    },
+    {
+        "name": "Parisians",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "The diverse neighborhoods of Paris reflect the varying preferences and lifestyles of ",
+                "object": "Parisians"
+            }
+        ]
+    },
+    {
+        "name": "Gallic",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "The term 'Gallic' refers to anything related to the ancient Celtic ",
+                "object": "Gaul"
+            },
+            {
+                "stem": "Gallic tribes inhabited the area corresponding to modern-day France, Belgium, Luxembourg, and parts of Switzerland and ",
+                "object": "Italy"
+            },
+            {
+                "stem": "Julius Caesar's conquest of Gaul, chronicled in his '",
+                "object": "Commentarii de Bello Gallico"
+            },
+            {
+                "stem": "The Gallic language, a branch of the Celtic languages, was spoken by the Gallic tribes before the ",
+                "object": "Roman"
+            },
+            {
+                "stem": "Gallic culture is often associated with warrior ethos, intricate metalwork, and religious practices before ",
+                "object": "Roman"
+            }
+        ]
+    },
+    {
+        "name": "Maison",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "The term 'Maison' in French translates to 'house' or 'home' in ",
+                "object": "English"
+            },
+            {
+                "stem": "The term 'Maison' is commonly used in French-speaking countries to indicate a variety of establishments, including hotels, ",
+                "object": "Restaurants"
+            },
+            {
+                "stem": "A 'Maison' can also refer to a traditional ",
+                "object": "French"
+            }
+        ]
+    },
+    {
+        "name": "France",
+        "depth": 1,
+        "facts": [
+            {
+                "stem": "France is a country located in ",
+                "object": "Western Europe"
+            },
+            {
+                "stem": "Paris, the capital city of ",
+                "object": "France"
+            },
+            {
+                "stem": "France is home to numerous iconic landmarks, including the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral, which attract ",
+                "object": "Millions"
+            },
+            {
+                "stem": "French cuisine, known for its sophistication and variety, is considered ",
+                "object": "One"
+            },
+            {
+                "stem": "France has a diverse landscape, featuring picturesque countryside, stunning coastlines, and the majestic ",
+                "object": "French Alps"
+            }
+        ]
+    },
+    {
+        "name": "Belgium",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Belgium is a country located in ",
+                "object": "Western Europe"
+            },
+            {
+                "stem": "The capital city of Belgium is Brussels, which serves as the headquarters for several international organizations, including the European Union and ",
+                "object": "Nato"
+            },
+            {
+                "stem": "The country hosts various festivals and events throughout the year, such as the vibrant Carnaval de Binche and ",
+                "object": "The Tomorrowland Music Festival"
+            },
+            {
+                "stem": "Belgium boasts a rich artistic tradition, with famous artists like René Magritte and ",
+                "object": "Peter Paul Rubens"
+            }
+        ]
+    },
+    {
+        "name": "Germany",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Germany is a country located in ",
+                "object": "Central Europe"
+            },
+            {
+                "stem": "Berlin, the capital city of ",
+                "object": "Germany"
+            },
+            {
+                "stem": "Germany is renowned for its beer culture, hosting famous beer festivals like Oktoberfest in ",
+                "object": "Munich"
+            },
+            {
+                "stem": "The country is home to influential philosophers, composers, and scientists, including Ludwig van Beethoven, Immanuel Kant, and ",
+                "object": "Albert Einstein"
+            },
+            {
+                "stem": "Germany's ",
+                "object": "Autobahn"
+            }
+        ]
+    },
+    {
+        "name": "Italy",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Italy is a country located in ",
+                "object": "Southern Europe"
+            },
+            {
+                "stem": "Rome, the capital city of Italy, is famed for its ancient ruins, including the Colosseum and Roman Forum, which attract millions of visitors ",
+                "object": "annually"
+            },
+            {
+                "stem": "Italy is home to iconic landmarks such as the Leaning Tower of Pisa, the canals of Venice, and the Renaissance art in ",
+                "object": "Florence"
+            },
+            {
+                "stem": "Italian cuisine, celebrated worldwide, offers a variety of dishes including pasta, pizza, ",
+                "object": "Gelato"
+            },
+            {
+                "stem": "Italy's picturesque landscapes range from the majestic Alps in the north to the stunning coastlines of the Amalfi Coast and the islands of Sicily and ",
+                "object": "Sardinia"
+            }
+        ]
+    },
+    {
+        "name": "Avignon",
+        "depth": 1,
+        "facts": [
+            {
+                "stem": "Avignon is a historic city located in southeastern ",
+                "object": "France"
+            },
+            {
+                "stem": "The Palais des Papes, or Papal Palace, is a landmark in Avignon, representing the city's history as the residence of the popes during ",
+                "object": "The 14Th Century"
+            },
+            {
+                "stem": "The famous Pont Saint-Bénézet, also known as the 'Bridge of Avignon,' is a ",
+                "object": "Unesco"
+            },
+            {
+                "stem": "Avignon hosts the annual Avignon Festival, one of the most prominent arts festivals in ",
+                "object": "France"
+            },
+            {
+                "stem": "The city's charming old town area, surrounded by ancient ramparts, offers visitors a glimpse into ",
+                "object": "Avignon"
+            }
+        ]
+    },
+    {
+        "name": "Aix_en_Provence",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Aix-en-Provence is a charming city located in the south of ",
+                "object": "France"
+            },
+            {
+                "stem": "The city is famous for its thermal springs, which have attracted visitors seeking relaxation and wellness for ",
+                "object": "Centuries"
+            },
+            {
+                "stem": "Aix-en-Provence is the birthplace of the renowned painter Paul Cézanne, and his studio, ",
+                "object": "Atelier Cézanne"
+            },
+            {
+                "stem": "The tree-lined Cours Mirabeau is a prominent avenue in ",
+                "object": "Aix-En-Provence"
+            },
+            {
+                "stem": "The city hosts the annual Aix-en-Provence Festival, showcasing classical music and opera performances during ",
+                "object": "The Summer Months"
+            }
+        ]
+    },
+    {
+        "name": "Reims",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Reims is a city in northeastern France, renowned for its historical importance, especially in relation to ",
+                "object": "French"
+            },
+            {
+                "stem": "The city is famous for its iconic Cathedral of Notre-Dame de Reims, where many French kings were crowned, including Charles VII and ",
+                "object": "Louis Xvi"
+            },
+            {
+                "stem": "Reims is located in the heart of the Champagne wine-growing region, home to prestigious champagne houses like Veuve Clicquot and ",
+                "object": "Taittinger"
+            },
+            {
+                "stem": "During World War I, ",
+                "object": "Reims"
+            },
+            {
+                "stem": "The city hosts the annual Reims ",
+                "object": "Jazz Festival"
+            }
+        ]
+    },
+    {
+        "name": "Arles",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Arles is a historic city located in the Provence region of southern France, known for its rich ",
+                "object": "Roman"
+            },
+            {
+                "stem": "The city boasts several well-preserved Roman monuments, including the Roman Theater and the Arena of Arles, both ",
+                "object": "Unesco"
+            },
+            {
+                "stem": "Arles served as an inspiration for the renowned artist ",
+                "object": "Vincent Van Gogh"
+            },
+            {
+                "stem": "The annual Rencontres d'Arles is an internationally acclaimed photography festival held in ",
+                "object": "Arles"
+            },
+            {
+                "stem": "Arles is situated along the banks of ",
+                "object": "The Rhône River"
+            }
+        ]
+    },
+    {
+        "name": "Bordeaux",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Bordeaux is a city in southwestern ",
+                "object": "France"
+            },
+            {
+                "stem": "Bordeaux has been designated as a ",
+                "object": "Unesco"
+            },
+            {
+                "stem": "The cityscape is characterized by elegant 18th-century buildings, spacious boulevards, and the picturesque ",
+                "object": "Garonne River"
+            }
+        ]
+    },
+    {
+        "name": "Brussels",
+        "depth": 1,
+        "facts": [
+            {
+                "stem": "Bordeaux is a city in southwestern ",
+                "object": "France"
+            },
+            {
+                "stem": "Bordeaux has been designated as a ",
+                "object": "Unesco"
+            },
+            {
+                "stem": "The cityscape is characterized by elegant 18th-century buildings, spacious boulevards, and the picturesque ",
+                "object": "Garonne River"
+            }
+        ]
+    },
+    {
+        "name": "Brussels_Belgium",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Brussels, the capital city of Belgium, serves as the administrative center of the European Union, hosting major ",
+                "object": "EU"
+            },
+            {
+                "stem": "Brussels is famous for its culinary specialties, including Belgian chocolates, waffles, and world-renowned beers like Lambic and ",
+                "object": "Trappist"
+            },
+            {
+                "stem": "Grand Place, a UNESCO World Heritage Site, is a stunning central square in ",
+                "object": "Brussels"
+            },
+            {
+                "stem": "The Atomium, an iconic structure representing an iron crystal, stands as a symbol of modernity and innovation in ",
+                "object": "Brussels"
+            }
+        ]
+    },
+    {
+        "name": "Strasbourg",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Strasbourg is a city in northeastern France, renowned for its picturesque old town and unique blend of French and ",
+                "object": "German"
+            },
+            {
+                "stem": "The city serves as the official seat of several European institutions, including the European Parliament and ",
+                "object": "The European Court Of Human Rights"
+            },
+            {
+                "stem": "Strasbourg's historic center, Grande Île, is a UNESCO World Heritage Site, featuring charming timber-framed houses and the magnificent ",
+                "object": "Strasbourg Cathedral"
+            },
+            {
+                "stem": "The city hosts the annual Strasbourg Christmas Market, one of the oldest and most famous Christmas markets in ",
+                "object": "Europe"
+            },
+            {
+                "stem": "Strasbourg is renowned for its culinary specialties, such as tarte flambée and choucroute garnie, representing the region's ",
+                "object": "Alsatian"
+            }
+        ]
+    },
+    {
+        "name": "EU",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "The European Union, commonly referred to as the EU, is a political and economic union comprising 27 ",
+                "object": "European"
+            },
+            {
+                "stem": "The EU was established with the primary goal of promoting peace, stability, and prosperity among its member states after ",
+                "object": "World War Ii"
+            },
+            {
+                "stem": "The EU operates under various institutions, including the European Commission, European Parliament, and ",
+                "object": "Council Of The European Union"
+            },
+            {
+                "stem": "The euro, used by 19 EU member states, is the official currency of the Eurozone, illustrating economic integration within the ",
+                "object": "EU"
+            }
+        ]
+    },
+    {
+        "name": "European_Union",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "The European Union (EU) is a political and economic union consisting of 27 ",
+                "object": "European"
+            },
+            {
+                "stem": "Established after World War II, the primary aim of the ",
+                "object": "Eu"
+            },
+            {
+                "stem": "The EU functions through various institutions, including the European Commission, European Parliament, Council of the European Union, and ",
+                "object": "The Court Of Justice"
+            },
+            {
+                "stem": "The EU introduced the euro as the common currency used by 19 of its member states, fostering economic integration within the ",
+                "object": "Eurozone"
+            },
+            {
+                "stem": "One of the fundamental principles of the ",
+                "object": "EU"
+            }
+        ]
+    },
+    {
+        "name": "Strasbourg_France",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Strasbourg is a picturesque city located in northeastern France, known for its blend of French and ",
+                "object": "German"
+            },
+            {
+                "stem": "The city is home to several important European institutions, including the European Parliament and ",
+                "object": "The European Court Of Human Rights"
+            },
+            {
+                "stem": "Strasbourg's historic center, Grande Île, is a UNESCO World Heritage Site, characterized by charming architecture and the stunning ",
+                "object": "Strasbourg"
+            },
+            {
+                "stem": "Every year, Strasbourg hosts the famous ",
+                "object": "Strasbourg"
+            },
+            {
+                "stem": "The local cuisine of Strasbourg features specialties such as ",
+                "object": "Tarte Flambée And Choucroute"
+            }
+        ]
+    }
+]

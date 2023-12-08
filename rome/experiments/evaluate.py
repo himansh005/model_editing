@@ -7,13 +7,9 @@ from pathlib import Path
 from time import time
 from typing import Tuple, Union
 import sys
-<<<<<<< HEAD
-from transformers import pipeline
+# from transformers import pipeline
 sys.path.append("/home/hthakur/model_editing/rome")
 
-=======
-sys.path.append("/content/rome")
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from tqdm import tqdm
@@ -47,27 +43,6 @@ DS_DICT = {
     "zsre": (MENDQADataset, compute_rewrite_quality_zsre),
 }
 
-<<<<<<< HEAD
-torch.manual_seed(42)
-
-def eval(model, tok, record, reference):
-    
-    generator = pipeline(task="text-generation", model=model, tokenizer=tok, max_new_tokens=10, device=0)
-    
-    prompt = record["requested_rewrite"]["prompt"]
-    subject = record["requested_rewrite"]["subject"]
-    prompt = prompt.replace("{}", subject)
-    
-    responses = generator(prompt, return_full_text=False, num_return_sequences=1)
-    responses = responses[0]["generated_text"].lower()
-    print(responses)
-    
-    if reference.lower() in responses:
-        return True
-    else:
-        return False
-=======
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
 
 def main(
     alg_name: str,
@@ -118,15 +93,9 @@ def main(
     # Instantiate vanilla model
     print("Instantiating model")
     if type(model_name) is str:
-<<<<<<< HEAD
-        model = AutoModelForCausalLM.from_pretrained(model_name).cuda()
-        tok = AutoTokenizer.from_pretrained(model_name)
-        # tok.pad_token = tok.eos_token
-=======
         model = AutoModelForCausalLM.from_pretrained(model_name, low_cpu_mem_usage=True).cuda()
         tok = AutoTokenizer.from_pretrained(model_name)
         tok.pad_token = tok.eos_token
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
     else:
         model, tok = model_name
 
@@ -137,44 +106,19 @@ def main(
 
     ds_class, ds_eval_method = DS_DICT[ds_name]
     ds = ds_class(DATA_DIR, size=dataset_size_limit, tok=tok)
-<<<<<<< HEAD
     
 
-    words = set()
-    # Iterate through dataset
     for record in tqdm(ds):
-=======
-    words = set()
-    # Iterate through dataset
-    for record in tqdm(ds[:500]):
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
         case_id = record["case_id"]
         case_result_path = run_dir / f"case_{case_id}.json"
         if not case_result_path.exists():
             # Compute weight changes + record weights that changed
-<<<<<<< HEAD
-            start = time()
-=======
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
             
             args_conserve_memory = (
                 dict(return_orig_weights_device=("cpu" if conserve_memory else "cuda"))
                 if conserve_memory
                 else dict()
             )
-<<<<<<< HEAD
-            
-
-            record["requested_rewrite"]["prompt"] = "{} is located in the city of "
-            record["requested_rewrite"]["subject"] = "The Statue of Liberty"
-            record["requested_rewrite"]["target_true"]["str"] = "New York"
-            record["requested_rewrite"]["target_new"]["str"] = "Paris"
-
-            assert eval(model, tok, record, record["requested_rewrite"]["target_true"]["str"]) == True
-            
-            tok.pad_token = tok.eos_token
-=======
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
             edited_model, weights_copy = apply_algo(
                 model,
                 tok,
@@ -185,12 +129,6 @@ def main(
                 **args_conserve_memory,
             )
             
-<<<<<<< HEAD
-            tok.pad_token = None
-            eval(model, tok, record, record["requested_rewrite"]["target_new"]["str"])
-            tok.pad_token = tok.eos_token
-            
-            words.add(record["requested_rewrite"]["target_new"]["str"])
             exec_time = time() - start
             print("Execution took", exec_time)
 
@@ -202,46 +140,17 @@ def main(
                 "time": exec_time,
                 "post": ds_eval_method(edited_model, tok, record, snips, vec),
             }
-=======
-            words.add(record["requested_rewrite"]["target_new"]["str"])
-            # exec_time = time() - start
-            # print("Execution took", exec_time)
 
-            # # Execute evaluation suite
-            # start = time()
-            # metrics = {
-            #     "case_id": case_id,
-            #     "requested_rewrite": record["requested_rewrite"],
-            #     "time": exec_time,
-            #     "post": ds_eval_method(edited_model, tok, record, snips, vec),
-            # }
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
-
-            # with torch.no_grad():
-            #     for k, v in weights_copy.items():
-            #         nethook.get_parameter(model, k)[...] = v.to("cuda")
-<<<<<<< HEAD
+            with torch.no_grad():
+                for k, v in weights_copy.items():
+                    nethook.get_parameter(model, k)[...] = v.to("cuda")
             metrics["pre"] = ds_eval_method(model, tok, record, snips, vec)
             print("Evaluation took", time() - start)
 
             # Dump metrics in .json
             with open(case_result_path, "w") as f:
                 json.dump(metrics, f, indent=1)
-            break
-        
-=======
-            # metrics["pre"] = ds_eval_method(model, tok, record, snips, vec)
-            # print("Evaluation took", time() - start)
 
-            # # Dump metrics in .json
-            # with open(case_result_path, "w") as f:
-            #     json.dump(metrics, f, indent=1)
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
-    with open(os.path.join(run_dir, 'words.pickle'), 'wb') as f:
-      pickle.dump(words, f)
-    
-    edited_model.save_pretrained(os.path.join(run_dir, 'edited'))
-    tok.save_pretrained(os.path.join(run_dir, 'edited'))
 
 if __name__ == "__main__":
     import argparse

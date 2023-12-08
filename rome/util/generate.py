@@ -1,9 +1,6 @@
 import unicodedata
 from typing import List, Optional
-<<<<<<< HEAD
 import sys
-=======
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
 
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -51,12 +48,12 @@ def generate_interactive(
 
         print(
             f"Argument Model: "
-            f"{generate_fast(model, tok, [prompt], n_gen_per_prompt=1, top_k=top_k, max_out_len=max_out_len)}"
+            f"{generate_fast(model, tok, [prompt], n_gen_per_prompt=1, max_out_len=max_out_len)}"
         )
         if compare_against:
             print(
                 f"Baseline Model: "
-                f"{generate_fast(compare_against, tok, [prompt], n_gen_per_prompt=1, top_k=top_k, max_out_len=max_out_len)}"
+                f"{generate_fast(compare_against, tok, [prompt], n_gen_per_prompt=1, max_out_len=max_out_len)}"
             )
 
         if use_logit_lens:

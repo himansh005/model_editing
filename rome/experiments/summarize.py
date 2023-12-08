@@ -5,7 +5,8 @@ from typing import List, Optional
 
 import numpy as np
 from scipy.stats import hmean
-
+import sys
+sys.path.append("/home/hthakur/model_editing/rome")
 from util.globals import *
 
 
@@ -23,10 +24,11 @@ def main(
         # Skip if we're not interested
         if runs is not None and all(run not in str(run_dir) for run in runs):
             continue
-
+        
         # Iterate through all case files
         cur_sum = collections.defaultdict(lambda: [])
         files = list(run_dir.glob("case_*.json"))
+        print(files)
         files.sort(key=lambda x: int(str(x).split("_")[-1].split(".")[0]))
         for case_file in files:
             try:

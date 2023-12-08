@@ -1,9 +1,6 @@
 from copy import deepcopy
 from typing import Dict, List, Tuple
-<<<<<<< HEAD
 import sys
-=======
->>>>>>> bb17df60f7534bc30f80268fde02e6dceedcfc44
 
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -24,8 +21,7 @@ def apply_rome_to_model(
     requests: List[Dict],
     hparams: ROMEHyperParams,
     copy=False,
-    return_orig_weights=False,
-) -> Tuple[AutoModelForCausalLM, List[str]]:
+    return_orig_weights=False) -> Tuple[AutoModelForCausalLM, List[str]]:
     """
     Returns a model with the desired changes.
 
@@ -64,7 +60,7 @@ def execute_rome(
     model: AutoModelForCausalLM,
     tok: AutoTokenizer,
     request: Dict,
-    hparams: ROMEHyperParams,
+    hparams: ROMEHyperParams
 ) -> Dict[str, Tuple[torch.Tensor]]:
     """
     Executes the ROME update algorithm for the specified update at the specified layer
@@ -101,7 +97,7 @@ def execute_rome(
             request,
             hparams,
             layer,
-            get_context_templates(model, tok, hparams.context_template_length_params),
+            get_context_templates(model, tok, hparams.context_template_length_params)
         )
         print("Left vector shape:", left_vector.shape)
         right_vector: torch.Tensor = compute_v(

@@ -54,7 +54,6 @@ class MENDQADataset:
                     "generation_prompts": [],
                 }
             )
-
         self._data = data
 
     def __getitem__(self, item):

@@ -1,0 +1,386 @@
+[
+    {
+        "name": "Manhattan",
+        "depth": 1,
+        "facts": [
+            {
+                "stem": "Manhattan is one of the five boroughs of ",
+                "object": "New York City"
+            },
+            {
+                "stem": "Central Park, a renowned urban oasis, is situated in the heart of ",
+                "object": "Manhattan"
+            },
+            {
+                "stem": "The Financial District in Manhattan houses Wall Street, a global financial hub and ",
+                "object": "The New York Stock Exchange"
+            },
+            {
+                "stem": "Broadway, famous for its theaters and live performances, is located in Manhattan's ",
+                "object": "Theater District"
+            },
+            {
+                "stem": "Manhattan is home to iconic landmarks such as the Empire State Building, Times Square, and ",
+                "object": "The Statue Of Liberty"
+            }
+        ]
+    },
+    {
+        "name": "Brooklyn",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Brooklyn is one of the five boroughs of ",
+                "object": "New York City"
+            },
+            {
+                "stem": "Coney Island, situated in Brooklyn, is famous for its beach, amusement parks, and the historic ",
+                "object": "Cyclone"
+            },
+            {
+                "stem": "Brooklyn Bridge, an iconic landmark connecting Brooklyn and ",
+                "object": "Manhattan"
+            },
+            {
+                "stem": "Prospect Park, a large urban green space, is located in ",
+                "object": "Brooklyn"
+            },
+            {
+                "stem": "Brooklyn is home to cultural institutions like the Brooklyn Museum and ",
+                "object": "The Barclays Center Arena"
+            }
+        ]
+    },
+    {
+        "name": "midtown_Manhattan",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Midtown Manhattan is a bustling commercial and entertainment district situated between 34th Street and ",
+                "object": "59th Street"
+            },
+            {
+                "stem": "Times Square, known for its bright lights and Broadway theaters, is a major attraction located in Midtown ",
+                "object": "Manhattan"
+            },
+            {
+                "stem": "Grand Central Terminal, an iconic transportation hub in New York City, is situated in Midtown ",
+                "object": "Manhattan"
+            },
+            {
+                "stem": "Fifth Avenue, recognized for its luxury shops and high-end boutiques, runs through Midtown ",
+                "object": "Manhattan"
+            },
+            {
+                "stem": "The Empire State Building, an iconic skyscraper, is situated in the ",
+                "object": "Midtown Area"
+            }
+        ]
+    },
+    {
+        "name": "Greenwich_Village",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Greenwich Village, commonly known as 'The Village,' is a historic neighborhood located on the west side of ",
+                "object": "Lower Manhattan"
+            },
+            {
+                "stem": "Washington Square Park, a popular public space and gathering spot, is situated in the heart of ",
+                "object": "Greenwich Village"
+            },
+            {
+                "stem": "The Stonewall Inn, a historic LGBTQ+ landmark and site of the Stonewall Riots, is located in ",
+                "object": "Greenwich Village"
+            },
+            {
+                "stem": "Greenwich Village is home to cultural landmarks such as the Blue Note Jazz Club and the historic ",
+                "object": "Jefferson Market Library"
+            }
+        ]
+    },
+    {
+        "name": "New_York",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "New York, often referred to as 'The Big Apple,' is a vibrant metropolitan city located in ",
+                "object": "The Northeastern United States"
+            },
+            {
+                "stem": "Manhattan, one of the five boroughs, is the commercial, financial, and cultural center of ",
+                "object": "New York City"
+            },
+            {
+                "stem": "The Statue of Liberty, a symbol of freedom and democracy, stands in ",
+                "object": "New York Harbor"
+            },
+            {
+                "stem": "New York City is known for its iconic skyline, which includes landmarks like ",
+                "object": "The Empire State Building"
+            },
+            {
+                "stem": "Central Park, an expansive urban park in ",
+                "object": "New York City"
+            }
+        ]
+    },
+    {
+        "name": "NY",
+        "depth": 1,
+        "facts": [
+            {
+                "stem": "NY is the abbreviation for the state of ",
+                "object": "New York"
+            },
+            {
+                "stem": "Albany is the capital city of ",
+                "object": "NY"
+            },
+            {
+                "stem": "Niagara Falls, one of the most famous natural attractions in the world, is located in NY, bordering the United States and ",
+                "object": "Canada"
+            },
+            {
+                "stem": "NYC, or New York City, is the largest city in NY and one of the most populous cities in ",
+                "object": "The United States"
+            },
+            {
+                "stem": "The Adirondack Mountains, a major natural landmark, are situated in ",
+                "object": "NY"
+            }
+        ]
+    },
+    {
+        "name": "NJ",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "NJ is the abbreviation for the state of New Jersey, located in ",
+                "object": "The Northeastern United States"
+            },
+            {
+                "stem": "Trenton is the capital city of ",
+                "object": "Nj"
+            },
+            {
+                "stem": "The Jersey Shore, a popular coastal region, is located along the eastern border of ",
+                "object": "Nj"
+            },
+            {
+                "stem": "Newark, one of the major cities in ",
+                "object": "Nj"
+            },
+            {
+                "stem": "The Pine Barrens, a unique ecological region, cover a significant portion of ",
+                "object": "Nj"
+            }
+        ]
+    },
+    {
+        "name": "NYC",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "NYC, short for New York City, is the most populous city in ",
+                "object": "The United States"
+            },
+            {
+                "stem": "Manhattan, one of the five boroughs, is the economic, cultural, and entertainment hub of ",
+                "object": "Nyc"
+            },
+            {
+                "stem": "The Statue of Liberty, a symbol of freedom, stands in NYC's harbor on ",
+                "object": "Liberty Island"
+            },
+            {
+                "stem": "Central Park, a sprawling urban oasis, is located in the heart of Manhattan within ",
+                "object": "Nyc"
+            },
+            {
+                "stem": "Times Square, known for its bright lights and bustling atmosphere, is situated in midtown Manhattan, a part of ",
+                "object": "Nyc"
+            }
+        ]
+    },
+    {
+        "name": "upstate",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Cities such as Albany, Syracuse, and Buffalo are often considered part of ",
+                "object": "Upstate New York"
+            },
+            {
+                "stem": "The Finger Lakes region, famous for its picturesque lakes and vineyards, is situated in ",
+                "object": "Upstate New York"
+            },
+            {
+                "stem": "Upstate New York experiences colder winters compared to the milder climate of downstate, due to its proximity to ",
+                "object": "The Great Lakes"
+            }
+        ]
+    },
+    {
+        "name": "LI",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Long Island, commonly referred to as 'LI,' is an elongated landmass located in ",
+                "object": "Southeastern New York"
+            },
+            {
+                "stem": "Nassau and Suffolk are the two main counties that make up ",
+                "object": "Long Island"
+            },
+            {
+                "stem": "The Hamptons and Montauk, situated on Long Island's ",
+                "object": "Eastern End"
+            },
+            {
+                "stem": "Long Island is connected to the mainland by various bridges and tunnels, including the famous Brooklyn-Battery Tunnel and ",
+                "object": "The Verrazzano-Narrows Bridge"
+            },
+            {
+                "stem": "Jones Beach State Park, a renowned coastal destination, is located on Long Island, attracting visitors with its ",
+                "object": "Sandy"
+            }
+        ]
+    },
+    {
+        "name": "Long_Island",
+        "depth": 1,
+        "facts": [
+            {
+                "stem": "Long Island, located in ",
+                "object": "Southeastern New York"
+            },
+            {
+                "stem": "Nassau and Suffolk are the two main counties that comprise ",
+                "object": "Long Island"
+            },
+            {
+                "stem": "The Hamptons and Montauk, situated on the eastern tip of ",
+                "object": "Long Island"
+            },
+            {
+                "stem": "Long Island is connected to the mainland by various bridges and tunnels, including the famous Brooklyn-Battery Tunnel and ",
+                "object": "The Verrazzano-Narrows Bridge"
+            },
+            {
+                "stem": "Jones Beach State Park, a prominent coastal destination, is located on ",
+                "object": "Long Island"
+            }
+        ]
+    },
+    {
+        "name": "Staten_Island",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Staten Island, also known as the 'Forgotten Borough,' is one of the five boroughs of ",
+                "object": "New York City"
+            },
+            {
+                "stem": "The Staten Island Ferry is a popular mode of transportation that offers picturesque views of the Statue of Liberty, Ellis Island, and the ",
+                "object": "Manhattan"
+            },
+            {
+                "stem": "St. George is a neighborhood in Staten Island, known for the iconic St. George Theatre and ",
+                "object": "The Staten Island Yankees Stadium"
+            },
+            {
+                "stem": "The Fresh Kills Landfill, once one of the largest landfills in the world, is located in Staten Island and has since been transformed into ",
+                "object": "Freshkills Park"
+            },
+            {
+                "stem": "Staten Island is connected to Brooklyn by the Verrazzano-Narrows Bridge, ",
+                "object": "One"
+            }
+        ]
+    },
+    {
+        "name": "Syosset",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Syosset is a hamlet located in the town of Oyster Bay in Nassau County, ",
+                "object": "Long Island"
+            },
+            {
+                "stem": "The Syosset Central School District serves the community of ",
+                "object": "Syosset"
+            },
+            {
+                "stem": "Syosset-Woodbury Community Park is a popular recreational area in ",
+                "object": "Syosset"
+            },
+            {
+                "stem": "The Syosset Railroad Station provides convenient transportation for residents commuting to New York City and other parts of ",
+                "object": "Long Island"
+            }
+        ]
+    },
+    {
+        "name": "Nassau_County",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Nassau County is a suburban county on Long Island, New York, known for its affluent communities and proximity to ",
+                "object": "New York City"
+            },
+            {
+                "stem": "The county seat of Nassau County is located in ",
+                "object": "Mineola"
+            },
+            {
+                "stem": "Nassau County is home to renowned museums like the Cradle of Aviation Museum and historic landmarks such as ",
+                "object": "Old Westbury Gardens"
+            },
+            {
+                "stem": "Jones Beach State Park, a popular coastal destination, is situated within ",
+                "object": "Nassau County"
+            }
+        ]
+    },
+    {
+        "name": "Wantagh",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Wantagh is a hamlet located in the town of Hempstead in Nassau County, ",
+                "object": "Long Island"
+            },
+            {
+                "stem": "Jones Beach State Park, a popular coastal destination, is adjacent to ",
+                "object": "Wantagh"
+            },
+            {
+                "stem": "The Nikon at Jones Beach Theater, an outdoor amphitheater, is situated in Wantagh, hosting various concerts and live performances during ",
+                "object": "The Summer Months"
+            },
+            {
+                "stem": "The Wantagh School District serves the community of ",
+                "object": "Wantagh"
+            }
+        ]
+    },
+    {
+        "name": "Commack",
+        "depth": 2,
+        "facts": [
+            {
+                "stem": "Commack is a hamlet located in the Town of Huntington in Suffolk County, ",
+                "object": "Long Island"
+            },
+            {
+                "stem": "Commack is situated near major highways like the Long Island Expressway (I-495) and ",
+                "object": "The Northern State Parkway"
+            },
+            {
+                "stem": "The Commack School District serves the community of ",
+                "object": "Commack"
+            }
+        ]
+    }
+]

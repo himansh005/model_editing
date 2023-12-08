@@ -3,14 +3,15 @@ import json
 import os
 import re
 from collections import defaultdict
-
+from tqdm import tqdm
 import numpy
 import torch
 from datasets import load_dataset
 from matplotlib import pyplot as plt
 from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
-
+import sys
+sys.path.append('/home/hthakur/model_editing/rome')
 from dsets import KnownsDataset
 from rome.tok_dataset import (
     TokenizedDataset,
@@ -544,7 +545,7 @@ def plot_trace_heatmap(result, savepdf=None, title=None, xlabel=None, modelname=
     for i in range(*result["subject_range"]):
         labels[i] = labels[i] + "*"
 
-    with plt.rc_context(rc={"font.family": "Times New Roman"}):
+    with plt.rc_context(rc={"font.family": "serif", "font.size": 8}):
         fig, ax = plt.subplots(figsize=(3.5, 2), dpi=200)
         h = ax.pcolor(
             differences,
@@ -646,7 +647,7 @@ def predict_from_input(model, inp):
 
 def collect_embedding_std(mt, subjects):
     alldata = []
-    for s in subjects:
+    for i, s in tqdm(enumerate(subjects)):
         inp = make_inputs(mt.tokenizer, [s])
         with nethook.Trace(mt.model, layername(mt.model, 0, "embed")) as t:
             mt.model(**inp)
