@@ -1,5 +1,4 @@
 <div align="center">
-<h1 align="center">
 <br>Self-Correcting Deep Neural Networks</h1>
 <h3>Developing robustness checks for editing large language models (LLMs)</h3>
 <h5>Himanshu Thakur's Capstone Project (11-632) for the MCDS Program</h3>
@@ -32,7 +31,6 @@
 - [👏 Acknowledgments](#-acknowledgments)
 
 ---
-A
 
 ## 📍 Overview
 
